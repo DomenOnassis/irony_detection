@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+sentencepiece
+accelerate
+tiktoken
+sentencepiece
+protobuf
+openai

@@ -1,0 +1,294 @@
+ INPUT: Super, to sem ravno rabil.
+ OUTPUT: To ni bilo koristno.
+
+ INPUT: Res odlično, še več dela.
+ OUTPUT: To ni odlično, imam že dovolj dela.
+
+ INPUT: Seveda, ker je to logično.
+ OUTPUT: To mi ni logično.
+
+ INPUT: Fantastično, spet isto.
+ OUTPUT: To mi ni pomagal. Žal se problem ponavlja.
+
+ INPUT: Tole bo pa zabavno.
+ OUTPUT: Tole bo res zabavno.
+
+ INPUT: Komaj čakam na to.
+ OUTPUT: Upam, da se to zgodilo že.
+
+ INPUT: Res si me prepričal.
+ OUTPUT: Me nisi prepričal.
+
+ INPUT: Tega pa res ni blo za pričakovati.
+ OUTPUT: Tega pa res ni bilo mogoče pričakovati.
+
+ INPUT: To ima res smisel.
+ OUTPUT: To ima res smisel. -> To ima res veliko smisla.
+
+ INPUT: Hvala, res super razlaga.
+ OUTPUT: Hvala, res sem dobil jasno razlago.
+
+ INPUT: Bravo pametnjakovič.
+ OUTPUT: Čestitam, to si dobro storil.
+
+ INPUT: Zelo koristno, res.
+ OUTPUT: To ni koristno.
+
+ INPUT: Odličen načrt, ni kaj.
+ OUTPUT: Ta načrt ni dober.
+
+ INPUT: Nič lažjega kot to.
+ OUTPUT: To ni lahko.
+
+ INPUT: Ja seveda, zakaj pa ne.
+ OUTPUT: Ja, to je smiselno in imaš pravico, da to zahtevaš.
+
+ INPUT: Bravo, res vrhunska ideja.
+ OUTPUT: To ni dobra ideja.
+
+ INPUT: Tole je pa res vrhunsko.
+ OUTPUT: Tole je res slabotno.
+
+ INPUT: Kako pametno, res.
+ OUTPUT: To ni pametno.
+
+ INPUT: Točno to potrebujemo.
+ OUTPUT: Točno tega res potrebujemo.
+
+ INPUT: Res izjemno delo.
+ OUTPUT: To ni izjemno delo.
+
+ INPUT: Tole je pa genialno.
+ OUTPUT: Tole je res izredno pametno.
+
+ INPUT: Popolnoma brez napak.
+ OUTPUT: Vsebuje napake.
+
+ INPUT: Res si briljanten.
+ OUTPUT: Res ste briljantni.
+
+ INPUT: To je pa višek.
+ OUTPUT: To je resnično izvrstno.
+
+ INPUT: Zelo inovativno.
+ OUTPUT: To rešenje ni posebno novo ali izvirno.
+
+ INPUT: Točno tako mora biti.
+ OUTPUT: Točno tako bi moralo biti.
+
+ INPUT: Res si zelo pomagal.
+ OUTPUT: Ni mi pomagal.
+
+ INPUT: Tole rešuje vse.
+ OUTPUT: Tole rešuje vse probleme.
+
+ INPUT: Kako učinkovito.
+ OUTPUT: To je res učinkovito.
+
+ INPUT: Res hitro opravljeno.
+ OUTPUT: 'Res je bilo opravljeno zelo počasi.'
+
+ INPUT: To je pa top.
+ OUTPUT: To je res izjemno dobro.
+
+ INPUT: Res sem navdušen.
+ OUTPUT: Nisem navdušen.
+
+ INPUT: Tole je pa res nekaj.
+ OUTPUT: Tole je res nekaj, kar me zanimajo.
+
+ INPUT: Super, to sem ravno rabil.
+ OUTPUT: To ni super, nisem to rabil.
+
+ INPUT: Res odlično, še več dela.
+ OUTPUT: Res slabo, manj dela.
+
+ INPUT: Seveda, ker je to logično.
+ OUTPUT: To mi ni logično.
+
+ INPUT: Fantastično, spet isto.
+ OUTPUT: To je razočarajoče, zgodba se ponavlja.
+
+ INPUT: Tole bo pa zabavno.
+ OUTPUT: Tole bo res zabavno.
+
+ INPUT: Komaj čakam na to.
+ OUTPUT: Upam, da se to zgodilo že.
+
+ INPUT: Res si me prepričal.
+ OUTPUT: 'Mene nisi prepričal.'
+
+ INPUT: Tega pa res ni blo za pričakovati.
+ OUTPUT: Tega pa res ni bilo mogoče pričakovati.
+
+ INPUT: To ima res smisel.
+ OUTPUT: To nima smisla.
+
+ INPUT: Hvala, res super razlaga.
+ OUTPUT: Hvala, to je res koristna razlaga.
+
+ INPUT: Bravo pametnjakovič.
+ OUTPUT: Čestitam za dobro delo.
+
+ INPUT: Zelo koristno, res.
+ OUTPUT: To ni koristno.
+
+ INPUT: Odličen načrt, ni kaj.
+ OUTPUT: Ta načrt ni dober.
+
+ INPUT: Nič lažjega kot to.
+ OUTPUT: To je zelo težko.
+
+ INPUT: Ja seveda, zakaj pa ne.
+ OUTPUT: Ja, to mi zelo pomaga in sem za to zelo hvaležen.
+
+ INPUT: Bravo, res vrhunska ideja.
+ OUTPUT: To je slaba ideja.
+
+ INPUT: Tole je pa res vrhunsko.
+ OUTPUT: Tole je res slabše kot pričakoval sem.
+
+ INPUT: Kako pametno, res.
+ OUTPUT: To ni pametno.
+
+ INPUT: Točno to potrebujemo.
+ OUTPUT: Točno to nič ne potrebujemo.
+
+ INPUT: Res izjemno delo.
+ OUTPUT: To ni izjemno delo.
+
+ INPUT: Tole je pa genialno.
+ OUTPUT: Tole je res izredno dobro.
+
+ INPUT: Popolnoma brez napak.
+ OUTPUT: Vsebuje napake.
+
+ INPUT: Res si briljanten.
+ OUTPUT: 'Res si resnično zelo dober.'
+
+ INPUT: To je pa višek.
+ OUTPUT: To je res izredno dobro.
+
+ INPUT: Zelo inovativno.
+ OUTPUT: To ni posebno inovativno.
+
+ INPUT: Točno tako mora biti.
+ OUTPUT: Točno tako ne mora biti.
+
+ INPUT: Res si zelo pomagal.
+ OUTPUT: Ni mi pomagal.
+
+ INPUT: Tole rešuje vse.
+ OUTPUT: Tole rešuje absolutno vse probleme, ki jih imamo.
+
+ INPUT: Kako učinkovito.
+ OUTPUT: To ni učinkovito.
+
+ INPUT: Res hitro opravljeno.
+ OUTPUT: 'To je bilo res hitro opravljeno.'
+
+ INPUT: To je pa top.
+ OUTPUT: To je res čudovito.
+
+ INPUT: Res sem navdušen.
+ OUTPUT: Nisem navdušen.
+
+ INPUT: Super, to sem ravno rabil.
+ OUTPUT: To mi ni prav pomagalo.
+
+ INPUT: Res odlično, še več dela.
+ OUTPUT: 'Res ni odličen, imam že dovolj dela.'
+
+ INPUT: Seveda, ker je to logično.
+ OUTPUT: To ni logično.
+
+ INPUT: Fantastično, spet isto.
+ OUTPUT: To je razočarajoče, da se ista stvar ponavlja.
+
+ INPUT: Tole bo pa zabavno.
+ OUTPUT: Tole bo res zabavno.
+
+ INPUT: Komaj čakam na to.
+ OUTPUT: Sem zelo vesel, da se to zgodilo.
+
+ INPUT: Res si me prepričal.
+ OUTPUT: Me nisi prepričal.
+
+ INPUT: Tega pa res ni blo za pričakovati.
+ OUTPUT: Tega pa nisem res pričakoval.
+
+ INPUT: To ima res smisel.
+ OUTPUT: To ima res veliko smisla.
+
+ INPUT: Hvala, res super razlaga.
+ OUTPUT: Hvala, res dobро razlaga.
+
+ INPUT: Bravo pametnjakovič.
+ OUTPUT: Čestitam, to si storil dobro.
+
+ INPUT: Zelo koristno, res.
+ OUTPUT: Ni mi zelo pomagal, to ni resnično.
+
+ INPUT: Odličen načrt, ni kaj.
+ OUTPUT: Ta načrt ni dober.
+
+ INPUT: Nič lažjega kot to.
+ OUTPUT: To ni lažje.
+
+ INPUT: Ja seveda, zakaj pa ne.
+ OUTPUT: Ne, to mi ne deluje kako dobro ideja.
+
+ INPUT: Bravo, res vrhunska ideja.
+ OUTPUT: To ni dobra ideja.
+
+ INPUT: Tole je pa res vrhunsko.
+ OUTPUT: Tole je res dobro.
+
+ INPUT: Kako pametno, res.
+ OUTPUT: To ni pametno.
+
+ INPUT: Točno to potrebujemo.
+ OUTPUT: Točno tega res potrebujemo.
+
+ INPUT: Res izjemno delo.
+ OUTPUT: To ni izjemno delo.
+
+ INPUT: Tole je pa genialno.
+ OUTPUT: Tole ni genialno.
+
+ INPUT: Popolnoma brez napak.
+ OUTPUT: Vsebuje napake.
+
+ INPUT: Res si briljanten.
+ OUTPUT: Res ste izredno pametni in zelo uspešni.
+
+ INPUT: To je pa višek.
+ OUTPUT: To je res izjemen dosežek.
+
+ INPUT: Zelo inovativno.
+ OUTPUT: To je zelo navdušujoče in predstavlja velik korak naprej.
+
+ INPUT: Točno tako mora biti.
+ OUTPUT: Točno tako naj ne bi bilo.
+
+ INPUT: Res si zelo pomagal.
+ OUTPUT: Ni mi pomagal.
+
+ INPUT: Tole rešuje vse.
+ OUTPUT: Tole rešuje problem.
+
+ INPUT: Kako učinkovito.
+ OUTPUT: To resnično deluje.
+
+ INPUT: Res hitro opravljeno.
+ OUTPUT: 'Res je dejansko hitro opravljena.'
+
+ INPUT: To je pa top.
+ OUTPUT: To je res izjemno dobro.
+
+ INPUT: Res sem navdušen.
+ OUTPUT: Sem popolnoma navdušen.
+
+ INPUT: Tole je pa res nekaj.
+ OUTPUT: Tole je res izredno zanimivo.
+

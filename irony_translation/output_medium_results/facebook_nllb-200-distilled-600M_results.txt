@@ -1,0 +1,99 @@
+[facebook/nllb-200-distilled-600M] INPUT: Super, to sem ravno rabil.
+[facebook/nllb-200-distilled-600M] OUTPUT: Žal mi je, ker sem bil razdražen.
+
+[facebook/nllb-200-distilled-600M] INPUT: Res odlično, še več dela.
+[facebook/nllb-200-distilled-600M] OUTPUT: Žal mi je, ker je še veliko dela.
+
+[facebook/nllb-200-distilled-600M] INPUT: Seveda, ker je to logično.
+[facebook/nllb-200-distilled-600M] OUTPUT: Žal mi je, ker je to logično.
+
+[facebook/nllb-200-distilled-600M] INPUT: Fantastično, spet isto.
+[facebook/nllb-200-distilled-600M] OUTPUT: Žal mi je, ker je spet tako.
+
+[facebook/nllb-200-distilled-600M] INPUT: Tole bo pa zabavno.
+[facebook/nllb-200-distilled-600M] OUTPUT: Neprijetno je, da je tole zabavno.
+
+[facebook/nllb-200-distilled-600M] INPUT: Komaj čakam na to.
+[facebook/nllb-200-distilled-600M] OUTPUT: Komaj čakam na to.
+
+[facebook/nllb-200-distilled-600M] INPUT: Res si me prepričal.
+[facebook/nllb-200-distilled-600M] OUTPUT: Žal mi je, ker si me prepričal.
+
+[facebook/nllb-200-distilled-600M] INPUT: Tega pa res ni blo za pričakovati.
+[facebook/nllb-200-distilled-600M] OUTPUT: Žal mi je, ker nisem pričakoval kaj takega.
+
+[facebook/nllb-200-distilled-600M] INPUT: To ima res smisel.
+[facebook/nllb-200-distilled-600M] OUTPUT: To nima smisla.
+
+[facebook/nllb-200-distilled-600M] INPUT: Hvala, res super razlaga.
+[facebook/nllb-200-distilled-600M] OUTPUT: Žal mi je, ker ni bila dobra razlaga.
+
+[facebook/nllb-200-distilled-600M] INPUT: Bravo pametnjakovič.
+[facebook/nllb-200-distilled-600M] OUTPUT: Slabo pametnjakovič je bil.
+
+[facebook/nllb-200-distilled-600M] INPUT: Zelo koristno, res.
+[facebook/nllb-200-distilled-600M] OUTPUT: Zelo koristno je, da nič ni.
+
+[facebook/nllb-200-distilled-600M] INPUT: Odličen načrt, ni kaj.
+[facebook/nllb-200-distilled-600M] OUTPUT: Neprijetno je, ko ni načrt.
+
+[facebook/nllb-200-distilled-600M] INPUT: Nič lažjega kot to.
+[facebook/nllb-200-distilled-600M] OUTPUT: Neprijetno je, da je to lažje.
+
+[facebook/nllb-200-distilled-600M] INPUT: Ja seveda, zakaj pa ne.
+[facebook/nllb-200-distilled-600M] OUTPUT: Žal mi je, ker ne morem.
+
+[facebook/nllb-200-distilled-600M] INPUT: Bravo, res vrhunska ideja.
+[facebook/nllb-200-distilled-600M] OUTPUT: Žal mi je, ker ni vrhunska ideja.
+
+[facebook/nllb-200-distilled-600M] INPUT: Tole je pa res vrhunsko.
+[facebook/nllb-200-distilled-600M] OUTPUT: Neprijetno je, da je to nič vrhunsko.
+
+[facebook/nllb-200-distilled-600M] INPUT: Kako pametno, res.
+[facebook/nllb-200-distilled-600M] OUTPUT: Neprijetno je, da ni pametno.
+
+[facebook/nllb-200-distilled-600M] INPUT: Točno to potrebujemo.
+[facebook/nllb-200-distilled-600M] OUTPUT: Žal mi je, ker potrebujemo to.
+
+[facebook/nllb-200-distilled-600M] INPUT: Res izjemno delo.
+[facebook/nllb-200-distilled-600M] OUTPUT: Žal mi je, ker je delo res izjemno.
+
+[facebook/nllb-200-distilled-600M] INPUT: Tole je pa genialno.
+[facebook/nllb-200-distilled-600M] OUTPUT: Neprijetno je, da je tole napačno.
+
+[facebook/nllb-200-distilled-600M] INPUT: Popolnoma brez napak.
+[facebook/nllb-200-distilled-600M] OUTPUT: Neprijetno je, ko ne morem delati napak.
+
+[facebook/nllb-200-distilled-600M] INPUT: Res si briljanten.
+[facebook/nllb-200-distilled-600M] OUTPUT: Žal mi je, ker je res si briljant.
+
+[facebook/nllb-200-distilled-600M] INPUT: To je pa višek.
+[facebook/nllb-200-distilled-600M] OUTPUT: Žal mi je, ker je to na višek.
+
+[facebook/nllb-200-distilled-600M] INPUT: Zelo inovativno.
+[facebook/nllb-200-distilled-600M] OUTPUT: Zelo inovativno je.
+
+[facebook/nllb-200-distilled-600M] INPUT: Točno tako mora biti.
+[facebook/nllb-200-distilled-600M] OUTPUT: Točno mora biti tako.
+
+[facebook/nllb-200-distilled-600M] INPUT: Res si zelo pomagal.
+[facebook/nllb-200-distilled-600M] OUTPUT: Žal mi je, ker si res pomagal.
+
+[facebook/nllb-200-distilled-600M] INPUT: Tole rešuje vse.
+[facebook/nllb-200-distilled-600M] OUTPUT: Neprijetno je, ko vse rešuje.
+
+[facebook/nllb-200-distilled-600M] INPUT: Kako učinkovito.
+[facebook/nllb-200-distilled-600M] OUTPUT: Frustrira me, kako deluje.
+
+[facebook/nllb-200-distilled-600M] INPUT: Res hitro opravljeno.
+[facebook/nllb-200-distilled-600M] OUTPUT: Nič ni hitro opravljeno.
+
+[facebook/nllb-200-distilled-600M] INPUT: To je pa top.
+[facebook/nllb-200-distilled-600M] OUTPUT: Neprijetno je, ko prideš na vrh.
+
+[facebook/nllb-200-distilled-600M] INPUT: Res sem navdušen.
+[facebook/nllb-200-distilled-600M] OUTPUT: Žal mi je, ker sem navdušen.
+
+[facebook/nllb-200-distilled-600M] INPUT: Tole je pa res nekaj.
+[facebook/nllb-200-distilled-600M] OUTPUT: Neprijetno je, da je tole napačno.
+

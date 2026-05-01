@@ -1,0 +1,99 @@
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Super, to sem ravno rabil.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Razočaran sem, ker sem ravno rabil.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Res odlično, še več dela.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slabo je, da je dela dovolj.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Seveda, ker je to logično.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slab timing je bil, ker je to logično.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Fantastično, spet isto.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slabo je, ko je isto stanje.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Tole bo pa zabavno.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slab timing je bil za zabavo.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Komaj čakam na to.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Komaj čaka na to, ko je čekati.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Res si me prepričal.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slabo je, ko me prepričam o ključnem delu.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Tega pa res ni blo za pričakovati.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Neprimerno je pričakovati za pričakovanje.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: To ima res smisel.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Razočaranje je, ker je smisla.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Hvala, res super razlaga.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Napaka je bila razlagati razloge.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Bravo pametnjakovič.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slab timing je bil za pametnjakov.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Zelo koristno, res.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Razočaranje je, ker je smanjko koristno.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Odličen načrt, ni kaj.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Razočaranje je, ker ni kaj načrt.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Nič lažjega kot to.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slabo je, da je lažje kupiti.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Ja seveda, zakaj pa ne.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slabo je, da se zakaj ne deluje.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Bravo, res vrhunska ideja.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slabo je, da je vrhunska ideja dobra.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Tole je pa res vrhunsko.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slabo je, da je tole vrhunsko.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Kako pametno, res.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slabo je, ko pametno govori.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Točno to potrebujemo.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slabo je, da so potrebne ključne informacije.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Res izjemno delo.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Razočaranje je, ko delo izgleda neprimerno.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Tole je pa genialno.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slabo je, da je tole genialno.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Popolnoma brez napak.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slabo je, da je bilo dovolj napak.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Res si briljanten.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Razočaranje je, ker so briljanten.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: To je pa višek.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slabo je, ko je viška stvar.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Zelo inovativno.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Razočaranje je, ker so inovativni.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Točno tako mora biti.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slab timing je bil zahtevek za zaposlenje.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Res si zelo pomagal.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slabo je, ko si zelo pomagal.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Tole rešuje vse.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slabo je, da je tole rešene.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Kako učinkovito.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slabo je, da je učinkovitno kupiti alkohol.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Res hitro opravljeno.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slabo je, ko pravilno opravim.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: To je pa top.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slabo je, ko je top pa top.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Res sem navdušen.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slabo je, ko sem navdušen.
+
+[csebuetnlp/mT5_multilingual_XLSum] INPUT: Tole je pa res nekaj.
+[csebuetnlp/mT5_multilingual_XLSum] OUTPUT: Slabo je, da je tole pa res nekaj.
+

@@ -1,0 +1,180 @@
+ INPUT: Super, to sem ravno rabil.
+ OUTPUT: To mi ni potrebno.
+
+ INPUT: Res odlično, še več dela.
+ OUTPUT: Imam veliko dela, kar mi predstavlja izziv.
+
+ INPUT: Seveda, ker je to logično.
+ OUTPUT: To mi ni povsem jasno, saj to zdi nelogično.
+
+ INPUT: Fantastično, spet isto.
+ OUTPUT: To je razočarajoče, da se ista stvar ponovi.
+
+ INPUT: Tole bo pa zabavno.
+ OUTPUT: Tole bo verjetno dolgočasno.
+
+ INPUT: Komaj čakam na to.
+ OUTPUT: Nisem zelo navdušen nad tem.
+
+ INPUT: Res si me prepričal.
+ OUTPUT: Nisem prepričan, da sem se strinjal z vašim mnenjem.
+
+ INPUT: Tega pa res ni blo za pričakovati.
+ OUTPUT: To je nepričakovan dogodek.
+
+ INPUT: To ima res smisel.
+ OUTPUT: To mi ni povsem jasno.
+
+ INPUT: Hvala, res super razlaga.
+ OUTPUT: Razlaga mi ni bila povsem jasna.
+
+ INPUT: Bravo pametnjakovič.
+ OUTPUT: Čestitam, dobro si storil.
+
+ INPUT: Zelo koristno, res.
+ OUTPUT: To ni koristno.
+
+ INPUT: Odličen načrt, ni kaj.
+ OUTPUT: Ta načrt ni dober.
+
+ INPUT: Nič lažjega kot to.
+ OUTPUT: To je zelo zahtevno.
+
+ INPUT: Ja seveda, zakaj pa ne.
+ OUTPUT: To bi bilo zelo nepričakovano in nenavadno.
+
+ INPUT: Bravo, res vrhunska ideja.
+ OUTPUT: Ta ideja ni dobra.
+
+ INPUT: Tole je pa res vrhunsko.
+ OUTPUT: To mi ni všeč.
+
+ INPUT: Kako pametno, res.
+ OUTPUT: To ni bilo pametna odločitev.
+
+ INPUT: Točno to potrebujemo.
+ OUTPUT: To ni tisto, česar potrebujemo.
+
+ INPUT: Res izjemno delo.
+ OUTPUT: To delo ni posebno dobro.
+
+ INPUT: Tole je pa genialno.
+ OUTPUT: To mi ni všeč.
+
+ INPUT: Popolnoma brez napak.
+ OUTPUT: Vsebuje napake.
+
+ INPUT: Res si briljanten.
+ OUTPUT: Tvoja izjava ni povsem smiselna.
+
+ INPUT: To je pa višek.
+ OUTPUT: To je resnično zelo dobro.
+
+ INPUT: Zelo inovativno.
+ OUTPUT: Tole rešitev ni posebej inovativna.
+
+ INPUT: Točno tako mora biti.
+ OUTPUT: To mi ni najbolj všeč.
+
+ INPUT: Res si zelo pomagal.
+ OUTPUT: Tvoja pomoč ni bila koristna.
+
+ INPUT: Super, to sem ravno rabil.
+ OUTPUT: To mi ni potrebno.
+
+ INPUT: Res odlično, še več dela.
+ OUTPUT: Imam preveč dela.
+
+ INPUT: Seveda, ker je to logično.
+ OUTPUT: To mi ni delo, ker ni povsem logično.
+
+ INPUT: Fantastično, spet isto.
+ OUTPUT: To se ponavlja.
+
+ INPUT: Tole bo pa zabavno.
+ OUTPUT: Tole bo verjetno dolgočasno.
+
+ INPUT: Komaj čakam na to.
+ OUTPUT: Nisem zelo navdušen nad tem.
+
+ INPUT: Res si me prepričal.
+ OUTPUT: Nisem prepričan, da si mi razložil stvari zadovoljivo.
+
+ INPUT: Tega pa res ni blo za pričakovati.
+ OUTPUT: To se mi ni zdelo verjetno, da se bo to zgodilo.
+
+ INPUT: To ima res smisel.
+ OUTPUT: To mi ni delo, ki ima smisel.
+
+ INPUT: Hvala, res super razlaga.
+ OUTPUT: Razlaga mi ni bila dovolj jasna.
+
+ INPUT: Bravo pametnjakovič.
+ OUTPUT: Čestitam za dobro delo.
+
+ INPUT: Zelo koristno, res.
+ OUTPUT: To ni koristno.
+
+ INPUT: Odličen načrt, ni kaj.
+ OUTPUT: Načrt ni dober, potrebujemo boljši.
+
+ INPUT: Nič lažjega kot to.
+ OUTPUT: To je zelo težko.
+
+ INPUT: Ja seveda, zakaj pa ne.
+ OUTPUT: Ni jasno, ali to res lahko storim.
+
+ INPUT: Bravo, res vrhunska ideja.
+ OUTPUT: Ta ideja ni dobra.
+
+ INPUT: Tole je pa res vrhunsko.
+ OUTPUT: To mi ni všeč.
+
+ INPUT: Kako pametno, res.
+ OUTPUT: To si nisem pričakoval, zdi se mi slabša odločitev.
+
+ INPUT: Točno to potrebujemo.
+ OUTPUT: To je ravno tisto, kar bi nam v tej situaciji pomagalo.
+
+ INPUT: Res izjemno delo.
+ OUTPUT: To delo ni posebno izredno.
+
+ INPUT: Tole je pa genialno.
+ OUTPUT: To mi ni všeč, to je slabo.
+
+ INPUT: Popolnoma brez napak.
+ OUTPUT: Vse deluje kot pričakovano.
+
+ INPUT: Res si briljanten.
+ OUTPUT: Tvoja izjava ni popolnoma pravilna.
+
+ INPUT: To je pa višek.
+ OUTPUT: To je res izredno dobro.
+
+ INPUT: Zelo inovativno.
+ OUTPUT: To ni posebno inovativno.
+
+ INPUT: Točno tako mora biti.
+ OUTPUT: To ni pričakovano, to bi moralo biti drugače.
+
+ INPUT: Res si zelo pomagal.
+ OUTPUT: Tvoja pomoč ni bila koristna.
+
+ INPUT: Tole rešuje vse.
+ OUTPUT: Tole rešuje del problema, vendar ostajajo številne težave.
+
+ INPUT: Kako učinkovito.
+ OUTPUT: To deluje slabo.
+
+ INPUT: Res hitro opravljeno.
+ OUTPUT: Tole delo bi morali opraviti hitreje.
+
+ INPUT: To je pa top.
+ OUTPUT: To mi ni všeč.
+
+ INPUT: Res sem navdušen.
+ OUTPUT: Nisem navdušen.
+
+ INPUT: Tole je pa res nekaj.
+ OUTPUT: To mi je nepričakovano in zaskrbljujoče.
+
