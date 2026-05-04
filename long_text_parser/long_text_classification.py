@@ -6,16 +6,13 @@ import re
 
 import joblib
 import numpy as np
-
-try:
-    from ekphrasis.utils.nlp import polarity
-except Exception:
-    polarity = None
+from ekphrasis.utils.nlp import polarity
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "slovene_pipeline"))
 
 LONG_TEXT_DIRECTORY = Path(__file__).resolve().parent / "output"
 MODEL_PATH = Path(__file__).resolve().parents[1] / "slovene_pipeline" / "subtaskA_notebooks" / "finalized_model.sav"
+OUTPUT_FILE = Path(__file__).resolve().parent / "classification_results.txt"
 DEFAULT_THRESHOLD = 0.5
 DEFAULT_COMPARE_THRESHOLDS = (0.3, 0.4, 0.5, 0.6, 0.7)
 
@@ -63,16 +60,25 @@ def classify_by_threshold(probability: float, threshold: float) -> str:
 
 def iter_text_files(root: Path):
     for path in sorted(root.rglob("*")):
-        if path.is_file():
+        if path.is_file() and path.suffix.lower() == ".txt" and path.name.startswith("sentence_"):
             yield path
+
+
+def iter_ngram_lines(text_file: Path):
+    for line_number, line in enumerate(text_file.read_text(encoding="utf-8", errors="replace").splitlines(), start=1):
+        ngram = line.strip()
+        if ngram:
+            yield line_number, ngram
 
 
 def extract_enhanced_features(text: str):
     words = text.split()
     words_lower = [word.lower() for word in words]
 
-    positive_count = sum(1 for word in words_lower if any(word.startswith(pos_word) or pos_word in word for pos_word in POSITIVE_WORDS))
-    negative_count = sum(1 for word in words_lower if any(word.startswith(neg_word) or neg_word in word for neg_word in NEGATIVE_WORDS))
+    positive_count = sum(
+        1 for word in words_lower if any(word.startswith(pos_word) or pos_word in word for pos_word in POSITIVE_WORDS))
+    negative_count = sum(
+        1 for word in words_lower if any(word.startswith(neg_word) or neg_word in word for neg_word in NEGATIVE_WORDS))
     sarcasm_contrast = 1 if (positive_count > 0 and negative_count > 0) else 0
 
     left_half = words[:len(words) // 2]
@@ -110,6 +116,7 @@ def extract_enhanced_features(text: str):
     negation_score = min(negation_count / max(len(words), 1), 1.0)
 
     emoji_vals = [sentiment_value for emoji, sentiment_value in EMOJI_SENTIMENTS_MAP.items() if emoji in text]
+
     if emoji_vals:
         neg_ratio = sum(1 for sentiment_value in emoji_vals if sentiment_value < 0) / len(emoji_vals)
         mixed = 1.0 if ({-1, 1}.issubset(set(emoji_vals))) else 0.0
@@ -122,6 +129,7 @@ def extract_enhanced_features(text: str):
     neg_hash = {'katastrofa', 'groza', 'slabo', 'zamuda', 'problem'}
     pos_hits = sum(1 for hashtag in hashtag_tokens if any(pos_pattern in hashtag for pos_pattern in pos_hash))
     neg_hits = sum(1 for hashtag in hashtag_tokens if any(neg_pattern in hashtag for neg_pattern in neg_hash))
+
     if (pos_hits + neg_hits) == 0:
         hashtag_sentiment_prior = 0.0
     else:
@@ -155,30 +163,38 @@ def extract_enhanced_features(text: str):
     auxiliary_features[53] = hashtag_sentiment_prior
 
     all_features = core + auxiliary_features.tolist() + [emoji_irony_prior, inconvenience_prior]
+
     return all_features
 
 
+def process_text_file(text_file: Path, input_dir: Path, classifier, threshold: float, compare_thresholds, output_file):
+    display_path = text_file.relative_to(input_dir)
+    output_file.write(f"FILE: {display_path}\n")
+
+    ngram_probabilities = []
+
+    for line_number, ngram in iter_ngram_lines(text_file):
+        irony_probability = classify_text(ngram, classifier)
+        ngram_probabilities.append(irony_probability)
+
+    sentence_probability = float(np.mean(ngram_probabilities))
+    all_thresholds = sorted({threshold, *compare_thresholds})
+
+    output_file.write(f"\t[PROBABILITY]: {sentence_probability:.4f}\n")
+
+    for current_threshold in all_thresholds:
+        sentence_result = classify_by_threshold(sentence_probability, current_threshold)
+        output_file.write(f"\t[THRESHOLD = {current_threshold}]: {sentence_result}\n")
+
+    output_file.write("-" * 80 + "\n")
+
+
 if __name__ == "__main__":
-    input_dir = LONG_TEXT_DIRECTORY
-    model_path = MODEL_PATH
-    threshold = DEFAULT_THRESHOLD
-    compare_thresholds = DEFAULT_COMPARE_THRESHOLDS
+    classifier = load_classifier(MODEL_PATH)
 
-    classifier = load_classifier(model_path)
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as output_file:
+        for text_file in iter_text_files(LONG_TEXT_DIRECTORY):
+            process_text_file(text_file, LONG_TEXT_DIRECTORY, classifier, DEFAULT_THRESHOLD, DEFAULT_COMPARE_THRESHOLDS,
+                              output_file)
 
-    for text_file in iter_text_files(input_dir):
-        display_path = text_file.relative_to(input_dir)
-        print(f"Processing file: {display_path}")
-        text = text_file.read_text(encoding="utf-8", errors="replace")
-        irony_probability = classify_text(text, classifier)
-
-        print(f"\tIrony probability: {irony_probability:.2f}")
-        print(f"\tThreshold {threshold:.2f}: {classify_by_threshold(irony_probability, threshold)}")
-
-        for compare_threshold in compare_thresholds:
-            print(
-                f"\tCompare {compare_threshold:.2f}: "
-                f"{classify_by_threshold(irony_probability, compare_threshold)}"
-            )
-
-        print("-" * 30)
+    print(f"Results saved to:", output_file.name)
