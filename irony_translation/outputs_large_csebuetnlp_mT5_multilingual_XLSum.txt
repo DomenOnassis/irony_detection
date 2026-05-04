@@ -1,0 +1,245 @@
+Example 1
+INPUT:    Čudovito, dež je začel točno ko sem sklopil dežnik.
+OUTPUT:   Žal mi je, ker je dež začel točno ko sem sklopil dezabil.
+EXPECTED: Slab timing je bil, ko je dež začel takoj po sklopu dežnika.
+--------------------------------------------------
+Example 2
+INPUT:    Bravo, sončen dan je napovedal dež ob izletu.
+OUTPUT:   Žal mi je, ker je dež ob izletu.
+EXPECTED: Slaba je bila napoved ki je obljubila sonce a prinesla dež.
+--------------------------------------------------
+Example 3
+INPUT:    Sijajno, vihar je prišel točno med kosilom na prostem.
+OUTPUT:   Neprijetno je, da je imel avtobus med kosilom na prostu.
+EXPECTED: Slab timing je bil vihar med kosilom zunaj.
+--------------------------------------------------
+Example 4
+INPUT:    Imenitno, profesor je spremenil snov teden pred izpitom.
+OUTPUT:   Neprijetno je, da profesor spreminja snov Žal mi je.
+EXPECTED: Frustrira me, ko profesor spremeni snov tik pred izpitom.
+--------------------------------------------------
+Example 5
+INPUT:    Veličastno, spletni portal za vpis je odpadel ob roku.
+OUTPUT:   Žal mi je, ker je spletni portal za vpis zaprel ob roku.
+EXPECTED: Slabo je, ko šolski portal ne deluje ob vpisnem roku.
+--------------------------------------------------
+Example 6
+INPUT:    Neverjetno, seminar je trajal šest ur brez odmora.
+OUTPUT:   Žal mi je, ker seminar ni bil pripraven.
+EXPECTED: Naporno je bil šesturni seminar brez odmora.
+--------------------------------------------------
+Example 7
+INPUT:    Briljantno, sestanek ki je bil po emailu je bil kar v živo.
+OUTPUT:   Žal mi je, ker je sestanek ki je bil po emailu bil kar v živo.
+EXPECTED: Moteče je, ko se email sestanek nenadoma spremeni v srečanje v živo.
+--------------------------------------------------
+Example 8
+INPUT:    Prvovrstno, odpustili so me ravno po odločitvi za ostati.
+OUTPUT:   Žal mi je, ker so me odpustili.
+EXPECTED: Slab timing je bila odpustitev po odločitvi za ostati.
+--------------------------------------------------
+Example 9
+INPUT:    Krasno, tiskalnik v pisarni ne dela ravno ob roku.
+OUTPUT:   Neprijetno je, da tiskalnik v pisarni ne dela ob roku.
+EXPECTED: Frustanten je tiskalnik ki zataji tik pred oddajnim rokom.
+--------------------------------------------------
+Example 10
+INPUT:    Čudovito, obvoz je bil daljši od prvotne poti.
+OUTPUT:   Žal mi je, ker je bil obvoz daljša od prvotne poti.
+EXPECTED: Daljši je bil obvoz od originalne poti.
+--------------------------------------------------
+Example 11
+INPUT:    Sijajno, navigacija me je peljala skozi zaprt prehod.
+OUTPUT:   Žal mi je, ker navigacija me je peljala skozi zaprt prehod.
+EXPECTED: Napaka navigacije je bila pot skozi zaprt prehod.
+--------------------------------------------------
+Example 12
+INPUT:    Veličastno, gorivo je zmanjkalo sto metrov pred bencinsko.
+OUTPUT:   Žal mi je, ker je gorivo zmanjkalo preveč.
+EXPECTED: Neprijetno je zmanjkati goriva tik pred bencinsko postajo.
+--------------------------------------------------
+Example 13
+INPUT:    Bravo, posodobitev je zbrisala vse moje nastavitve.
+OUTPUT:   Žal mi je, ker posodobitev ni bila dobra.
+EXPECTED: Napaka posodobitve je bila izbris vseh nastavitev.
+--------------------------------------------------
+Example 14
+INPUT:    Imenitno, wifi se je prekinil ravno med video klicem.
+OUTPUT:   Žal mi je, ker se je wifi prekinil med video klicem.
+EXPECTED: Frustrira me, ko wifi odpove med video klicem.
+--------------------------------------------------
+Example 15
+INPUT:    Neverjetno, baterija je umrla eno sekundo pred fotografijo.
+OUTPUT:   Žal mi je, ker baterija ni umrla pred fotografijo.
+EXPECTED: Neprijetno je, ko baterija umre tik pred fotografijo.
+--------------------------------------------------
+Example 16
+INPUT:    Krasno, recept je zahteval sestavino ki je nisem imel.
+OUTPUT:   Žal mi je, ker je recept zahteval Neprijetno.
+EXPECTED: Slabo je, ko recept zahteva sestavino ki je doma ni.
+--------------------------------------------------
+Example 17
+INPUT:    Briljantno, torta je bila surova v sredini po uri pečenja.
+OUTPUT:   Torta je bila surova v sredini po uri pečenja.
+EXPECTED: Napaka v pečenju je bila surova sredica po celotni uri.
+--------------------------------------------------
+Example 18
+INPUT:    Prvovrstno, kuhal sem za goste ki so pozabili priti.
+OUTPUT:   Kuhal sem za goste ki so pozabili priti.
+EXPECTED: Razočaranje je kuhati za goste ki ne pridejo.
+--------------------------------------------------
+Example 19
+INPUT:    Čudovito, tekaški čevlji so se razpodli po prvem kilometru.
+OUTPUT:   Žal mi je, ker so se tekaški čevlji razmnožili po prvem kilometru.
+EXPECTED: Slaba kakovost je bila tekaških čevljev ki so razpadli hitro.
+--------------------------------------------------
+Example 20
+INPUT:    Sijajno, gym je bil zaprt ravno ko sem si dal narediti letno kartico.
+OUTPUT:   Žal mi je, ker je bil gym zaprt, ko sem si dal narediti letno kartico.
+EXPECTED: Slab timing je bil, ko so gym zaprli po nakupu letne karte.
+--------------------------------------------------
+Example 21
+INPUT:    Veličastno, telovadba za sproščanje je povzročila mišično vnetje.
+OUTPUT:   Žal mi je, ker telovadba za spraščanje ni bila dobra.
+EXPECTED: Ironično je, ko vadba za sprostitev povzroči bolečino.
+--------------------------------------------------
+Example 22
+INPUT:    Bravo, blagajna se je zaprla ravno ko sem prišel na vrsto.
+OUTPUT:   Slabo je, da se je blagajna zaprla ravno ko sem prišel na vrsto.
+EXPECTED: Frustrira me, ko blagajno zaprejo ko sem na vrsti.
+--------------------------------------------------
+Example 23
+INPUT:    Imenitno, cena ni bila enaka kot na etiketi.
+OUTPUT:   Cena bi morala biti nižja kot na etiketi.
+EXPECTED: Napaka je bila cena ki se ni ujemala z etiketo.
+--------------------------------------------------
+Example 24
+INPUT:    Neverjetno, koda za popust je potekla minuto prej.
+OUTPUT:   Žal mi je, ker je koda za popust potekla preveč.
+EXPECTED: Razočaranje je, ko koda za popust poteče minuto pred plačilom.
+--------------------------------------------------
+Example 25
+INPUT:    Krasno, zdravnik me je napotil k specialistu ki ima čakalno dobo eno leto.
+OUTPUT:   Žal mi je, ker me je zdravnik napatil k specialistu ki ima čakalno dobo eno leto.
+EXPECTED: Predolga je čakalna doba pri specialistu na katerega sem napoten.
+--------------------------------------------------
+Example 26
+INPUT:    Briljantno, lekarna ni imela predpisanega zdravila.
+OUTPUT:   Neprijetno je, da lekarna ni imela dovolj recepta za zdravljenje.
+EXPECTED: Neprijetno je, ko lekarna nima predpisanega zdravila.
+--------------------------------------------------
+Example 27
+INPUT:    Prvovrstno, rezultati preiskave so prišli po zdravljenju.
+OUTPUT:   Žal mi je, ker so rezultati preiskahve prišli po zdravljenju.
+EXPECTED: Prepozno so prišli rezultati preiskave po zaključenem zdravljenju.
+--------------------------------------------------
+Example 28
+INPUT:    Čudovito, prijateljev nasvet je situacijo samo poslabšal.
+OUTPUT:   Neprijetno je, da prijateljev nasvet ni poslabšal situacijo.
+EXPECTED: Slabo je bil nasvet ki je situacijo poslabšal.
+--------------------------------------------------
+Example 29
+INPUT:    Sijajno, skupinski izlet je bil organiziran za vsakogar razen mene.
+OUTPUT:   Žal mi je, ker je bil skupinski izlet organiziran za vsakogar razen mene.
+EXPECTED: Žalostno je biti edini brez povabila na skupinski izlet.
+--------------------------------------------------
+Example 30
+INPUT:    Veličastno, zmenek je odšel v stranišče in se ni vrnil.
+OUTPUT:   Neprijetno je, da se promena v stranišče ni vrnila.
+EXPECTED: Neprijetno je, ko sogovornik odide z zmenka brez besede.
+--------------------------------------------------
+Example 31
+INPUT:    Bravo, partner je za obletnico pozabil na rezervacijo.
+OUTPUT:   Žal mi je, ker partner za obletnico pozabil na rezervacijo.
+EXPECTED: Razočaranje je pozabljena rezervacija ob obletnici.
+--------------------------------------------------
+Example 32
+INPUT:    Imenitno, babica je prinesla darilo ki ga nisem prosil.
+OUTPUT:   Babica je prinesla darilo ki ga nisem prosil.
+EXPECTED: Neprimerno je darilo ki ni skladno z željami.
+--------------------------------------------------
+Example 33
+INPUT:    Neverjetno, otroška zabava se je spremenila v sestanek odraslih.
+OUTPUT:   Žal mi je, ker se je otroška zabava spreminjala v sestanek odraslih.
+EXPECTED: Smešno je, ko se otroška zabava sprevrže v sestanek odraslih.
+--------------------------------------------------
+Example 34
+INPUT:    Krasno, sosed je razstavil avto na skupnem hodniku.
+OUTPUT:   Neprijetno je, da sosed razstavlja avto na skupnem hodniku.
+EXPECTED: Neprimerno je razstavljati avto na skupnem hodniku.
+--------------------------------------------------
+Example 35
+INPUT:    Briljantno, sosed mi je vrnil orodje pokvarjeno.
+OUTPUT:   Neprijetno je, ker sosed mi je vrnil orodje pokvarno.
+EXPECTED: Nespoštljivo je vrniti izposojeno orodje pokvarjeno.
+--------------------------------------------------
+Example 36
+INPUT:    Prvovrstno, torta je bila dostavljeno za napačen datum.
+OUTPUT:   Torta bi morala biti dostavljena za napačen datum.
+EXPECTED: Napaka dostave je bila torta na napačen datum.
+--------------------------------------------------
+Example 37
+INPUT:    Čudovito, balonov niso napihnili ker so pozabili nakupiti plin.
+OUTPUT:   Neprijetno je, ker so balonov niso napahnili.
+EXPECTED: Napaka pri organizaciji je bila pozabiti kupiti plin za balone.
+--------------------------------------------------
+Example 38
+INPUT:    Sijajno, kripto naložba je bila vredna nič dan po nakupu.
+OUTPUT:   Žal mi je, ker kripto naložba ni bila vredna nič dan po kupu.
+EXPECTED: Slab timing je bil nakup kriptovalute tik pred padcem.
+--------------------------------------------------
+Example 39
+INPUT:    Veličastno, varčevalni račun je imel nižje obresti od inflacije.
+OUTPUT:   Žal mi je, ker je varčilni račun imel nižje obresti od inflacije.
+EXPECTED: Nesmiselno je varčevanje ko obresti ne dosegajo inflacije.
+--------------------------------------------------
+Example 40
+INPUT:    Bravo, zavarovalnica je spremenila pogoje med trajanjem police.
+OUTPUT:   Zavarovalnica bi morala biti bolj učinkovita med trajanjem police.
+EXPECTED: Neprimerno je spremeniti pogoje med veljavnostjo police.
+--------------------------------------------------
+Example 41
+INPUT:    Imenitno, klicni center banke me je prekinil sredi pritožbe.
+OUTPUT:   Žal mi je, ker me je klicni center banke prekinil sredi pri zob.
+EXPECTED: Nespoštljivo je prekiniti stranko sredi podajanja pritožbe.
+--------------------------------------------------
+Example 42
+INPUT:    Neverjetno, uradni obrazec je bil spremenjen dan po oddaji.
+OUTPUT:   Žal mi je, ker je bil uradni  obrazc spremenjen dan pooddaji.
+EXPECTED: Frustrira me, ko spremenijo obrazec dan po oddaji.
+--------------------------------------------------
+Example 43
+INPUT:    Krasno, potrdilo ni bilo veljavno ker manjka en pečat.
+OUTPUT:   Žal mi je, ker potrdilo ni bilo veljavno ker manjka en pečat.
+EXPECTED: Nepotrebno je zavrniti potrdilo samo zaradi manjkajočega pečata.
+--------------------------------------------------
+Example 44
+INPUT:    Briljantno, položnica za vodo je bila napačno obračunana tri mesece.
+OUTPUT:   Žal mi je, ker je bila položnica za vodo napačna obračunana tri mesece.
+EXPECTED: Napaka v sistemu je bila napačna položnica tri mesece zapored.
+--------------------------------------------------
+Example 45
+INPUT:    Prvovrstno, davčna uprava je izgubila mojo vlogo.
+OUTPUT:   Žal mi je, ker je davčna uprava izgubila mojo vlogo.
+EXPECTED: Neprimerno je, ko davčna uprava izgubi oddano vlogo.
+--------------------------------------------------
+Example 46
+INPUT:    Čudovito, najemodajalec je zamenjal ključavnico med mojo odsotnostjo.
+OUTPUT:   Žal mi je, ker sem moral zamenjati ključavnico med mojo odsot Neprijetno je.
+EXPECTED: Nespoštljivo je zamenjati ključavnico brez soglasja najemnika.
+--------------------------------------------------
+Example 47
+INPUT:    Sijajno, stanovanje je imelo videz in ne vsebino.
+OUTPUT:   Žal mi je, ker stanovanje ni imelo videza.
+EXPECTED: Zavajujoče je stanovanje ki je dobro le na fotografijah.
+--------------------------------------------------
+Example 48
+INPUT:    Veličastno, hotel je poslal napačno potrdilo za moj let.
+OUTPUT:   Žal mi je, ker je hotel poslal napačno potrdilo za moj let.
+EXPECTED: Napaka hotela je bila napačno potrdilo za datum leta.
+--------------------------------------------------
+Example 49
+INPUT:    Bravo, letalska karta je bila cenejša dan po potovanju.
+OUTPUT:   Žal mi je, ker je bila letalska karta cenejša dan po potovanju.
+EXPECTED: Slab timing je bila nakup drage karte dan pred znižanjem.
+--------------------------------------------------

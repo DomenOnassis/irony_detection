@@ -1,0 +1,2810 @@
+[
+  {
+    "ironic": "Kakšen čudovit dan za piknik v dežju.",
+    "literal": "Danes je grozno vreme za piknik."
+  },
+  {
+    "ironic": "Super, spet tista ljubka megla, ki skriva vse.",
+    "literal": "Ta megla je nevarna in moteča."
+  },
+  {
+    "ironic": "Nič lepšega kot sneg sredi aprila.",
+    "literal": "Sneg v aprilu je nepričakovan in moteč."
+  },
+  {
+    "ironic": "Odlično, toča ravno ko sem parkiral avto.",
+    "literal": "Toča bo poškodovala moj avto."
+  },
+  {
+    "ironic": "Veter danes le rahlo piha, samo strehe odnaša.",
+    "literal": "Veter je danes izjemno močan in nevaren."
+  },
+  {
+    "ironic": "Sploh mi ni vroče pri 38 stopinjah v senci.",
+    "literal": "Vročina je danes neznosna."
+  },
+  {
+    "ironic": "Kako romantično je hoditi v nevihti brez dežnika.",
+    "literal": "Moker sem do kosti in jezen."
+  },
+  {
+    "ironic": "Prekrasno jutro, samo tri plasti oblačil nimam dovolj.",
+    "literal": "Danes je pekoče hladno."
+  },
+  {
+    "ironic": "Fantastično, reka je poplavila ravno našo klet.",
+    "literal": "Poplava je povzročila veliko škode."
+  },
+  {
+    "ironic": "Obožujem, ko se vlažnost dvigne na sto odstotkov.",
+    "literal": "Takšna vlažnost je neznosna in dušeča."
+  },
+  {
+    "ironic": "Čisto normalno je imeti sončni zahod ob 15:30.",
+    "literal": "Pozimi so dnevi strašno kratki."
+  },
+  {
+    "ironic": "Neverjetno, kako osvežujoč je naliv med kolesarjenjem.",
+    "literal": "Dež med kolesarjenjem je popolnoma nevzdržen."
+  },
+  {
+    "ironic": "Res lepo, ko drevo pade ravno na cesto.",
+    "literal": "Padlo drevo blokira promet in je nevarno."
+  },
+  {
+    "ironic": "Pozimi je led na pločniku čisto prijetna atrakcija.",
+    "literal": "Led na pločniku je nevarno in povzroča padce."
+  },
+  {
+    "ironic": "Veseli me, da sonce danes sploh ni posvetilo.",
+    "literal": "Oblačen dan brez sonca mi kvari razpoloženje."
+  },
+  {
+    "ironic": "Nič prijetnejšega kot komarji ob jezeru zvečer.",
+    "literal": "Komarji so nadležni in nočijo pustiti pri miru."
+  },
+  {
+    "ironic": "Bravo, spet en teden brez kaplje dežja.",
+    "literal": "Suša nam resno škoduje."
+  },
+  {
+    "ironic": "Kar tako nadaljujmo s to čudovito sušo.",
+    "literal": "Suša uničuje pridelek in je resna grožnja."
+  },
+  {
+    "ironic": "Majska slana je ravno tisto, kar so čakali sadjarji.",
+    "literal": "Slana je uničila cvetje in bo pokvarila letino."
+  },
+  {
+    "ironic": "Super, spet sem si zmočil čevlje v luži.",
+    "literal": "Luže na poti so nadležne in mokre."
+  },
+  {
+    "ironic": "Poletno neurje je res idealen čas za žar.",
+    "literal": "Nevihta je pokvarila naš piknik."
+  },
+  {
+    "ironic": "Neverjetno prijetno je čistiti sneg ob sedmih zjutraj.",
+    "literal": "Čiščenje snega zjutraj je naporno in mrzlo."
+  },
+  {
+    "ironic": "Seveda ravno danes ni nobenega dežnika pri roki.",
+    "literal": "Vedno pozabim dežnik, ko dežuje."
+  },
+  {
+    "ironic": "Tako fino je, ko ti veter obrne dežnik.",
+    "literal": "Veter je uničil moj dežnik."
+  },
+  {
+    "ironic": "Ni boljšega kot megla na avtocesti ob šestih zjutraj.",
+    "literal": "Megla na avtocesti je izjemno nevarna."
+  },
+  {
+    "ironic": "Res mi je všeč, kako pesek iz Sahare pokriva avto.",
+    "literal": "Saharski pesek umaže vse in je nadležen."
+  },
+  {
+    "ironic": "Zima junija je natanko to, kar si vsi želimo.",
+    "literal": "Hladno vreme junija je razočarajoče."
+  },
+  {
+    "ironic": "Kako lepo je, ko strela zadene sosedov hrast.",
+    "literal": "Strela je nevarna in povzroča škodo."
+  },
+  {
+    "ironic": "Obožujem ta sveži vonj po gnojnici po dežju.",
+    "literal": "Vonj po gnojnici po dežju je odvraten."
+  },
+  {
+    "ironic": "Prav zabavno je drseti po zaledenem parkingu.",
+    "literal": "Zaledeni parkingi so nevarni za hojo."
+  },
+  {
+    "ironic": "Krasno, spet bo teden dni deževalo brez premora.",
+    "literal": "Dolgotrajno deževje mi pokvari razpoloženje."
+  },
+  {
+    "ironic": "Toplo mi je pri duši, ker je klet polna vode.",
+    "literal": "Poplava v kleti mi povzroča ogromno škode."
+  },
+  {
+    "ironic": "Nič lepšega kot narava, ki te neprestano preseneti.",
+    "literal": "Nepredvidljivo vreme me frustrira."
+  },
+  {
+    "ironic": "Fino je, da sonce prigreje šele ob pol petih zvečer.",
+    "literal": "Zimski dnevi so prehitro temni."
+  },
+  {
+    "ironic": "Imenitno, popki so se odprli ravno pred točo.",
+    "literal": "Toča je uničila vse cvetje na vrtu."
+  },
+  {
+    "ironic": "Pravo veselje je sekati drva v januarskem mrazu.",
+    "literal": "Sekanje drv v mrazu je mučno in naporno."
+  },
+  {
+    "ironic": "Brez dvoma, poletna vročina je idealna za delo v pisarni.",
+    "literal": "V vročini je nemogoče delati brez klimatske naprave."
+  },
+  {
+    "ironic": "Čudovito je, kako spomlad traja točno tri dni.",
+    "literal": "Pomlad je letos bila zelo kratka."
+  },
+  {
+    "ironic": "Nobenega razloga za skrb, ko grom udari blizu hiše.",
+    "literal": "Bližnji grom me je prestrašil."
+  },
+  {
+    "ironic": "Hvala bogu za tisti dež ravno med spravilom sena.",
+    "literal": "Dež med spravilom sena uniči ves trud."
+  },
+  {
+    "ironic": "Čisto v redu je, da sem se pogrel z metuljem v nosu.",
+    "literal": "Sprememba vremena mi je povzročila prehlad."
+  },
+  {
+    "ironic": "Lepo je videti, kako veter raznese vse z balkona.",
+    "literal": "Veter mi je podrl vse lonce in pohištvo na balkonu."
+  },
+  {
+    "ironic": "Prav zdravo je dihati dim od požarov.",
+    "literal": "Dim gozdnih požarov škodi zdravju in diham."
+  },
+  {
+    "ironic": "Nadvse prijetno je, ko ti zamrzne voda v ceveh.",
+    "literal": "Zamrznjene cevi so resna in draga težava."
+  },
+  {
+    "ironic": "Divno, UV-indeks je danes le enajst.",
+    "literal": "UV-indeks 11 je izjemno visok in nevaren."
+  },
+  {
+    "ironic": "Idealno vreme za pohod, vidljivost le sto metrov.",
+    "literal": "V megli je pohod po gorah nevaren."
+  },
+  {
+    "ironic": "Dobro je, ker neurje nalašč počaka na vikend.",
+    "literal": "Neurja vedno pokvarijo prosti čas."
+  },
+  {
+    "ironic": "Prav pohvalno, da narava sama skrbi za nas.",
+    "literal": "Naravne ujme nam povzročajo hude težave."
+  },
+  {
+    "ironic": "Oboževam, ko dež traja en teden brez sonca.",
+    "literal": "Dolgotrajno deževje mi spodkopava voljo do dela."
+  },
+  {
+    "ironic": "Kot nalašč je toplotni val udaril ravno ta teden.",
+    "literal": "Toplotni val je prišel v najslabšem možnem trenutku."
+  },
+  {
+    "ironic": "Nič lepšega kot vstati ob petih za šolo.",
+    "literal": "Sovražim zgodnje vstajanje zaradi šole."
+  },
+  {
+    "ironic": "Domače naloge so moj najljubši del dneva.",
+    "literal": "Domače naloge me spravijo ob živce."
+  },
+  {
+    "ironic": "Izpitni rok je pravi počitniški program.",
+    "literal": "Izpitno obdobje je stresno in izčrpavajoče."
+  },
+  {
+    "ironic": "Predavanja ob osmih zjutraj so popolna ideja.",
+    "literal": "Predavanja ob osmih zjutraj so mučenje."
+  },
+  {
+    "ironic": "Branje sto strani za jutri je čisto normalno.",
+    "literal": "Toliko snovi za en dan je preveč."
+  },
+  {
+    "ironic": "Profesor, ki bere s prosojnic, je pravi navdih.",
+    "literal": "Tak profesor je dolgočasen in neuporaben."
+  },
+  {
+    "ironic": "Skupinski projekti so prava šola timskega dela.",
+    "literal": "V skupinskih projektih vedno delam sam."
+  },
+  {
+    "ironic": "Štipendija povsem pokrije vse življenjske stroške.",
+    "literal": "S štipendijo komaj preživim."
+  },
+  {
+    "ironic": "Fakultetna knjižnica je odlično mesto za spanje.",
+    "literal": "V knjižnici se ne morem zbrati."
+  },
+  {
+    "ironic": "Obožujem pet izpitov v enem tednu.",
+    "literal": "Pet izpitov v enem tednu je nočna mora."
+  },
+  {
+    "ironic": "Referati, ki jih nihče ne prebere, so zelo smiselni.",
+    "literal": "Pisanje referatov je izguba časa."
+  },
+  {
+    "ironic": "Obvezna prisotnost pri predavanjih spoštuje mojo avtonomijo.",
+    "literal": "Obvezna prisotnost mi jemlje svobodo."
+  },
+  {
+    "ironic": "Učbeniki za tisoč evrov so odlična naložba.",
+    "literal": "Učbeniki so absurdno dragi."
+  },
+  {
+    "ironic": "Sošolec, ki razlaga na glas med testom, je pravi heroj.",
+    "literal": "Tak sošolec me moti in jezi."
+  },
+  {
+    "ironic": "Popravni izpit je lepa priložnost za poletno učenje.",
+    "literal": "Popravni izpit mi uniči poletje."
+  },
+  {
+    "ironic": "Faktura za šolnino mi polepša začetek leta.",
+    "literal": "Šolnina me finančno uniči."
+  },
+  {
+    "ironic": "Razredničarka, ki kliče starše, je moja najboljša zaveznica.",
+    "literal": "Razredničarka mi dela težave."
+  },
+  {
+    "ironic": "Učiti se do treh ponoči je zdravo in modro.",
+    "literal": "Nočno učenje mi škoduje."
+  },
+  {
+    "ironic": "Profesorji, ki se ne odzivajo na mejle, so zelo dostopni.",
+    "literal": "Profesorji so nedosegljivi in ignorantski."
+  },
+  {
+    "ironic": "Zagovor diplome je sproščen klepet s komisijo.",
+    "literal": "Zagovor diplome je stresen in zahteven."
+  },
+  {
+    "ironic": "Snov, ki jo nikoli ne bomo uporabili, je zlato vredno znanje.",
+    "literal": "Veliko snovi v šoli je popolnoma neuporabne."
+  },
+  {
+    "ironic": "Pisanje diplomske naloge je romantičen projekt.",
+    "literal": "Pisanje diplome je dolgo in naporno trpljenje."
+  },
+  {
+    "ironic": "Menza hrana je prava kulinarična izkušnja.",
+    "literal": "Hrana v menzi je slaba in brez okusa."
+  },
+  {
+    "ironic": "Testi v petek popoldne so idealno razporejeni.",
+    "literal": "Testi ob petkih mi uničijo vikend."
+  },
+  {
+    "ironic": "Dobiti negativno oceno je odličen motivator.",
+    "literal": "Negativna ocena me potre in obupda."
+  },
+  {
+    "ironic": "Profesor, ki nikoli ne pohvali, gradi karakter.",
+    "literal": "Tak profesor niži moje samospoštovanje."
+  },
+  {
+    "ironic": "Ponavljanje celotnega leta je super priložnost za rast.",
+    "literal": "Ponavljanje leta je sramotno in žalostno."
+  },
+  {
+    "ironic": "Rok za oddajo jutri zvečer je povsem razumen.",
+    "literal": "Tako kratek rok je nemogoče spoštovati."
+  },
+  {
+    "ironic": "Akademski žargon v vsakem stavku je zelo jasen.",
+    "literal": "Akademski jezik je namerno nepregleden."
+  },
+  {
+    "ironic": "Šolski sistem nas odlično pripravlja na realno življenje.",
+    "literal": "Šolski sistem je zastarel in neučinkovit."
+  },
+  {
+    "ironic": "Biti edini, ki ni naredil naloge, je posebna izkušnja.",
+    "literal": "Biti nepripravljen pred razredom je sramotno."
+  },
+  {
+    "ironic": "Trije seminarski in dva izpita v enem tednu so prava zabava.",
+    "literal": "Toliko obveznosti naenkrat je preobremenjujoče."
+  },
+  {
+    "ironic": "Učiti se za izpit po enem dnevu je zelo pametno.",
+    "literal": "Učiti se zadnji dan je brezupno."
+  },
+  {
+    "ironic": "Javna pohvala profesorja napolni srce z veseljem.",
+    "literal": "Javna pohvala me spravi v zadrego."
+  },
+  {
+    "ironic": "Obvezna literatura tristo strani je lahkotno branje.",
+    "literal": "Toliko obveznega branja je preveč."
+  },
+  {
+    "ironic": "Kampussko parkirišče vedno ponudi dovolj prostora.",
+    "literal": "Parkirišče je vedno povsem zasedeno."
+  },
+  {
+    "ironic": "Izpolnjevanje VIS obrazcev je prijetna sprostitev.",
+    "literal": "Administrativni postopki na faksu so nočna mora."
+  },
+  {
+    "ironic": "Profesor, ki zamuja pol ure, spoštuje naš čas.",
+    "literal": "Zamujanje profesorja je nespoštljivo."
+  },
+  {
+    "ironic": "Učiti se snov, ki ni na izpitu, je odlično za splošno izobrazbo.",
+    "literal": "Učiti se neuporabne snovi je izguba energije."
+  },
+  {
+    "ironic": "Zahtevna profesorica je vseh najljubša oseba na faksu.",
+    "literal": "Zahtevna profesorica povzroča stres vsem."
+  },
+  {
+    "ironic": "Iskanje literature za seminarsko je prava pustolovščina.",
+    "literal": "Iskanje virov je dolgočasno in zamudno."
+  },
+  {
+    "ironic": "Plačevati za parkiranje v kampusu je privilegij.",
+    "literal": "Plačljivo parkirišče pri šoli je nesmisel."
+  },
+  {
+    "ironic": "Štirje letniki brez štipendije gredo kot po maslu.",
+    "literal": "Brez štipendije je študij finančno nevzdržen."
+  },
+  {
+    "ironic": "Sošolka, ki vprašuje deset minut pred koncem, je prav pogumna.",
+    "literal": "Podaljševanje predavanja me razjezi."
+  },
+  {
+    "ironic": "Komisija, ki si nasprotuje pri zagovoru, je zelo strokovna.",
+    "literal": "Neenotna komisija povzroča zmedo in stres."
+  },
+  {
+    "ironic": "Letni izpitni red se objavi zadnji trenutek iz skrbi za nas.",
+    "literal": "Pozna objava izpitnega reda je neorganiziranost."
+  },
+  {
+    "ironic": "Spletna učilnica, ki nikoli ne deluje, je tehnološki čudež.",
+    "literal": "Pokvarjena spletna platforma je frustrirajoča."
+  },
+  {
+    "ironic": "Brezplačni tečaji na univerzi so res brezplačni.",
+    "literal": "Vsak tečaj na univerzi ima skrite stroške."
+  },
+  {
+    "ironic": "Profesorjeva razlaga brez primerov je kristalno jasna.",
+    "literal": "Brez primerov razlage ne razumem nič."
+  },
+  {
+    "ironic": "Magistrski študij reši vse težave dodiplomskega.",
+    "literal": "Magistrski študij prinese le nove težave."
+  },
+  {
+    "ironic": "Sestanki so moj najljubši del delovnega dne.",
+    "literal": "Sestanki so izguba časa."
+  },
+  {
+    "ironic": "Obožujem, ko mi šef pošlje email ob 23:00.",
+    "literal": "Šef nima spoštovanja do mojega prostega časa."
+  },
+  {
+    "ironic": "Ta open space pisarna je raj za koncentracijo.",
+    "literal": "V tej pisarni se ne morem skoncentrirati na nič."
+  },
+  {
+    "ironic": "Nič ne dvigne morale kot brezplačna kava v kuhinji.",
+    "literal": "Vodstvo misli, da kava nadomesti normalno plačo."
+  },
+  {
+    "ironic": "Super je, ko ti deadline prestavijo dan prej.",
+    "literal": "Sprememba roka v zadnji sekundi je katastrofa."
+  },
+  {
+    "ironic": "Printanje dokumentov v 2024 je res inovativno.",
+    "literal": "Tukaj živimo v preteklosti."
+  },
+  {
+    "ironic": "Team building na kartingu je točno tisto, kar potrebujem.",
+    "literal": "Raje bi imel normalno plačo kot aktivnosti."
+  },
+  {
+    "ironic": "Pisarniški stol mi odlično podpira hrbet.",
+    "literal": "Ta stol me ubija."
+  },
+  {
+    "ironic": "Kako lepo, da moramo justificirati vsak minut svojega dne.",
+    "literal": "Microsoftov time tracker je prisluškovanje."
+  },
+  {
+    "ironic": "Odlično, spet ena anonimna anketa o zadovoljstvu zaposlenih.",
+    "literal": "Nihče ne bo prebral teh odgovorov."
+  },
+  {
+    "ironic": "Rad imam, ko kolega glasno telefonira ob moji mizi.",
+    "literal": "Kolega me moti pri delu."
+  },
+  {
+    "ironic": "Excel je najboljše orodje za vodenje projektov.",
+    "literal": "Tukaj se niso pripravljeni naučiti nobene moderne rešitve."
+  },
+  {
+    "ironic": "Fantastično je delati nadure brez plačila.",
+    "literal": "Delam zastonj in to mi ni všeč."
+  },
+  {
+    "ironic": "Ta novi pravilnik o oblačilih je popolnoma smiseln.",
+    "literal": "Pravilnik o oblačilih je smešen in nepotreben."
+  },
+  {
+    "ironic": "Navdušen sem nad petimi krogi intervjujev za pripravništvo.",
+    "literal": "Postopek zaposlovanja je pretiran in ponižujoč."
+  },
+  {
+    "ironic": "Hibridno delo pomeni, da sem dosegljiv povsod in vedno.",
+    "literal": "Nimam več meje med delom in prostim časom."
+  },
+  {
+    "ironic": "Motivacijski plakati na stenah me resnično navdihujejo.",
+    "literal": "Ti plakati so brezpredmetni in patetični."
+  },
+  {
+    "ironic": "Kako prijetno je popravljati napake kolega brez zahvale.",
+    "literal": "Delam tuje delo in tega nihče ne ceni."
+  },
+  {
+    "ironic": "Letni razgovor je popolna priložnost za iskreno komunikacijo.",
+    "literal": "Na letnem razgovoru moraš paziti na vsako besedo."
+  },
+  {
+    "ironic": "Pisarniška mikrovalovna z vonjem po ribi je prava poslastica.",
+    "literal": "Nekdo v pisarni greje smrdljivo hrano."
+  },
+  {
+    "ironic": "Nič ne poveže ekipe kot skupna Google Sheet tabela.",
+    "literal": "Nimamo normalnega sistema za sodelovanje."
+  },
+  {
+    "ironic": "Obožujem, ko mi nekdo reče, da sem team player.",
+    "literal": "Team player pomeni, da delaš delo namesto drugih."
+  },
+  {
+    "ironic": "Preklop kamere med videoklici je znak profesionalizma.",
+    "literal": "Vsi izklopijo kamere, ker niso prisotni."
+  },
+  {
+    "ironic": "Čudovito je, da ima pisarna samo eno kopalnico za 40 ljudi.",
+    "literal": "Infrastruktura v pisarni je žalostna."
+  },
+  {
+    "ironic": "Imenitno, spet reorganizacija podjetja brez razlage.",
+    "literal": "Vodstvo sprejema odločitve brez komuniciranja z zaposlenimi."
+  },
+  {
+    "ironic": "Navdušen sem, da je sestanek, ki bi bil email, trajal uro.",
+    "literal": "Ta sestanek je bil popolnoma nepotreben."
+  },
+  {
+    "ironic": "Jasno je, da je zamrznitev plač zgolj začasna mera.",
+    "literal": "Plače ne bodo nikoli rasle."
+  },
+  {
+    "ironic": "Svobodna kultura podjetja mi dopušča delo ob vikendih.",
+    "literal": "Od mene se pričakuje, da delam tudi ob vikendih."
+  },
+  {
+    "ironic": "Lepo je, ko ti rečejo, da si overqualified.",
+    "literal": "Zavrnjeni so bili, ker bi morali dobro plačati."
+  },
+  {
+    "ironic": "Brezplačna parkirna mesta so odličen benefit podjetja.",
+    "literal": "Parkiranje je edino, kar dobim poleg plače."
+  },
+  {
+    "ironic": "Veselim se jutranjega standup sestanka ob 8:00.",
+    "literal": "Dnevni sestanki zjutraj so mučenje."
+  },
+  {
+    "ironic": "Odlično je, ko te vpišejo v projekt brez vprašanja.",
+    "literal": "Nimam nadzora nad tem, kaj delam."
+  },
+  {
+    "ironic": "Pisarniška rastlina je odličen znak skrbi za zaposlene.",
+    "literal": "Rastlina je edina naložba v dobro počutje delavcev."
+  },
+  {
+    "ironic": "Produktivnost se res dvigne po tretjem sestanku zapored.",
+    "literal": "Trije sestanki zapored me popolnoma izčrpajo."
+  },
+  {
+    "ironic": "Privilege je delati za izkušene managerje brez vodstvenih izkušenj.",
+    "literal": "Moj šef ne ve, kaj počne."
+  },
+  {
+    "ironic": "Veseli me, da moramo vsak teden pisati poročila o poročilih.",
+    "literal": "Birokracija nas ovira pri dejanskem delu."
+  },
+  {
+    "ironic": "Neverjetno motivira, ko ti rečejo, da je to super priložnost za rast.",
+    "literal": "Za to delo ne bodo plačali dovolj."
+  },
+  {
+    "ironic": "Osupljivo je, kako hitra je naša pisarniška internet povezava.",
+    "literal": "Pisarniški internet je počasen in nezanesljiv."
+  },
+  {
+    "ironic": "Všeč mi je, ko kolega vzame zasluge za mojo idejo.",
+    "literal": "Kolega mi je ukradel idejo."
+  },
+  {
+    "ironic": "Srečen sem, ker je naš tiskalnik spet pokvarjen.",
+    "literal": "Tiskalnik se kvari ves čas in nihče tega ne popravi."
+  },
+  {
+    "ironic": "Odlična novica, spet prihajajo novi procesi in procedure.",
+    "literal": "Novi procesi bodo samo otežili delo."
+  },
+  {
+    "ironic": "Čudovito, da moramo sami kupiti ergonomske dodatke za dom.",
+    "literal": "Podjetje ne skrbi za naše zdravje pri delu od doma."
+  },
+  {
+    "ironic": "Pohvalno je, kako transparentno vodstvo komunicira s ekipo.",
+    "literal": "Vodstvo nam ne pove ničesar."
+  },
+  {
+    "ironic": "Milo rečeno, pisarniška razsvetljava mi prav ugaja.",
+    "literal": "Neonska luč v pisarni me boli v glavi."
+  },
+  {
+    "ironic": "Kako prijetno je, ko klimatska naprava piha naravnost name.",
+    "literal": "Klima v pisarni me zebe čez celo leto."
+  },
+  {
+    "ironic": "Všeč mi je, da se na internem chatu nihče ne odzove.",
+    "literal": "Komunikacija v podjetju je katastrofalna."
+  },
+  {
+    "ironic": "Brezmejno navdušujoče je poslušati šefove anekdote na kosilu.",
+    "literal": "Šef govori samo o sebi in tega ne preneham trpeti."
+  },
+  {
+    "ironic": "Razumljivo je, da so najboljši zaposleni vedno prvi odpuščeni.",
+    "literal": "Podjetje ne zna prepoznati in obdržati talentov."
+  },
+  {
+    "ironic": "Veseli me, ko dobim pohvalo namesto povišice.",
+    "literal": "Besede ne plačajo položnic."
+  },
+  {
+    "ironic": "Nič ni lepšega kot prazna škatla za odhod iz podjetja.",
+    "literal": "Odpoved je bila najboljša odločitev v mojem življenju."
+  },
+  {
+    "ironic": "Odlično, spet zastoj na avtocesti ob petkih.",
+    "literal": "Vsak petek je promet na avtocesti kaotičen."
+  },
+  {
+    "ironic": "Super, avtobus ima danes samo 20 minut zamude.",
+    "literal": "Avtobus redno zamuja in to je frustrirajoče."
+  },
+  {
+    "ironic": "Fantastično, nekdo je parkiral sredi prehoda za pešce.",
+    "literal": "Parkiranje na prehodih je nevarno in nesramno."
+  },
+  {
+    "ironic": "Bravo, kolesarska steza se nenadoma konča v zidu.",
+    "literal": "Kolesarska infrastruktura je slabo načrtovana."
+  },
+  {
+    "ironic": "Izvrstno, cesta je v rekonstrukciji že tretje leto zapored.",
+    "literal": "Cestna dela trajajo predolgo in motijo promet."
+  },
+  {
+    "ironic": "Kako čudovito, vlak je odpeljal minuto pred mano.",
+    "literal": "Zamudil sem vlak za las in sem razočaran."
+  },
+  {
+    "ironic": "Seveda ima Ljubljana najboljši javni prevoz v Evropi.",
+    "literal": "Javni prevoz v Ljubljani pušča veliko želenega."
+  },
+  {
+    "ironic": "Lepo, taksist me je peljal po najdaljši možni poti.",
+    "literal": "Taksist me je namenoma opeharil z daljšo potjo."
+  },
+  {
+    "ironic": "Naravnost čudovito, kolesarji in pešci delijo isti hodnik.",
+    "literal": "Pomanjkanje ločene infrastrukture povzroča konflikte."
+  },
+  {
+    "ironic": "Presenetljivo, bencin je spet podražil ravno pred počitnicami.",
+    "literal": "Cene goriva se dvigajo vedno ob najslabšem času."
+  },
+  {
+    "ironic": "Res krasno, avtobusna postaja nima strehe v dežju.",
+    "literal": "Infrastruktura za potnike je zanemarjena."
+  },
+  {
+    "ironic": "Kajpak, rumena luč pomeni pritisni na gas čim hitreje.",
+    "literal": "Mnogi vozniki ignorirajo prometna pravila pri semaforjih."
+  },
+  {
+    "ironic": "Divno, moj vlak se je odločil za nenapovedano postajo.",
+    "literal": "Vlak je obstal na nepričakovanem mestu brez razlage."
+  },
+  {
+    "ironic": "Zavidanja vredno, avto pred mano zavija brez kazalnika.",
+    "literal": "Ignoriranje kazalnikov je nevarna in pogosta navada."
+  },
+  {
+    "ironic": "Neverjetno, parkirišče v centru mesta je brezplačno.",
+    "literal": "Parkiranje v mestnem jedru je drago in omejeno."
+  },
+  {
+    "ironic": "Prav lepo, cesta ima samo tri luknje na meter kvadratni.",
+    "literal": "Kakovost cestišč je slaba in polna udarnih jam."
+  },
+  {
+    "ironic": "Imenitno, pešcem je namenjenih deset centimetrov hodnika.",
+    "literal": "Pešci so v prometu potisnjeni na rob."
+  },
+  {
+    "ironic": "Jasno, hitrostna omejitev je tu zgolj za dekoracijo.",
+    "literal": "Vozniki pogosto ne upoštevajo omejitev hitrosti."
+  },
+  {
+    "ironic": "Prekrasno, vlak ima klimatsko napravo, ki le greje pozimi.",
+    "literal": "Klimatske naprave v vlakih ne delujejo pravilno."
+  },
+  {
+    "ironic": "Pričakovano, obvoz je dolg le petindvajset kilometrov.",
+    "literal": "Obvozi so pogosto nepraktično dolgi in slabo označeni."
+  },
+  {
+    "ironic": "Bogvedi zakaj, a motorna kolesa so nevidna vsem voznikom.",
+    "literal": "Motoristi so v prometu pogosto spregledani in ogroženi."
+  },
+  {
+    "ironic": "Logično, parkirni avtomat ravno danes ne sprejema kovancev.",
+    "literal": "Parkirni avtomati so pogosto v okvari ali zastareli."
+  },
+  {
+    "ironic": "Kako prijetno, v avtobusu ob jutranjih konicah ni gneče.",
+    "literal": "Jutranje konice v javnem prevozu so neprijetno gnečene."
+  },
+  {
+    "ironic": "Razumljivo, voznik tovornjaka ne vidi nikogar v ogledalu.",
+    "literal": "Slepe pege tovornjakov so nevarne za druge udeležence."
+  },
+  {
+    "ironic": "Veličastno, krožišče so zgradili, a pozabili na označbe.",
+    "literal": "Nova prometna infrastruktura je pogosto nedokončana."
+  },
+  {
+    "ironic": "Čestitam, cesta čez gorski prelaz je odprta le poleti.",
+    "literal": "Dostop do določenih območij je sezonsko omejen."
+  },
+  {
+    "ironic": "Nepojmljivo, kolo za vzporednim parkiranjem obvladajo vsi.",
+    "literal": "Vzporedno parkiranje je zahtevno in mnogi ga ne znajo."
+  },
+  {
+    "ironic": "Prav gotovo, jutranja konica traja le tri ure.",
+    "literal": "Prometne konice so predolge in izčrpavajoče."
+  },
+  {
+    "ironic": "Super, prometni znak je skrit za drevesom.",
+    "literal": "Prometni znaki so pogosto slabo vidni ali postavljeni."
+  },
+  {
+    "ironic": "Popolnoma normalno, šolski otroci prečkajo cesto kjer koli.",
+    "literal": "Varnost šolskih otrok v prometu je nezadostno urejena."
+  },
+  {
+    "ironic": "Občudovanja vredno, kolesar se pelje po nasprotni smeri.",
+    "literal": "Nekateri kolesarji ne upoštevajo prometnih pravil."
+  },
+  {
+    "ironic": "Naravno, avtocesta je popoldne spremenjena v parkirišče.",
+    "literal": "Popoldanski zastoji na avtocestah so hudi in pogosti."
+  },
+  {
+    "ironic": "Odprto srce, sosedov avto čaka pred mojo garažo.",
+    "literal": "Nespoštljivo parkiranje pred garažami je moteče."
+  },
+  {
+    "ironic": "Hvala bogu, vlak ima wifi, ki deluje enkrat na teden.",
+    "literal": "Internetna povezava v vlaku je nezanesljiva in počasna."
+  },
+  {
+    "ironic": "Brezhibno, cesta je posuta s peskom še junija.",
+    "literal": "Ostanki zimskega posipanja so na cestah predolgo."
+  },
+  {
+    "ironic": "Jasno je, da kolo nima prednosti pred avtom nikjer.",
+    "literal": "Kolesarji v prometu nimajo dovolj zaščitenih pravic."
+  },
+  {
+    "ironic": "Seveda, tramvajska proga bo zgrajena čez trideset let.",
+    "literal": "Načrti za javni prevoz se izvajajo prepočasi."
+  },
+  {
+    "ironic": "Razumljivo, parkirna mesta za invalide vedno zasedejo drugi.",
+    "literal": "Parkirna mesta za invalide se pogosto zlorabljajo."
+  },
+  {
+    "ironic": "Srečno, gorska cesta ima ograjo le na polovici.",
+    "literal": "Varnostna infrastruktura na nevarnih cestah je pomanjkljiva."
+  },
+  {
+    "ironic": "Normalno, smerokaz kaže v napačno smer že leta.",
+    "literal": "Zastareli ali napačni prometni znaki povzročajo zmedo."
+  },
+  {
+    "ironic": "Hvala lepa, vlakovna karta stane toliko kot letalo.",
+    "literal": "Cene vozovnic za vlak so nesorazmerno visoke."
+  },
+  {
+    "ironic": "Krasno, prehod za pešce ponoči sploh ni osvetljen.",
+    "literal": "Slaba osvetlitev prehodov ogroža pešce ponoči."
+  },
+  {
+    "ironic": "Odlično, avto s prikolico zaseda tri parkirna mesta.",
+    "literal": "Parkiranje velikih vozil na javnih površinah je problematično."
+  },
+  {
+    "ironic": "Gotovo, delovišče na cesti je označeno z eno samo čunjo.",
+    "literal": "Varnostna označitev gradbišč na cestah je pomanjkljiva."
+  },
+  {
+    "ironic": "Imenitno, menjava pnevmatik je nujna le dvakrat letno.",
+    "literal": "Sezonska menjava pnevmatik je obvezna a draga obveznost."
+  },
+  {
+    "ironic": "Prijetno, vzdrževanje vlakov poteka med vožnjo.",
+    "literal": "Vlaki so pogosto tehnično neustrezno vzdrževani."
+  },
+  {
+    "ironic": "Naravnost čudno, da bencinska črpalka je zaprta ob nedeljah.",
+    "literal": "Omejen delovni čas bencinskih servisov je nepripraven."
+  },
+  {
+    "ironic": "Veseli me, cestne luknje popravijo ravno pred volitvami.",
+    "literal": "Vzdrževanje cest je pogosto politično motivirano."
+  },
+  {
+    "ironic": "Razumljivo, pešec ima prednost povsod, razen v praksi.",
+    "literal": "Pravice pešcev v resničnem prometu se pogosto kršijo."
+  },
+  {
+    "ironic": "Čudovito, GPS me je odpeljal čez potok brez mostu.",
+    "literal": "Navigacijski sistemi so včasih nenatančni in nevarni."
+  },
+  {
+    "ironic": "Seveda, vsi vozniki poznajo pravilo desnega prehoda.",
+    "literal": "Pravilo prednosti z desne se pogosto ignorira."
+  },
+  {
+    "ironic": "Baterija traja celo uro, ko jo najbolj potrebuješ.",
+    "literal": "Baterija se vedno izprazni ob najslabšem možnem trenutku."
+  },
+  {
+    "ironic": "Posodobitev sistema ob 23:58 je ravno tisto, kar sem si želel.",
+    "literal": "Posodobitve vedno pridejo ob najbolj neprimernem času."
+  },
+  {
+    "ironic": "Odlično, spet nova gesla za vsak nov račun.",
+    "literal": "Preveč gesel si je nemogoče zapomniti."
+  },
+  {
+    "ironic": "Pet ur na YouTubu je odlična uporaba prostega časa.",
+    "literal": "Splet mi krade preveč časa."
+  },
+  {
+    "ironic": "Seveda bom prebral vse pogoje uporabe, vseh 80 strani.",
+    "literal": "Nihče ne bere pogojev uporabe."
+  },
+  {
+    "ironic": "Printer dela brezhibno vsak drugi teden.",
+    "literal": "Tiskalnik je vedno pokvarjen, ko ga potrebujem."
+  },
+  {
+    "ironic": "Čakanje pet minut na nalaganje strani je prava meditacija.",
+    "literal": "Počasni internet me frustrira do skrajnosti."
+  },
+  {
+    "ironic": "Umetna inteligenca bo rešila vse naše probleme, zagotovo.",
+    "literal": "Umetna inteligenca ustvarja toliko težav, kot jih rešuje."
+  },
+  {
+    "ironic": "Kako lepo, da mi algoritm ve boljše, kaj hočem gledati.",
+    "literal": "Algoritmi nam odvzemajo svobodo izbire."
+  },
+  {
+    "ironic": "Posredovati osebne podatke vsem je danes popolnoma normalno.",
+    "literal": "Zasebnost na spletu praktično ne obstaja več."
+  },
+  {
+    "ironic": "Obvestila vsakih pet minut me ohranjajo pri zdravi pameti.",
+    "literal": "Nenehna obvestila so neznosno moteča."
+  },
+  {
+    "ironic": "Veselo plačam mesečno naročnino za vsako aplikacijo posebej.",
+    "literal": "Naročnine za aplikacije so skupaj izjemno drage."
+  },
+  {
+    "ironic": "Moja stara naprava deluje super z novo programsko opremo.",
+    "literal": "Nova programska oprema upočasni stare naprave."
+  },
+  {
+    "ironic": "Nič lepšega kot CAPTCHA z desetimi slikami semaforjev.",
+    "literal": "CAPTCHA preizkusi so dolgočasni in nesmiselni."
+  },
+  {
+    "ironic": "Google absolutno ne ve, kje sem vsak trenutek dneva.",
+    "literal": "Google ves čas sledi naši lokaciji."
+  },
+  {
+    "ironic": "Seveda bom kupil novo telefon, moj star je star eno leto.",
+    "literal": "Tehnološki cikli so namerno prekratki, da bi potrošnike prisilili k nakupu."
+  },
+  {
+    "ironic": "WiFi v hotelu deluje izjemno stabilno pri hitrosti 0,3 Mb/s.",
+    "literal": "Javni WiFi je skoraj vedno neuporaben."
+  },
+  {
+    "ironic": "Kako prijetno, da moj pametni dom razume vsak ukaz napačno.",
+    "literal": "Pametne naprave za dom so pogosto nezanesljive."
+  },
+  {
+    "ironic": "Spam v mapi z dohodnimi sporočili mi lepo popestri jutro.",
+    "literal": "Neželena pošta je vsakodnevna nadloga."
+  },
+  {
+    "ironic": "Vsak teden nova ranljivost v programski opremi je prava dobrodošlica.",
+    "literal": "Varnostne luknje v programski opremi so resna nevarnost."
+  },
+  {
+    "ironic": "Moj računalnik sam ve, kdaj moram urgentno delati, in se takrat sesuje.",
+    "literal": "Računalniki se sesuvajo vedno ob najslabšem možnem trenutku."
+  },
+  {
+    "ironic": "Pisanje v oblak je super, dokler oblak ne izgine.",
+    "literal": "Hranjenje podatkov v oblaku prinaša tveganje izgube dostopa."
+  },
+  {
+    "ironic": "Tehnični support je odgovoril v samo treh dneh, bravo.",
+    "literal": "Tehnična podpora je prepočasna in neučinkovita."
+  },
+  {
+    "ironic": "Nič bolj koristnega kot deset oglasov pred eno minuto videa.",
+    "literal": "Oglaševanje na spletu je pretirano in vsiljivo."
+  },
+  {
+    "ironic": "Brezžični slušalki sta se seveda obe naenkrat izpraznili.",
+    "literal": "Brezžične naprave se vedno izpraznijo ob napačnem trenutku."
+  },
+  {
+    "ironic": "Kako lepo, da aplikacija zahteva dostop do mojih stikov, mikrofona in kamere.",
+    "literal": "Aplikacije zahtevajo preveč nepotrebnih dovoljenj."
+  },
+  {
+    "ironic": "Pametna televizija me razume popolnoma, ko ne govorim vanjo.",
+    "literal": "Glasovni asistenti pogosto aktivirajo napačno."
+  },
+  {
+    "ironic": "Spletno nakupovanje je čudovito, ker paket pride v dveh tednih.",
+    "literal": "Dostava pri spletnem nakupovanju je pogosto prepočasna."
+  },
+  {
+    "ironic": "Prekrasno je, da moj šef pričakuje odgovor ob 22:00.",
+    "literal": "Tehnologija je izbrisala mejo med delom in prostim časom."
+  },
+  {
+    "ironic": "Socialna omrežja so izjemno pozitivno vplivala na moje duševno zdravje.",
+    "literal": "Socialna omrežja negativno vplivajo na duševno zdravje."
+  },
+  {
+    "ironic": "Vsak aplikacijski update popravi tisto, kar je prej delovalo brezhibno.",
+    "literal": "Posodobitve pogosto pokvarijo funkcije, ki so prej delovale."
+  },
+  {
+    "ironic": "Tiskanje dokumenta brez napak pri prvem poskusu je pravi mit.",
+    "literal": "Tiskalniki skoraj nikoli ne delujejo brez težav."
+  },
+  {
+    "ironic": "Kako prijetno je biti produktiven z desetimi zavihki odprtimi hkrati.",
+    "literal": "Preveč odprtih zavihkov znižuje koncentracijo in produktivnost."
+  },
+  {
+    "ironic": "Seveda, blockchain bo rešil absolutno vsak problem človeštva.",
+    "literal": "Blockchain se prekomerno promovira kot rešitev za vse."
+  },
+  {
+    "ironic": "Nič mi ne dvigne razpoloženja kot modra zaslonska smrt.",
+    "literal": "Sistemske napake so izjemno stresne."
+  },
+  {
+    "ironic": "Odlično je, da mi spletna stran shrani piškotke brez mojega soglasja.",
+    "literal": "Spletna zasebnost se nenehno krši."
+  },
+  {
+    "ironic": "Aplikacija se je posodobila in izgubila vse moje nastavitve, super.",
+    "literal": "Posodobitve aplikacij pogosto povzročijo izgubo podatkov."
+  },
+  {
+    "ironic": "Virtualni sestanki so enako dobri kot pravi, brez dvoma.",
+    "literal": "Virtualni sestanki ne morejo nadomestiti osebnega stika."
+  },
+  {
+    "ironic": "Čudovito je, da moj telefon posluša pogovore in mi pokaže točne oglase.",
+    "literal": "Pametni telefoni zbirajo preveč osebnih podatkov."
+  },
+  {
+    "ironic": "Spletna diskusija je izjemno civilizirano mesto za izmenjavo mnenj.",
+    "literal": "Razprave na spletu so pogosto agresivne in nespoštljive."
+  },
+  {
+    "ironic": "Kako lepa izkušnja je tipkati geslo sedemkrat zapored napačno.",
+    "literal": "Varnostni sistemi z gesli so pogosto preveč zapleteni."
+  },
+  {
+    "ironic": "Pametna ura mi pametno opomni, da nisem hodil dovolj, ob polnoči.",
+    "literal": "Pametne naprave so pogosto nadležne s svojimi opomniki."
+  },
+  {
+    "ironic": "Zaupam, da bodo moji podatki pri tej korporaciji varni za vedno.",
+    "literal": "Korporacije ne varujejo naših podatkov dovolj resno."
+  },
+  {
+    "ironic": "Spletna anketa z dvajsetimi stranmi je prav prijetna prostočasna aktivnost.",
+    "literal": "Predolge spletne ankete so zamudne in nadležne."
+  },
+  {
+    "ironic": "Odlično je vedeti, da je internet povsod, razen tam, kjer ga potrebujem.",
+    "literal": "Internetna pokritost je še vedno zelo neenakomerna."
+  },
+  {
+    "ironic": "Tehnologija nam je popolnoma osvobodila od stresa in skrbi.",
+    "literal": "Tehnologija je ustvarila nove oblike stresa in tesnobe."
+  },
+  {
+    "ironic": "Čisto normalno je, da luč pri kameri prižge, ko se ne snemam.",
+    "literal": "Zasebnost pri spletnih kamerah je dvomljiva."
+  },
+  {
+    "ironic": "Kako koristna je umetna inteligenca, ki piše popolne neumnosti samozavestno.",
+    "literal": "Umetna inteligenca pogosto napačno odgovori z lažno gotovostjo."
+  },
+  {
+    "ironic": "Nič bolj zabavnega kot iskati kabel, ki ustreza novi napravi.",
+    "literal": "Tehnološki standardi so preveč razdrobljeni in nezdružljivi."
+  },
+  {
+    "ironic": "Seveda se moj mobilni prenos podatkov ne porabi tisti dan, ko ga res rabim.",
+    "literal": "Mobilni paketi se vedno porabijo ob najslabšem trenutku."
+  },
+  {
+    "ironic": "Prečudovito je, da internet nikoli ne pozabi ničesar, kar si obžaluješ.",
+    "literal": "Internet trajno hrani vse, kar bi radi izbrisali iz preteklosti."
+  },
+  {
+    "ironic": "Seveda, surovi riž je najboljša večerja.",
+    "literal": "Pozabil sem skuhati riž in nimam kaj jesti."
+  },
+  {
+    "ironic": "Nič lepšega kot zgorela jajčnica ob ponedeljkih.",
+    "literal": "Vsakič mi jajčnica zgori in to me frustrira."
+  },
+  {
+    "ironic": "Ta instant juha je prava gurmanška izkušnja.",
+    "literal": "Ta juha je grozna, a nimam energije za pravo kuhanje."
+  },
+  {
+    "ironic": "Bravo, spet si kuhal tri ure za nič.",
+    "literal": "Jed se ni posrečila kljub velikemu trudu."
+  },
+  {
+    "ironic": "Kot otrok sem sanjal o jedilniku s polizdelanimi picami.",
+    "literal": "Moja prehrana je revna in nezdrova."
+  },
+  {
+    "ironic": "Neverjetno, kako čudovito diši zagorela ponev.",
+    "literal": "Sem spet pozabil na štedilnik in vse zažgal."
+  },
+  {
+    "ironic": "Pet sestavin v hladilniku – pa kakšen razkošen obrok!",
+    "literal": "Hladilnik je skoraj prazen in ne vem, kaj skuhati."
+  },
+  {
+    "ironic": "Odlično, sol sem dodal trikrat v isti lonec.",
+    "literal": "Motnja pozornosti med kuhanjem mi je uničila jed."
+  },
+  {
+    "ironic": "Nič boljšega kot hladen ostanek od ponedeljka v sredo.",
+    "literal": "Ostanki so stari in vprašljivi, a jih bom pojedel."
+  },
+  {
+    "ironic": "Moja testenina al dente je blatasta kaša – mojstrovina.",
+    "literal": "Ne znam kuhati testenin in so vedno prekuhane."
+  },
+  {
+    "ironic": "Jasno, najboljši recepti so tisti z deset stranmi navodil.",
+    "literal": "Komplicirani recepti me odvrnejo od kuhanja."
+  },
+  {
+    "ironic": "Nič kot suha piščančja prsa za romantično večerjo.",
+    "literal": "Piščanec je bil preveč pečen in neužiten."
+  },
+  {
+    "ironic": "Briljantno – pozabil sem kupiti česen za rižoto.",
+    "literal": "Sem pozabljiv pri nakupu sestavin in to kvari jedi."
+  },
+  {
+    "ironic": "Kakšna sreča, da imam doma samo kečap in kruh.",
+    "literal": "Nimam živil in moram iti v trgovino, česar nočem."
+  },
+  {
+    "ironic": "Ta restavracija s petimi zvezdicami res zasluži vsak cent.",
+    "literal": "Restavracija je bila predraga in hrana povprečna."
+  },
+  {
+    "ironic": "Moja dieta z dostavo hrane je prava zdravstvena revolucija.",
+    "literal": "Naročam preveč nezdrave hrane in zapravim preveč denarja."
+  },
+  {
+    "ironic": "Vesel sem, da sol in sladkor izgledata popolnoma enako.",
+    "literal": "Zamešal sem sol in sladkor ter uničil jed."
+  },
+  {
+    "ironic": "Nič kot pita iz zamrzovalnika ob obisku gostov.",
+    "literal": "Sram me je, ker gostom postrežem z zamrznjeno hrano."
+  },
+  {
+    "ironic": "Fantastično, spet sem pozabil vključiti napo med cvrtjem.",
+    "literal": "Cela kuhinja diši po olju in maščobi."
+  },
+  {
+    "ironic": "Kuharska oddaja me prepriča, da je kuhanje enostavno.",
+    "literal": "V resnici kuhanje ni nič tako preprosto, kot kaže TV."
+  },
+  {
+    "ironic": "Popolnoma normalno je rezati čebulo in jokati uro.",
+    "literal": "Čebula me vedno spravi do solz in sovražim to."
+  },
+  {
+    "ironic": "Nič lepšega od posode z ostanki, ki jih nihče ne poje.",
+    "literal": "Hrana se zapravi, ker nihče ne želi jesti ostankov."
+  },
+  {
+    "ironic": "Ta zamrznjena lazanja je prav takšna kot pri noni.",
+    "literal": "Nona bi se zgrozila, ko bi videla, kaj jem."
+  },
+  {
+    "ironic": "Lepo je, ko ti recept vzame več časa kot branje knjige.",
+    "literal": "Recept je bil pretirano zapleten in nevreden truda."
+  },
+  {
+    "ironic": "Seveda, ponoči je pravi čas za eksperimentiranje s kuhanjem.",
+    "literal": "Ponoči kuham neutemeljene kombinacije in potem obžalujem."
+  },
+  {
+    "ironic": "Kakšna užitek, ko ti zmanjka masla sredi peke torte.",
+    "literal": "Sem neorganiziran in ponavadi nimam vseh sestavin pri roki."
+  },
+  {
+    "ironic": "Majhne gnusne ribe v pločevinki – pravi delikatesni zaklad.",
+    "literal": "Sardine iz pločevinke so moja zadnja možnost za obrok."
+  },
+  {
+    "ironic": "Lepo je vedeti, da sem rezal pico z nožem za kruh.",
+    "literal": "Nimam pravega orodja in improvizacija ne deluje dobro."
+  },
+  {
+    "ironic": "Moj strokovno pripravljen smoothie vsebuje samo banano in vodo.",
+    "literal": "Moj smoothie je bleden in brez okusa."
+  },
+  {
+    "ironic": "Čudovito, kako se karamel vedno prime dna posode.",
+    "literal": "Karamel vedno zgorim in čiščenje je nočna mora."
+  },
+  {
+    "ironic": "Prav gotovo je umami okus tisto, kar pogreša moja juha.",
+    "literal": "Juha je brez okusa in ne vem, kaj ji manjka."
+  },
+  {
+    "ironic": "Najboljši obrok dneva je sendvič ob polnoči iz ostankov.",
+    "literal": "Moje prehranjevalne navade so kaotične in neurejene."
+  },
+  {
+    "ironic": "Izvrstno – tortiljo sem segreval petnajst minut in je trda.",
+    "literal": "Ne znam pravilno segreti hrane in jo vedno uničim."
+  },
+  {
+    "ironic": "Nič boljšega kot lonec riža, ki se prime dna.",
+    "literal": "Riž sem spet zažgal in lonec bo težko očistiti."
+  },
+  {
+    "ironic": "Ta žajbelj iz lončka na oknu je prava kulinarična osnova.",
+    "literal": "Imam samo eno zelišče in se z njim bahim brez razloga."
+  },
+  {
+    "ironic": "Krasno je, ko ti pečica laže za deset stopinj.",
+    "literal": "Moja pečica ne peče enakomerno in to kvari rezultate."
+  },
+  {
+    "ironic": "Vesel sem za vse tiste recepte, ki zahtevajo truffle.",
+    "literal": "Drage sestavine v receptih so za mene nedosegljive."
+  },
+  {
+    "ironic": "Prav sem ponosen, ker sem skuhal vodo brez napake.",
+    "literal": "Moje kuharske spretnosti so na najnižji možni ravni."
+  },
+  {
+    "ironic": "Navdušujoče, kako tri ure mešanja ne izboljša okusa.",
+    "literal": "Vložil sem ogromno truda, a rezultat je bil razočarajoč."
+  },
+  {
+    "ironic": "Seveda, hladen čaj iz včerajšnjega večera je pravi napitek.",
+    "literal": "Preveč sem len, da bi si pripravil svež čaj."
+  },
+  {
+    "ironic": "Nič vznemirljivejšega od iskanja začimb po vseh predalih.",
+    "literal": "Moja kuhinja je neorganizirana in nič ne najdem hitro."
+  },
+  {
+    "ironic": "Čudovito je, ko gostje pohvalijo mojo kupljeno torto.",
+    "literal": "Nisem povedal, da torte nisem sam spekel."
+  },
+  {
+    "ironic": "Moja avokado solata je prava prehranska masterclass.",
+    "literal": "Avokado sem razrezal in mu dodal le sol – to ni kuhanje."
+  },
+  {
+    "ironic": "Presrečen sem, ko nakupim zelenjavo, ki zgnije pred porabo.",
+    "literal": "Vedno nakupim preveč in hrana se zapravi."
+  },
+  {
+    "ironic": "Fantastično je odkriti plesen na kruhu ob zajtrku.",
+    "literal": "Kruh je prestar in bi ga moral zamenjati prej."
+  },
+  {
+    "ironic": "Moji prijatelji so navdušeni nad mojim edinim receptom.",
+    "literal": "Znam skuhati le eno jed in jo ponavljam v nedogled."
+  },
+  {
+    "ironic": "Lepo je, ko ti ponev dimni ob prvem segrevanju.",
+    "literal": "Ponev sem pozabil oprati in ostanek hrane je zgorel."
+  },
+  {
+    "ironic": "Neverjetno elegantno je jesti suhe testenine kot prigrizek.",
+    "literal": "Toliko sem lačen, da jem nepredelane surovine iz shrambe."
+  },
+  {
+    "ironic": "Super, spet sem pozabil odmrzniti meso za večerjo.",
+    "literal": "Sem nepredvidljiv pri načrtovanju obrokov in vedno v zadregi."
+  },
+  {
+    "ironic": "Kuharski tečaj mi je pomagal skuhati boljši instant ramen.",
+    "literal": "Kuharski tečaj ni imel nobenega praktičnega učinka name."
+  },
+  {
+    "ironic": "Popolno je, ko juha zavri čez rob med pogovorom.",
+    "literal": "Sem raztresen pri kuhanju in povzročam nered v kuhinji."
+  },
+  {
+    "ironic": "Nič lepšega kot vstati ob petih zjutraj za tek.",
+    "literal": "Sovražim zgodnje vstajanje zaradi teka."
+  },
+  {
+    "ironic": "Telovadnica je moj drugi dom, sploh ko me tam ni.",
+    "literal": "V telovadnico hodim zelo redko."
+  },
+  {
+    "ironic": "Kako prijetno je, ko te mišice dan po treningu ne ubogajo.",
+    "literal": "Mišična bolečina po vadbi je neznosna."
+  },
+  {
+    "ironic": "Nič ne dvigne razpoloženja kot ura kardio vadbe.",
+    "literal": "Kardio vadba me spravi ob živce."
+  },
+  {
+    "ironic": "Plank za dve minuti je prava sproščujoča izkušnja.",
+    "literal": "Plank je izjemno naporna vaja."
+  },
+  {
+    "ironic": "Fantastično je plačevati članarino za telovadnico, ki jo obiščem enkrat letno.",
+    "literal": "Tratim denar za telovadnico, ki je ne uporabljam."
+  },
+  {
+    "ironic": "Kolesarjenje v dežju je absolutna poslastica.",
+    "literal": "Kolesarjenje v dežju je neprijetno in mučno."
+  },
+  {
+    "ironic": "Nič ne pomiri kot trener, ki kriči da daš še eno ponovitev.",
+    "literal": "Ko trener kriči, me to zelo moti."
+  },
+  {
+    "ironic": "Tek v poletni vročini je čisto kot spa dan.",
+    "literal": "Tek v vročini je izčrpavajoč in neprijeten."
+  },
+  {
+    "ironic": "Počepov nikoli ni dovolj, vedno bi jih naredil še sto.",
+    "literal": "Počepi me umorijo in rad bi jih čim prej končal."
+  },
+  {
+    "ironic": "Izredno me veseli, ko mi prijatelj razlaga o svoji novi dieti.",
+    "literal": "Ne zanima me poslušati o tujskih dietah."
+  },
+  {
+    "ironic": "Piti proteinsko smetano zjutraj je čist užitek.",
+    "literal": "Proteinski napitki zjutraj so mi zoprni."
+  },
+  {
+    "ironic": "Yoga ob šestih zjutraj je najboljši način za začetek dneva.",
+    "literal": "Zjutraj nisem sposoben početi česar koli zahtevnega."
+  },
+  {
+    "ironic": "Nič mi ne gre tako od rok kot brezglutenska prehrana.",
+    "literal": "Brezglutenska prehrana mi ne ustreza."
+  },
+  {
+    "ironic": "Obožujem, ko fitnes influencerji razlagajo, kako je vadba zabavna.",
+    "literal": "Fitnes influencerji me dolgočasijo s svojimi nasveti."
+  },
+  {
+    "ironic": "Beg pred težavami je edini tek, ki ga zares uživam.",
+    "literal": "Rednega teka ne maram, samo simbolično ga omenjam."
+  },
+  {
+    "ironic": "Kako krasno je premikati se po telovadnici in ne vedeti, kaj delaš.",
+    "literal": "V telovadnici se počutim izgubljenega in nevednega."
+  },
+  {
+    "ironic": "Sto sklec na dan je moja najljubša jutanja rutina.",
+    "literal": "Sklece sovražim in se jim izogibam."
+  },
+  {
+    "ironic": "Nič ne osvežuje tako kot ledena kopel po treningu.",
+    "literal": "Ledena kopel po treningu je mučna izkušnja."
+  },
+  {
+    "ironic": "Maratonci so moji vzorniki, sploh ker sam ne pretečem niti kilometra.",
+    "literal": "Maratonci so mi tuji, ker sam ne tečem."
+  },
+  {
+    "ironic": "Aplikacija za štetje kalorij mi je resnično spremenila življenje na bolje.",
+    "literal": "Štetje kalorij me obremenjuje in jezi."
+  },
+  {
+    "ironic": "Obožujem vonj telovadnice ob petih popoldne.",
+    "literal": "Vonj telovadnice mi je odvraten."
+  },
+  {
+    "ironic": "Krosnofitnes je neverjetno lahka rekreacija za sprostitev.",
+    "literal": "Crossfit je izredno naporna in zahtevna vadba."
+  },
+  {
+    "ironic": "Nič lepšega kot telovaditi, ko si bolan in kašljaš.",
+    "literal": "Vadba med boleznijo je slaba ideja in se ji izogibam."
+  },
+  {
+    "ironic": "Bravo tebi, ki si danes prišel v telovadnico prvič po treh mesecih.",
+    "literal": "Dolgo sem zanemarjal vadbo in se tega sramujem."
+  },
+  {
+    "ironic": "Res je prijetno, ko sosedov pes teče hitreje od tebe.",
+    "literal": "Jezi me, da je pes hitrejši od mene."
+  },
+  {
+    "ironic": "Nič ne motivira bolj kot gledanje v ogledalo po prvem treningu.",
+    "literal": "Po prvem treningu nisem opazil nobene razlike in me je to razočaralo."
+  },
+  {
+    "ironic": "Odlično je, ko tekaška torba tehta toliko kot sam tekaš.",
+    "literal": "Pretežka torba med tekom je moteča in neugodna."
+  },
+  {
+    "ironic": "Smučanje je idealen šport za nekoga, ki ne mara snega in mrzlote.",
+    "literal": "Smučanje mi ni všeč zaradi mraza in snega."
+  },
+  {
+    "ironic": "Kako čudovito, da je telovadnica ravno nasproti picerije.",
+    "literal": "Picerija ob telovadnici mi ruši trud in voljo."
+  },
+  {
+    "ironic": "Nič mi ne olajša dneva kot stopnice namesto dvigala.",
+    "literal": "Stopnice me utrudijo in raje vzamem dvigalo."
+  },
+  {
+    "ironic": "Sobotni maraton po mestu je moja najljubša oblika počitka.",
+    "literal": "Maraton ob koncu tedna me popolnoma uniči."
+  },
+  {
+    "ironic": "Odlično je, ko ti trener reče, da si šele začetnik.",
+    "literal": "Biti imenovan za začetnika me poniža in razočara."
+  },
+  {
+    "ironic": "Nič ne izboljša počutja kot padec s kolesa sredi parkirišča.",
+    "literal": "Padec s kolesa me spravi ob dobro voljo in me spravi v zadrego."
+  },
+  {
+    "ironic": "Prebuditi se brez bolečin v nogah po teku je prava redkost.",
+    "literal": "Po teku me vedno bolijo noge."
+  },
+  {
+    "ironic": "Kako imenitno je, da fitnes naprave izgledajo kot mučilne naprave.",
+    "literal": "Fitnes naprave so zastrašujoče in ne vem, kako jih uporabiti."
+  },
+  {
+    "ironic": "Zmagati na šolskem krosu je bil moj najsrečnejši trenutek.",
+    "literal": "Šolski kros sem sovražil in nikoli nisem bil med prvimi."
+  },
+  {
+    "ironic": "Nič bolj okrepčilnega kot energijska pijača pred jutranjo vadbo.",
+    "literal": "Energijske pijače pred vadbo so škodljive in nepotrebne."
+  },
+  {
+    "ironic": "Kopanje v morju pri desetih stopinjah gradi karakter.",
+    "literal": "Hladno kopanje je neprijetno in ga ne maram."
+  },
+  {
+    "ironic": "Odlično, ko fitnes trener razlaga vaje, ki jih sam nikoli ne počne.",
+    "literal": "Licemerni trenerji me motijo in jim ne zaupam."
+  },
+  {
+    "ironic": "Nič ne dvigne motivacije kot nova tekaška oprema, ki jo kupiš in ne uporabiš.",
+    "literal": "Kupujem sportno opremo, ki je nikoli ne uporabim."
+  },
+  {
+    "ironic": "Nogomet ob nedeljah z možgani, ki so še v sobotnem večeru, je čista radost.",
+    "literal": "Športanje po nočnem izletu je pravi muk."
+  },
+  {
+    "ironic": "Kako veselim tega, ko moram teči v mehurjem na peti.",
+    "literal": "Mehurji na petah med tekom so boleči in moteči."
+  },
+  {
+    "ironic": "Nič ni bolj navdihujoče kot fotografija six-packa na Instagramu.",
+    "literal": "Fotografije idealnih teles na Instagramu me frustrirajo."
+  },
+  {
+    "ironic": "Pravi športnik je tisti, ki se za šport odloči vsak januar znova.",
+    "literal": "Novoletne zaobljube o vadbi nikoli ne zdržijo dolgo."
+  },
+  {
+    "ironic": "Kako krasno je hoditi v telovadnico in se le ogrevati eno uro.",
+    "literal": "V telovadnici se izogibam zahtevni vadbi in le navidezno treniram."
+  },
+  {
+    "ironic": "Nič mi ne prija bolj kot stretching, ki traja dlje kot trening.",
+    "literal": "Stretching se mi zdi dolgočasen in nepotrebno dolg."
+  },
+  {
+    "ironic": "Sanjava mi je postava športnika, ki trenira po šest ur na dan.",
+    "literal": "Sam ne bi zmogel trenirati niti ene ure dnevno."
+  },
+  {
+    "ironic": "Seveda bom prišel na jutranjo vadbo, nastavi alarm kar na pet.",
+    "literal": "Zjutraj ne bom vstajal za vadbo, alarm bom izklopil."
+  },
+  {
+    "ironic": "Nič ne poveča samozavesti tako kot telovaditi ob samih profesionalcih.",
+    "literal": "Vadba ob profesionalnih športnikih me spravlja v zadrego."
+  },
+  {
+    "ironic": "Pravi užitek je, ko ti aplikacija za vadbo vsak dan pošilja opomnike.",
+    "literal": "Opomniki za vadbo me dražijo in jih ignoriram."
+  },
+  {
+    "ironic": "Fantastično, spet sem zamudil avtobus za minuto.",
+    "literal": "Zelo me jezi, ker sem zamudil avtobus."
+  },
+  {
+    "ironic": "Nič lepšega kot čakati v vrsti eno uro.",
+    "literal": "Čakanje v vrsti me izčrpa in razdraži."
+  },
+  {
+    "ironic": "Seveda deluje wifi ravno ko ga najbolj potrebujem.",
+    "literal": "Wifi ne deluje v najpomembnejšem trenutku."
+  },
+  {
+    "ironic": "Briljantno, pozabil sem denarnico doma.",
+    "literal": "Sem neorganiziran in zdaj imam težave."
+  },
+  {
+    "ironic": "Nič lepšega kot alarm ob petih zjutraj.",
+    "literal": "Sovražim zgodnje vstajanje."
+  },
+  {
+    "ironic": "Odlično, sosed spet posluša glasbo ob polnoči.",
+    "literal": "Sosed me moti in ne morem spati."
+  },
+  {
+    "ironic": "Kakšna sreča, da je danes ponedeljek.",
+    "literal": "Ponedeljek je moj najslabši dan v tednu."
+  },
+  {
+    "ironic": "Čudovito, blagajna se je ravno zdaj pokvarila.",
+    "literal": "Situacija je frustrirajoča in zamudim čas."
+  },
+  {
+    "ironic": "Super, telefon se je izpraznil med navigacijo.",
+    "literal": "Zdaj sem izgubljen in nimam pomoči."
+  },
+  {
+    "ironic": "Res privilegij stati v prometnem zastoju uro.",
+    "literal": "Prometni zastoj me spravi ob živce."
+  },
+  {
+    "ironic": "Imenitno, dež je začel ravno ko sem brez dežnika.",
+    "literal": "Mokra bom in to me jezi."
+  },
+  {
+    "ironic": "Neverjetna sreča, trgovina se je zaprla pred nosom.",
+    "literal": "Zamudil sem zapiralni čas in sem razočaran."
+  },
+  {
+    "ironic": "Kako prijetno, ko te šef pokliče ob petku zvečer.",
+    "literal": "Šef ne spoštuje mojega prostega časa."
+  },
+  {
+    "ironic": "Čisto navaden dan, ko pralni stroj zalije kuhinjo.",
+    "literal": "Situacija je katastrofalna in stresna."
+  },
+  {
+    "ironic": "Globoka sreča, ko odkrijemo prazen hladilnik.",
+    "literal": "Nisem kupil hrane in sem lačen."
+  },
+  {
+    "ironic": "Kar pogosto se zgodi, da internet pade med oddajo.",
+    "literal": "Izgubil sem ure dela in sem obupan."
+  },
+  {
+    "ironic": "Nič prijetnejšega kot zob, ki začne boleti ob soboti.",
+    "literal": "Zobozdravnik ob vikendih ne ordinira in trpim."
+  },
+  {
+    "ironic": "Presenetljivo, parkirišče je polno ravno danes.",
+    "literal": "Nikoli ne najdem parkirnega mesta ko ga potrebujem."
+  },
+  {
+    "ironic": "Kakšen užitek, ko vroče kavo zliješ nase.",
+    "literal": "Poparil sem se in zelo boli."
+  },
+  {
+    "ironic": "Naravnost fenomenalno, spet sem izgubil ključe.",
+    "literal": "Sem raztresenega in stalno izgubljam stvari."
+  },
+  {
+    "ironic": "Prava poslastica je vstati in stopiti v lužo.",
+    "literal": "Zjutraj me neprijetno preseneti mokra tla."
+  },
+  {
+    "ironic": "Izjemno sproščujoče je, ko se vrsta ne premakne.",
+    "literal": "Neučinkovita storitev me frustrira."
+  },
+  {
+    "ironic": "Kar vznemirljivo je, ko računalnik zamrzne med delom.",
+    "literal": "Izgubil sem podatke in sem jezen."
+  },
+  {
+    "ironic": "Res nepozabno, ko me kolega povabi na sestanek ob sedmih.",
+    "literal": "Zgodnji sestanki mi uničijo jutra."
+  },
+  {
+    "ironic": "Pravo razkošje je iti z nakupovanjem s praznim želodcem.",
+    "literal": "Ko sem lačen, kupim preveč nepotrebnih stvari."
+  },
+  {
+    "ironic": "Radost polnih razsežnosti je, ko avto ne vžge zjutraj.",
+    "literal": "Avto me je pustil na cedilu ob napačnem času."
+  },
+  {
+    "ironic": "Mehurček sreče, ko paket pride poškodovan.",
+    "literal": "Dostavna služba ni pazljiva in sem razočaran."
+  },
+  {
+    "ironic": "Prelepo doživetje je čakati na popravilo cel teden.",
+    "literal": "Servis dela prepočasi in sem nestrpljiv."
+  },
+  {
+    "ironic": "Nadvse prijetno je, ko naprava preneha delovati po garanciji.",
+    "literal": "Imel sem smolo z garancijskim rokom."
+  },
+  {
+    "ironic": "Kar dobrodošlo je, ko ti nekdo vzame parkirno mesto.",
+    "literal": "Nesramen voznik me je razjezil."
+  },
+  {
+    "ironic": "Nič slajšega kot račun, ki je višji od pričakovanega.",
+    "literal": "Nepričakovan strošek mi pokvari proračun."
+  },
+  {
+    "ironic": "Kar veselo mi postane, ko padeta internet in elektrika skupaj.",
+    "literal": "Brez elektrike in interneta sem nemočen."
+  },
+  {
+    "ironic": "Navdihujoče je biti pozabljen pri rezervaciji mize.",
+    "literal": "Restavracija je izgubila mojo rezervacijo."
+  },
+  {
+    "ironic": "Res sanjska situacija, ko avtobus odpeljal tik pred nosom.",
+    "literal": "Zamudil sem prevoz za sekundo in sem obupan."
+  },
+  {
+    "ironic": "Prava meditacija je čakati na tehnično podporo uro.",
+    "literal": "Klicni center je neučinkovit in zapravim čas."
+  },
+  {
+    "ironic": "Preprosto čarobno, ko pogrneš kavo po beli srajci.",
+    "literal": "Uničil sem oblačilo ravno pred pomembnim sestankom."
+  },
+  {
+    "ironic": "Kako navdihujoče, ko sotrpini v pisarni kričijo čez telefon.",
+    "literal": "Kolegi ne spoštujejo skupnega prostora."
+  },
+  {
+    "ironic": "Kar prijetno je zmrzniti na postaji brez strehe.",
+    "literal": "Infrastruktura javnega prevoza je slaba."
+  },
+  {
+    "ironic": "Nepopisna sreča je, ko pozabiš geslo za vse račune hkrati.",
+    "literal": "Sem brez dostopa do svojih računov in sem obupan."
+  },
+  {
+    "ironic": "Res izsredna izkušnja, ko v restavraciji dobim napačno naročilo.",
+    "literal": "Strežba je bila malomarno opravljena."
+  },
+  {
+    "ironic": "Pravi privilegij je, ko ti zmanjka denarja tik pred blagajno.",
+    "literal": "Neprijetno sem se znašel pred drugimi kupci."
+  },
+  {
+    "ironic": "Lepo je vedeti, da tiskalniku zmanjka črnila prav zdaj.",
+    "literal": "Tiskalnik je vedno pokvarjen ob napačnem času."
+  },
+  {
+    "ironic": "Naravnost razburljivo je, ko te prebudijo delavci pod oknom.",
+    "literal": "Hrup me je zbujal in pokvaril počitek."
+  },
+  {
+    "ironic": "Dobrodošla izkušnja je stati za počasnim pešcem.",
+    "literal": "Počasni pešci me ovirajo in zamujam."
+  },
+  {
+    "ironic": "Pravo zadovoljstvo je, ko aplikacija ne deluje ob nakupu.",
+    "literal": "Tehnična napaka mi preprečila nakup v ključnem trenutku."
+  },
+  {
+    "ironic": "Imenitno doživetje je poiskati parkirnino in ugotoviti da nimaš kovancev.",
+    "literal": "Nepripravljen sem in zdaj bom dobil kazen."
+  },
+  {
+    "ironic": "Res čudovito je odpreti hladilnik in najti le gorčico.",
+    "literal": "Pozabil sem iti po nakupih in nimam kaj jesti."
+  },
+  {
+    "ironic": "Izredna vznemirljivost je čakati servisarja cel dan in ne priti.",
+    "literal": "Servis ni spoštoval dogovorjenega termina."
+  },
+  {
+    "ironic": "Prelepo se počutim, ko me potisne šolska torba v hrbet.",
+    "literal": "Otroci v javnem prevozu ne pazijo na okolico."
+  },
+  {
+    "ironic": "Res blagodejna izkušnja je, ko ti baterija umre med klicem.",
+    "literal": "Izgubil sem pomemben pogovor ob najslabšem trenutku."
+  },
+  {
+    "ironic": "Čisto nič ne maram čakati v vrsti eno uro.",
+    "literal": "Sovražim dolge vrste pri blagajni."
+  },
+  {
+    "ironic": "Nič lepšega kot iskati parkirno mesto eno uro.",
+    "literal": "Parkiranje pri nakupovalnem centru je nočna mora."
+  },
+  {
+    "ironic": "Seveda, cene so se spet znižale – navzdol gledano.",
+    "literal": "Vse je postalo dražje."
+  },
+  {
+    "ironic": "Kako prijetno, ko prodajalec sploh ne opazi tebe.",
+    "literal": "Prodajno osebje je bilo nezainteresirano in ignorantsko."
+  },
+  {
+    "ironic": "Obožujem, ko so police ravno prazne za tistim, kar iščem.",
+    "literal": "Artikla, ki ga potrebujem, nikoli ni na zalogi."
+  },
+  {
+    "ironic": "Odlično, spet en kupon z rokom veljavnosti včeraj.",
+    "literal": "Kuponi vedno potečejo, preden jih lahko uporabim."
+  },
+  {
+    "ironic": "Nič ni boljše od samopostrežne blagajne, ki ne deluje.",
+    "literal": "Samopostrežne blagajne so pogosto pokvarjene in frustrirajoče."
+  },
+  {
+    "ironic": "Super, vrečka stane toliko kot pol nakupa.",
+    "literal": "Plastične vrečke so postale absurdno drage."
+  },
+  {
+    "ironic": "Razprodaja je fantastična – razen tega, da ni nič razprodano.",
+    "literal": "Razprodaje so zavajajoče in pogosto brez pravih popustov."
+  },
+  {
+    "ironic": "Kajpak, točno ta artikel je na voljo samo online.",
+    "literal": "V fizični trgovini nikoli ni tistega, kar iščem."
+  },
+  {
+    "ironic": "Kako lepo, pet različnih vrst kečapa, kruha pa nič.",
+    "literal": "Sortiment v trgovini je nelogično sestavljen."
+  },
+  {
+    "ironic": "Res uživam, ko mi poiščejo napačno številko čevljev.",
+    "literal": "Prodajno osebje pogosto prinese napačen artikel."
+  },
+  {
+    "ironic": "Bravo, spet so premaknili vse police na nova mesta.",
+    "literal": "Preureditev trgovine me vsakič popolnoma zmede."
+  },
+  {
+    "ironic": "Navdušen sem nad tem, kako hitro odpade etiketa s ceno.",
+    "literal": "Cenovne nalepke so slabe kakovosti in se hitro odlepijo."
+  },
+  {
+    "ironic": "Čudovito, garderoba ima samo dve kabini za sto kupcev.",
+    "literal": "Premajhno število garderobnih kabin povzroča frustracije."
+  },
+  {
+    "ironic": "Presrečen sem, ker loyalty kartica spet ni delovala.",
+    "literal": "Zvestobne kartice so zanesljivo neuporabne ravno takrat, ko jih potrebujem."
+  },
+  {
+    "ironic": "Blaženo je stati za vozičkom, ki se ne da usmerjati.",
+    "literal": "Voziček s pokvarjenimi kolesi je prava muka."
+  },
+  {
+    "ironic": "Fantastično, aplikacija za popuste se je ravno zdaj zrušila.",
+    "literal": "Mobilne aplikacije za nakupe so nezanesljive."
+  },
+  {
+    "ironic": "Neverjetno, kako hitro se 'malo nakupovanje' sprevrže v sto evrov.",
+    "literal": "Vedno porabim veliko več, kot sem nameraval."
+  },
+  {
+    "ironic": "Prekrasno je, ko je dostava paketa 'pričakovana v petek' v torek.",
+    "literal": "Ocene rokov dostave so popolnoma nezanesljive."
+  },
+  {
+    "ironic": "Kako zabavno je vračati artikel brez originalnega računa.",
+    "literal": "Brez računa je vračilo blaga izjemno zapleteno."
+  },
+  {
+    "ironic": "Noro sem navdušen nad pakiranjem, ki ga ne morem odpreti.",
+    "literal": "Nekatera pakiranja so zasnovana tako, da jih je nemogoče odpreti."
+  },
+  {
+    "ironic": "Presenetljivo, spet je na blagajni samo ena vrsta odprta.",
+    "literal": "Premalo odprtih blagajn povzroča enormne gneče."
+  },
+  {
+    "ironic": "Genialno, 'brezplačna' dostava velja za nakupe nad dvesto evri.",
+    "literal": "Pogoji za brezplačno dostavo so pogosto nedosegljivi."
+  },
+  {
+    "ironic": "Zakaj bi sploh kdaj imeli mojo velikost na zalogi.",
+    "literal": "Moja velikost oblačil je skoraj nikoli na razpolago."
+  },
+  {
+    "ironic": "Popolno, spletna stran pravi 'na zalogi', a v resnici ni.",
+    "literal": "Informacije o zalogah na spletnih straneh so pogosto napačne."
+  },
+  {
+    "ironic": "Naravnost fascinantno je, kako se vrsta na blagajni ne krajša.",
+    "literal": "Čakanje pri blagajni je nesmiselno dolgo."
+  },
+  {
+    "ironic": "Prav krasno je, ko ti na blagajni zmanjka gotovine.",
+    "literal": "Pozabiti denar pri nakupovanju je zelo neprijetno."
+  },
+  {
+    "ironic": "Briljantno, spet akcija za artikel, ki ga ne potrebujem.",
+    "literal": "Akcijske ponudbe redko vključujejo tisto, kar dejansko potrebujem."
+  },
+  {
+    "ironic": "Nepopisno je veselje ob sprejemu reklamacije po treh tednih.",
+    "literal": "Reševanje reklamacij traja predolgo in je zamudno."
+  },
+  {
+    "ironic": "Uživam, ko me pri izhodu varnostnik preverja kot kriminalca.",
+    "literal": "Varnostni pregledi pri izhodu so ponižujoči."
+  },
+  {
+    "ironic": "Blagoslov je, ko poštar paket vrne pošiljatelju brez razloga.",
+    "literal": "Nedostavljeni paketi so resen problem pri spletnem nakupovanju."
+  },
+  {
+    "ironic": "Vznemirljivo, spet pet klikov samo za odjavo od newsletterja.",
+    "literal": "Odjava od oglaševalskih sporočil je namerno otežena."
+  },
+  {
+    "ironic": "Lepo je videti, da 'novo' blago že kaže znake obrabe.",
+    "literal": "Kakovost novih izdelkov je pogosto razočarajoča."
+  },
+  {
+    "ironic": "Noro priročno je, da je garderoba na drugem koncu trgovine.",
+    "literal": "Slaba razporeditev garderobnih kabin je frustrirajoča."
+  },
+  {
+    "ironic": "Kako mi je pri srcu, ko je embalaža večja od vsebine.",
+    "literal": "Zavajajoče pakiranje je potrošniška prevara."
+  },
+  {
+    "ironic": "Toplo mi je pri duši, ko spletna stran zavrže moj voziček.",
+    "literal": "Tehnične napake pri spletnem nakupovanju so izjemno moteče."
+  },
+  {
+    "ironic": "Res je čudovito, ko prodajalec ne pozna lastnih cen.",
+    "literal": "Prodajalci pogosto niso dovolj usposobljeni za svoje delo."
+  },
+  {
+    "ironic": "Navdušujoče, 'premium' kvaliteta se je raztrgala po prvem pranju.",
+    "literal": "Dragi izdelki pogosto ne upravičijo svoje cene."
+  },
+  {
+    "ironic": "Krasno, moja kreditna kartica je ravno danes blokirana.",
+    "literal": "Bančne blokade se zgodijo vedno ob najslabšem možnem trenutku."
+  },
+  {
+    "ironic": "Izjemno logično je, da je WC na tretjem nadstropju.",
+    "literal": "Slaba infrastruktura v nakupovalnih centrih je nepraktična."
+  },
+  {
+    "ironic": "Neverjetna sreča, ko ti vrečka poči ravno pred vhodom.",
+    "literal": "Slabo kakovostne vrečke so praktična nevšečnost."
+  },
+  {
+    "ironic": "Prikupno je, ko prodajalec razlaga lastnosti napačnega modela.",
+    "literal": "Prodajno osebje pogosto ni dovolj poučeno o izdelkih."
+  },
+  {
+    "ironic": "Čisto mi je vseeno, da so na blagajni vzeli preveč denarja.",
+    "literal": "Napake pri zaračunavanju so resna potrošniška težava."
+  },
+  {
+    "ironic": "Prijazno opozorilo: 'razprodaja samo za člane kluba' pomeni nič zame.",
+    "literal": "Ekskluzivne ugodnosti so dostopne le redkim privilegiranim kupcem."
+  },
+  {
+    "ironic": "Nepozabno je, ko moraš po en artikel v pet različnih trgovin.",
+    "literal": "Slaba razporeditev blaga med trgovinami zahteva nepotrebno potovanje."
+  },
+  {
+    "ironic": "Izredno koristno je, ko je opis artikla napisan v tujem jeziku.",
+    "literal": "Odsotnost slovenskega opisa na izdelkih je moteča."
+  },
+  {
+    "ironic": "Sijajno je, ko ti paketa ne dostavijo, ker nisi bil doma ob dveh.",
+    "literal": "Ozko dostavljalno okno je povsem neprilagojeno zaposlenim ljudem."
+  },
+  {
+    "ironic": "Oboževam, ko je akcijska cena enaka redni izpred meseca dni.",
+    "literal": "Lažni popusti so pogosta in zakonsko vprašljiva praksa."
+  },
+  {
+    "ironic": "Nadvse prijetno je, ko moraš za vračilo blaga čakati teden dni.",
+    "literal": "Postopki vračila so nepotrebno dolgi in zamudni."
+  },
+  {
+    "ironic": "Impresivno, 'zadnji kos' je v tej trgovini prisoten že tri mesece.",
+    "literal": "Prodajne taktike z lažno omejenostjo zalog so manipulativne."
+  },
+  {
+    "ironic": "Čakalna vrsta pri zdravniku je samo dve leti, super.",
+    "literal": "Čakalna doba je nesprejemljivo dolga."
+  },
+  {
+    "ironic": "Google mi je diagnosticiral raka v petih minutah, odlično.",
+    "literal": "Samodiagnosticiranje prek interneta je nevarno."
+  },
+  {
+    "ironic": "Seveda bom za vsak simptom takoj šel k zdravniku.",
+    "literal": "Nikoli ne grem k zdravniku, dokler ni prepozno."
+  },
+  {
+    "ironic": "Pet tablet zjutraj je popolno zdravo jutro.",
+    "literal": "Jemanje preveč zdravil ni normalno."
+  },
+  {
+    "ironic": "Zdravnik me je čakal točno ob uri, kot vedno.",
+    "literal": "Zdravnik je imel zamudo uro in pol."
+  },
+  {
+    "ironic": "Recepcija v zdravstvenem domu je neverjetno prijazna.",
+    "literal": "Osebje na recepciji je pogosto nejevoljno."
+  },
+  {
+    "ironic": "Kajenje je odlična tehnika za sproščanje stresa.",
+    "literal": "Kajenje resno škoduje zdravju."
+  },
+  {
+    "ironic": "Ta zeliščni čaj bo zagotovo pozdravil mojo pljučnico.",
+    "literal": "Zeliščni čaj ne nadomesti pravega zdravljenja."
+  },
+  {
+    "ironic": "Seveda sem vsako leto na preventivnem pregledu.",
+    "literal": "Preventivnih pregledov se sistematično izogibam."
+  },
+  {
+    "ironic": "Spanje štiri ure je povsem dovolj za regeneracijo.",
+    "literal": "Premalo spanja resno škoduje zdravju."
+  },
+  {
+    "ironic": "Cepljenje povzroča vse bolezni, to je jasno.",
+    "literal": "Teorije zarote o cepljenju so nevarne laži."
+  },
+  {
+    "ironic": "Moj homeopat me razume bolje kot pravi zdravnik.",
+    "literal": "Homeopatija nima dokazane učinkovitosti."
+  },
+  {
+    "ironic": "Počutim se fantastično, odkar jem samo superfoods.",
+    "literal": "Čudežne diete ne delajo čudežev."
+  },
+  {
+    "ironic": "Alkohol vsak večer je odlično za srčno zdravje.",
+    "literal": "Prekomerno pitje alkohola je škodljivo."
+  },
+  {
+    "ironic": "Napotnica k specialistu prispe takoj naslednji teden.",
+    "literal": "Na napotnico čakamo mesece."
+  },
+  {
+    "ironic": "Zdravnik me je res pozorno poslušal celih trideset sekund.",
+    "literal": "Zdravnik si ni vzel dovolj časa za pogovor."
+  },
+  {
+    "ironic": "Bolnišnična hrana je prava kulinarična izkušnja.",
+    "literal": "Hrana v bolnišnicah je pogosto slaba."
+  },
+  {
+    "ironic": "Zavarovalnica bo z veseljem pokrila vse stroške.",
+    "literal": "Zavarovalnica zavrne vsak drug zahtevek."
+  },
+  {
+    "ironic": "Boli me? Ne, to je samo moja domišljija.",
+    "literal": "Bolečino je treba vzeti resno."
+  },
+  {
+    "ironic": "Tek v mrazu brez jakne je odlično za imunski sistem.",
+    "literal": "Nerazboritost pri vadbi povzroča bolezni."
+  },
+  {
+    "ironic": "Moja dieta iz revije bo spremenila moje življenje.",
+    "literal": "Modne diete redko delujejo dolgoročno."
+  },
+  {
+    "ironic": "Parking pred bolnišnico je vedno na voljo in zastonj.",
+    "literal": "Parkirišče pred bolnišnico je kaotično in drago."
+  },
+  {
+    "ironic": "Antibiotiki pomagajo pri vsakem prehladu, to je znano.",
+    "literal": "Antibiotiki pri virusnih okužbah ne pomagajo."
+  },
+  {
+    "ironic": "Ambulanta deluje brezhibno, sistem je vrhunski.",
+    "literal": "Zdravstveni sistem je preobremenjen in podhranjen."
+  },
+  {
+    "ironic": "MRI bo opravili že naslednji teden, zagotovo.",
+    "literal": "Na MRI čakamo po več mesecev."
+  },
+  {
+    "ironic": "Moj sosed je rekel, da te tablete so čudovite.",
+    "literal": "Nasvetov sosedov pri zdravilih ne smemo upoštevati."
+  },
+  {
+    "ironic": "Res je pametno ignorirati kronični kašelj tri mesece.",
+    "literal": "Dolgotrajen kašelj zahteva zdravniški pregled."
+  },
+  {
+    "ironic": "Fizioterapija po operaciji je povsem nepotrebna, jasno.",
+    "literal": "Rehabilitacija po operaciji je ključna za okrevanje."
+  },
+  {
+    "ironic": "Stres sploh ne vpliva na zdravje, to je mit.",
+    "literal": "Kronični stres resno škoduje telesu in umu."
+  },
+  {
+    "ironic": "Zobozdravnik me vedno poceni in hitro postreže.",
+    "literal": "Zobozdravnik je drag in čakanje je dolgo."
+  },
+  {
+    "ironic": "Samo sladkor v kavi ni nič, saj so to le kalorije.",
+    "literal": "Sladkor v prevelikih količinah škoduje zdravju."
+  },
+  {
+    "ironic": "Psiholog je za šibke, pravi možje zdržijo sami.",
+    "literal": "Iskanje psihološke pomoči je odgovorno dejanje."
+  },
+  {
+    "ironic": "Ta dober vitamin C bo pozdravil mojo depresijo.",
+    "literal": "Depresija zahteva strokovno zdravljenje."
+  },
+  {
+    "ironic": "Zdravniki vedno razložijo diagnozo v jasnem jeziku.",
+    "literal": "Medicinska terminologija je pogosto nerazumljiva."
+  },
+  {
+    "ironic": "Zdravilo brez recepta je enako učinkovito kot predpisano.",
+    "literal": "Samozdravljenje brez recepta je tvegano."
+  },
+  {
+    "ironic": "Šest ur v čakalnici je res prijetno preživet čas.",
+    "literal": "Dolgo čakanje pri zdravniku je izčrpavajoče."
+  },
+  {
+    "ironic": "Operacija? Ne, to bom rešil z masažo.",
+    "literal": "Nekatere bolezni zahtevajo kirurški poseg."
+  },
+  {
+    "ironic": "Naš zdravstveni sistem je v odlični kondiciji.",
+    "literal": "Zdravstveni sistem se sooča z resnimi težavami."
+  },
+  {
+    "ironic": "Preskakovanje obrokov je odlična pot do zdravja.",
+    "literal": "Redno in uravnoteženo prehranjevanje je nujno."
+  },
+  {
+    "ironic": "Bolniška odsotnost se odobri brez vsakih težav.",
+    "literal": "Pridobivanje bolniškega lista je pogosto zapleteno."
+  },
+  {
+    "ironic": "Vsak zdravnik bo takoj sprejel moje drugo mnenje.",
+    "literal": "Zdravniki pogosto ne cenijo nasprotnih stališč."
+  },
+  {
+    "ironic": "Zagotovo mi bo lekarna razložila stranske učinke.",
+    "literal": "Informacij o stranskih učinkih pogosto ne dobimo."
+  },
+  {
+    "ironic": "Tri ure telovadbe na dan brez počitka je zdravo.",
+    "literal": "Pretreniranost je prav tako škodljiva kot neaktivnost."
+  },
+  {
+    "ironic": "Ker sem se dobro počutil, sem prekinil antibiotik.",
+    "literal": "Antibiotika ne smemo prekiniti pred koncem terapije."
+  },
+  {
+    "ironic": "Moja teta je rekla, da med zdravi vse bolezni.",
+    "literal": "Med ni zdravilo za resne bolezni."
+  },
+  {
+    "ironic": "Super dan za piknik, a ne?",
+    "literal": "Ni dober dan za piknik."
+  },
+  {
+    "ironic": "Fantastično, spet dežuje na vikend.",
+    "literal": "Žal mi je, ker spet dežuje na vikend."
+  },
+  {
+    "ironic": "Odlična ideja za plažo danes.",
+    "literal": "Danes ni primeren dan za plažo."
+  },
+  {
+    "ironic": "Ja, ravno prava ura za nevihto.",
+    "literal": "Nevihta je prišla ob zelo neprimernem času."
+  },
+  {
+    "ironic": "Čudovito vreme za tek zunaj.",
+    "literal": "Vreme ni primerno za tek zunaj."
+  },
+  {
+    "ironic": "Super, točno ko sem obesil perilo, je začelo deževati.",
+    "literal": "Škoda, ker je začelo deževati ravno ko sem obesil perilo."
+  },
+  {
+    "ironic": "Bravo, -10 stopinj, točno ko sem pozabil jakno doma.",
+    "literal": "Zelo neprijetno je, da sem pozabil jakno pri takšnem mrazu."
+  },
+  {
+    "ironic": "Idealno vreme za poroko na prostem.",
+    "literal": "Vreme je bilo grozno za poroko na prostem."
+  },
+  {
+    "ironic": "Seveda je profesor spet zamudil.",
+    "literal": "Ni prijetno, da je profesor spet zamudil."
+  },
+  {
+    "ironic": "Odlično, izpit ravno v ponedeljek zjutraj ob osmi.",
+    "literal": "Izpit ob osmi zjutraj v ponedeljek je zelo neprijetno."
+  },
+  {
+    "ironic": "Super, pa še skupinsko delo z ljudmi, ki nič ne naredijo.",
+    "literal": "Skupinsko delo je frustrirajoče, ko nekateri ne prispevajo."
+  },
+  {
+    "ironic": "Ja, seveda sem se za ta predmet prijavil prostovoljno.",
+    "literal": "Za ta predmet sem se prijavil, ker je bil edina možnost."
+  },
+  {
+    "ironic": "Fantastično, 300 strani za branje do jutri.",
+    "literal": "Prebrati 300 strani do jutri je preveč."
+  },
+  {
+    "ironic": "Bravo, ocena ravno dovolj za pad.",
+    "literal": "Žal mi je, ker sem padel na izpitu."
+  },
+  {
+    "ironic": "Odlično, predavanje ob sedmih zjutraj.",
+    "literal": "Predavanje ob sedmih zjutraj je pretežko."
+  },
+  {
+    "ironic": "Seveda je sistem za prijavo na izpite spet crknil.",
+    "literal": "Frustrirajoče je, da sistem za prijavo spet ne deluje."
+  },
+  {
+    "ironic": "Seveda, točno to sem potreboval ob ponedeljku zjutraj.",
+    "literal": "To je zadnja stvar, ki sem jo potreboval ob ponedeljku zjutraj."
+  },
+  {
+    "ironic": "Ja, super, še ena seja.",
+    "literal": "Ta seja ni potrebna."
+  },
+  {
+    "ironic": "Odlično, rok za projekt so prestavili na jutri.",
+    "literal": "Zelo slabo je, da so rok prestavili na jutri."
+  },
+  {
+    "ironic": "Super, šef hoče poročilo za danes popoldne.",
+    "literal": "Neprijetno je, da šef zahteva poročilo tako hitro."
+  },
+  {
+    "ironic": "Ja, ravno prav, da nam pokvarijo vikend z nujno nalogo.",
+    "literal": "Slabo je, da moramo delati čez vikend."
+  },
+  {
+    "ironic": "Bravo, sestanak ob petih zvečer, ko naj bi šel domov.",
+    "literal": "Ni fer, da imamo sestanek tako pozno."
+  },
+  {
+    "ironic": "Odlično, plača je spet zamudila.",
+    "literal": "Žal mi je, ker plača spet ni prišla pravočasno."
+  },
+  {
+    "ironic": "Super, tiskalnik ne deluje ravno ko moram natisniti pogodbo.",
+    "literal": "Frustrirajoče je, da tiskalnik ne deluje v ključnem trenutku."
+  },
+  {
+    "ironic": "Ja, odlično, spet zamujam na avtobus.",
+    "literal": "Žal mi je, ker spet zamujam na avtobus."
+  },
+  {
+    "ironic": "Super, prometna gneča točno ob pol osmih.",
+    "literal": "Prometna gneča ob pol osmih je zelo neprijetna."
+  },
+  {
+    "ironic": "Odlično, vlak ima spet zamudo.",
+    "literal": "Žal mi je, ker ima vlak spet zamudo."
+  },
+  {
+    "ironic": "Bravo, edino prosto parkirno mesto je kilometer daleč.",
+    "literal": "Neprijetno je, da je najbližje parkirno mesto tako daleč."
+  },
+  {
+    "ironic": "Ja, super, bencin je spet podražil.",
+    "literal": "Slabo je, da je bencin spet dražji."
+  },
+  {
+    "ironic": "Seveda, ravno danes sem pozabil vozniško dovoljenje doma.",
+    "literal": "Žal mi je, ker sem danes pozabil vozniško dovoljenje."
+  },
+  {
+    "ironic": "Fantastično, avtocesta zaprta, obvoz skozi vas.",
+    "literal": "Neprijetno je, ker je avtocesta zaprta in moramo skozi vas."
+  },
+  {
+    "ironic": "Super, avto je crknil ravno sredi nič.",
+    "literal": "Zelo slabo je, da je avto crknil na tako neprimernem mestu."
+  },
+  {
+    "ironic": "Odlično, internet spet ne deluje.",
+    "literal": "Žal mi je, da internet spet ne deluje."
+  },
+  {
+    "ironic": "Super, telefon se je izpraznil ravno zdaj.",
+    "literal": "Žal mi je, ker se je telefon izpraznil ob neprimernem času."
+  },
+  {
+    "ironic": "Ja, odlična posodobitev, vse je počasneje.",
+    "literal": "Posodobitev ni bila dobra, ker je vse počasneje."
+  },
+  {
+    "ironic": "Bravo, računalnik se je resetiral in izgubil vse podatke.",
+    "literal": "Zelo slabo je, da je računalnik izgubil vse podatke."
+  },
+  {
+    "ironic": "Seveda, aplikacija se zruši ravno ko jo potrebujem.",
+    "literal": "Frustrirajoče je, da se aplikacija zruši ob neprimernem času."
+  },
+  {
+    "ironic": "Odlično, printer spet noče tiskati.",
+    "literal": "Neprijetno je, da printer spet ne deluje."
+  },
+  {
+    "ironic": "Super, baterija prenosnika zdrži cel teden.",
+    "literal": "Baterija prenosnika zdrži zelo malo časa."
+  },
+  {
+    "ironic": "Ja, Wi-Fi v tem hotelu je res bliskovit.",
+    "literal": "Wi-Fi v hotelu je zelo počasen."
+  },
+  {
+    "ironic": "Ja, ta kava je res vroča kot led.",
+    "literal": "Kava je bila mlačna in ne dovolj vroča."
+  },
+  {
+    "ironic": "Odlično, restavracija je zaprta ravno ob kosilu.",
+    "literal": "Neprijetno je, da je restavracija zaprta ob kosilu."
+  },
+  {
+    "ironic": "Super, hrana je prispela po uri čakanja.",
+    "literal": "Čakati uro na hrano je predolgo."
+  },
+  {
+    "ironic": "Bravo, pizza je prišla hladna.",
+    "literal": "Slabo je, da je pizza prispela hladna."
+  },
+  {
+    "ironic": "Ja, ta sendvič je vredn dvajset evrov.",
+    "literal": "Sendvič za dvajset evrov je predrago."
+  },
+  {
+    "ironic": "Seveda, točno ko sem skuhal kosilo, je zmanjkalo soli.",
+    "literal": "Neprijetno je, da je zmanjkalo soli ravno med kuhanjem."
+  },
+  {
+    "ironic": "Fantastično, spet so zamenjali moj naročen obrok.",
+    "literal": "Žal mi je, ker so mi prinesli napačen obrok."
+  },
+  {
+    "ironic": "Super, malica v menzi je bila res okusna danes.",
+    "literal": "Malica v menzi danes ni bila dobra."
+  },
+  {
+    "ironic": "Odlično, telovadnica zaprta ravno danes.",
+    "literal": "Neprijetno je, da je telovadnica danes zaprta."
+  },
+  {
+    "ironic": "Super, naša ekipa je spet izgubila.",
+    "literal": "Žal mi je, ker je naša ekipa spet izgubila."
+  },
+  {
+    "ironic": "Ja, tek po dežju, najboljša ideja tega tedna.",
+    "literal": "Tek po dežju ni bila dobra ideja."
+  },
+  {
+    "ironic": "Bravo, poškodba ravno pred tekmo.",
+    "literal": "Zelo slabo je, da sem se poškodoval tik pred tekmo."
+  },
+  {
+    "ironic": "Seveda, sodnik je spet videl drugače.",
+    "literal": "Sodnikova odločitev ni bila pravična."
+  },
+  {
+    "ironic": "Fantastično, bazen je bil danes zaprprt za vzdrževanje.",
+    "literal": "Škoda, ker je bil bazen danes zaprt."
+  },
+  {
+    "ironic": "Super, copati so se mi strgali sredi maratona.",
+    "literal": "Zelo slabo je, da so se mi copati strgali med maratonom."
+  },
+  {
+    "ironic": "Odlično, čakalna vrsta do vhoda.",
+    "literal": "Čakalna vrsta je bila zelo dolga."
+  },
+  {
+    "ironic": "Super, artikla, ki sem ga hotel, ni bilo na zalogi.",
+    "literal": "Žal mi je, ker artikla, ki sem ga hotel, ni bilo."
+  },
+  {
+    "ironic": "Ja, blagajna se je pokvarila ravno pred menoj.",
+    "literal": "Neprijetno je, da se je blagajna pokvarila tik pred mano."
+  },
+  {
+    "ironic": "Bravo, cena se je podvojila od prejšnjega tedna.",
+    "literal": "Slabo je, da je cena toliko narasla."
+  },
+  {
+    "ironic": "Seveda, popust velja samo za člane kluba.",
+    "literal": "Neprijetno je, da popust velja samo za člane."
+  },
+  {
+    "ironic": "Fantastično, dostava je zamudila za teden dni.",
+    "literal": "Žal mi je, ker je dostava zamudila tako dolgo."
+  },
+  {
+    "ironic": "Super, kupil sem napačno velikost in vračila ne sprejemajo.",
+    "literal": "Slabo je, da ne morem vrniti napačne velikosti."
+  },
+  {
+    "ironic": "Odlično, čakalna doba pri zdravniku je tri mesece.",
+    "literal": "Tri mesece čakanja pri zdravniku je preveč."
+  },
+  {
+    "ironic": "Super, lekarna je zaprta ravno danes.",
+    "literal": "Neprijetno je, da je lekarna danes zaprta."
+  },
+  {
+    "ironic": "Ja, zobnik me je res nežno pozdravil.",
+    "literal": "Zobozdravnik je bil grob in neprijeten."
+  },
+  {
+    "ironic": "Bravo, prehlad ravno pred dopustom.",
+    "literal": "Žal mi je, ker sem zbolel tik pred dopustom."
+  },
+  {
+    "ironic": "Seveda, zdravilo ima stranske učinke, ki so hujši od bolezni.",
+    "literal": "Stranski učinki zdravila so zelo neprijetni."
+  },
+  {
+    "ironic": "Fantastično, napotnica je potekla ravno včeraj.",
+    "literal": "Slabo je, da mi je napotnica potekla."
+  },
+  {
+    "ironic": "Super, čakalna soba je bila prazna, ker ordinacija ni delovala.",
+    "literal": "Žal mi je, ker ordinacija danes ni delovala."
+  },
+  {
+    "ironic": "Bravo, spet si pozabil ključe.",
+    "literal": "Slabo je, da si spet pozabil ključe."
+  },
+  {
+    "ironic": "Seveda, sosed se je odločil brusiti ob šestih zjutraj.",
+    "literal": "Neprijetno je, da sosed brusi tako zgodaj zjutraj."
+  },
+  {
+    "ironic": "Odlično, dvigalo je spet pokvarjeno.",
+    "literal": "Žal mi je, ker dvigalo spet ne deluje."
+  },
+  {
+    "ironic": "Super, pipa curlja točno ko ni vodovodarja.",
+    "literal": "Neprijetno je, da pipa curlja in ni vodovodarja."
+  },
+  {
+    "ironic": "Ja, sosedov pes laja vsako noč, super za spanje.",
+    "literal": "Sosedov pes me moti pri spanju."
+  },
+  {
+    "ironic": "Bravo, elektrika je šla ravno sredi filma.",
+    "literal": "Žal mi je, ker je elektrika šla sredi filma."
+  },
+  {
+    "ironic": "Fantastično, paket so pustili pred vrati in ga je nekdo vzel.",
+    "literal": "Slabo je, da so paket pustili pred vrati in ga je nekdo vzel."
+  },
+  {
+    "ironic": "Seveda, prav danes sem pozabil dežnik doma.",
+    "literal": "Žal mi je, ker sem danes pozabil dežnik."
+  },
+  {
+    "ironic": "Super, prijatelj je spet odpovedal v zadnji minuti.",
+    "literal": "Slabo je, da je prijatelj spet odpovedal tik pred srečanjem."
+  },
+  {
+    "ironic": "Ja, odlično, nihče ni prišel na mojo zabavo.",
+    "literal": "Žal mi je, ker nihče ni prišel na mojo zabavo."
+  },
+  {
+    "ironic": "Bravo, spet sem sam plačal za vse.",
+    "literal": "Ni fer, da sem spet sam plačal za vse."
+  },
+  {
+    "ironic": "Seveda, ravno zdaj so me poklicali na izlet, ko imam izpit.",
+    "literal": "Neprijetno je, da so me poklicali na izlet ravno ob izpitu."
+  },
+  {
+    "ironic": "Fantastično, prijatelj je spet pozabil na moj rojstni dan.",
+    "literal": "Žal mi je, ker je prijatelj spet pozabil na moj rojstni dan."
+  },
+  {
+    "ironic": "Odlično, zmenek je bil popoln, seveda je ni.",
+    "literal": "Zmenek ni bil dober, ker se ni pojavila."
+  },
+  {
+    "ironic": "Super, spet sva se stepla ravno pred večerjo.",
+    "literal": "Žal mi je, ker sva se stepla tik pred večerjo."
+  },
+  {
+    "ironic": "Ja, res romantično, ko pozabi na obletnico.",
+    "literal": "Ni romantično, ker je pozabil na obletnico."
+  },
+  {
+    "ironic": "Bravo, sporočilo brez odgovora že tri dni.",
+    "literal": "Neprijetno je, ker ni odgovoril že tri dni."
+  },
+  {
+    "ironic": "Seveda, ravno ko sem si uredil lase, je začelo deževati pred zmenkom.",
+    "literal": "Škoda, ker sem si uredil lase in je takoj začelo deževati."
+  },
+  {
+    "ironic": "Super, teta spet sprašuje kdaj se bom poročil.",
+    "literal": "Neprijetno je, ker teta spet sprašuje o poroki."
+  },
+  {
+    "ironic": "Odlično, starši so prišli na obisk brez najave.",
+    "literal": "Žal mi je, ker so starši prišli brez najave."
+  },
+  {
+    "ironic": "Ja, brat je spet pozabil vrniti denar.",
+    "literal": "Slabo je, da brat spet ni vrnil denarja."
+  },
+  {
+    "ironic": "Fantastično, cel božič poslušati o politiki od strica.",
+    "literal": "Neprijetno je poslušati strica o politiki ves božič."
+  },
+  {
+    "ironic": "Bravo, sestra je spet vzela moje obleke brez vprašanja.",
+    "literal": "Ni fer, da je sestra vzela moje obleke brez dovoljenja."
+  },
+  {
+    "ironic": "Super, sosed kosia travnik ob sedmih zjutraj v soboto.",
+    "literal": "Neprijetno je, da sosed kosi ob sedmih zjutraj v soboto."
+  },
+  {
+    "ironic": "Odlično, sosed je spet parkiral pred mojimi vrati.",
+    "literal": "Slabo je, da je sosed spet parkiral pred mojimi vrati."
+  },
+  {
+    "ironic": "Ja, glasba iz sosedovega stanovanja ob polnoči, super za spanje.",
+    "literal": "Glasba iz sosedovega stanovanja ob polnoči mi moti spanje."
+  },
+  {
+    "ironic": "Bravo, sosed je spet pozabil ločiti odpadke.",
+    "literal": "Frustrirajoče je, da sosed spet ni ločil odpadkov."
+  },
+  {
+    "ironic": "Seveda, sosed ima zabavo ravno ko imam jutri izpit.",
+    "literal": "Slabo je, da ima sosed zabavo ravno pred mojim izpitom."
+  },
+  {
+    "ironic": "Odlično, torta se je zrušila ravno pred svečami.",
+    "literal": "Žal mi je, ker se je torta zrušila tik pred praznovanje."
+  },
+  {
+    "ironic": "Super, DJ je prinesel napačno glasbo.",
+    "literal": "Slabo je, da DJ ni prinesel prave glasbe."
+  },
+  {
+    "ironic": "Ja, fantastično praznovanje, dež je zalil vse.",
+    "literal": "Žal mi je, ker je dež uničil praznovanje."
+  },
+  {
+    "ironic": "Bravo, polovica gostov ni prišla na poroko.",
+    "literal": "Slabo je, da polovica gostov ni prišla."
+  },
+  {
+    "ironic": "Seveda, ognjemeta so odpovedali ravno ob polnoči.",
+    "literal": "Razočarano sem, ker so odpovedali ognjeme ob polnoči."
+  },
+  {
+    "ironic": "Super, račun je višji kot moja plača.",
+    "literal": "Račun je previsok glede na mojo plačo."
+  },
+  {
+    "ironic": "Odlično, borzni trg je padel ravno ko sem vložil.",
+    "literal": "Žal mi je, ker je borzni trg padel takoj po mojem vlaganju."
+  },
+  {
+    "ironic": "Ja, odlična naložba, avto je izgubil polovico vrednosti.",
+    "literal": "Avto je bila slaba naložba, ker je izgubil toliko vrednosti."
+  },
+  {
+    "ironic": "Bravo, ATM je bil prazen ravno ko sem potreboval gotovino.",
+    "literal": "Neprijetno je, da je bil bankomat prazen ob pravem trenutku."
+  },
+  {
+    "ironic": "Seveda, kartica je bila zavrnjena pred vsemi v vrsti.",
+    "literal": "Sramotno je, da mi je kartica bila zavrnjena pred vsemi."
+  },
+  {
+    "ironic": "Odlično, zavarovalnica je spet zavrnila zahtevek.",
+    "literal": "Žal mi je, ker je zavarovalnica spet zavrnila moj zahtevek."
+  },
+  {
+    "ironic": "Super, banka ima odprto samo eno blagajno ob petkih.",
+    "literal": "Frustrirajoče je, da ima banka odprto samo eno blagajno."
+  },
+  {
+    "ironic": "Ja, čudovito, pristojbina za vzdrževanje računa se je podvojila.",
+    "literal": "Slabo je, da so se pristojbine za račun podvojile."
+  },
+  {
+    "ironic": "Bravo, posojilo so odobrili po treh mesecih čakanja.",
+    "literal": "Tri mesece čakanja na odobritev posojila je predolgo."
+  },
+  {
+    "ironic": "Seveda, aplikacija banke ne deluje ravno ob plačilu položnic.",
+    "literal": "Frustrirajoče je, da aplikacija banke ne deluje ob plačilu."
+  },
+  {
+    "ironic": "Super, obrazec je napačen, začnem znova.",
+    "literal": "Frustrirajoče je, da sem izpolnil napačen obrazec."
+  },
+  {
+    "ironic": "Odlično, čakalna vrsta na upravni enoti traja štiri ure.",
+    "literal": "Štiri ure čakanja na upravni enoti je preveč."
+  },
+  {
+    "ironic": "Ja, potrebujem še en dokument, ki ga seveda nimam pri sebi.",
+    "literal": "Neprijetno je, da potrebujem dokument, ki ga nisem prinesel."
+  },
+  {
+    "ironic": "Bravo, sistem je bil v vzdrževanju ravno ko sem oddal vlogo.",
+    "literal": "Slabo je, da je bil sistem v vzdrževanju ob oddaji vloge."
+  },
+  {
+    "ironic": "Seveda, rok za oddajo je bil včeraj.",
+    "literal": "Žal mi je, ker sem zamudil rok za oddajo."
+  },
+  {
+    "ironic": "Odlično, položnica za elektriko je rekordna.",
+    "literal": "Žal mi je, ker je položnica za elektriko tako visoka."
+  },
+  {
+    "ironic": "Super, davčna napoved je spet bolj zapletena kot lani.",
+    "literal": "Frustrirajoče je, da je davčna napoved še bolj zapletena."
+  },
+  {
+    "ironic": "Ja, komunalni prispevek se je zvišal, odlično.",
+    "literal": "Slabo je, da se je komunalni prispevek zvišal."
+  },
+  {
+    "ironic": "Bravo, kazen za pozno plačilo je višja od računa samega.",
+    "literal": "Ni fer, da je kazen za zamudo višja od samega računa."
+  },
+  {
+    "ironic": "Seveda, zamudili so mi poslati račun in zdaj plačam kazen.",
+    "literal": "Nepravično je, da plačam kazen, čeprav so zamudili z računom."
+  },
+  {
+    "ironic": "Super, najemodajalec je dvignil najemnino za trideset odstotkov.",
+    "literal": "Slabo je, da je najemodajalec tako dvignil najemnino."
+  },
+  {
+    "ironic": "Odlično, radiator ne deluje sredi januarja.",
+    "literal": "Žal mi je, ker radiator ne deluje v hladnem januarju."
+  },
+  {
+    "ironic": "Ja, čudovit pogled iz stanovanja — na parkirišče.",
+    "literal": "Pogled iz stanovanja ni dober, ker gleda na parkirišče."
+  },
+  {
+    "ironic": "Bravo, najemodajalec je prišel na ogled brez najave.",
+    "literal": "Ni fer, da je najemodajalec prišel brez najave."
+  },
+  {
+    "ironic": "Seveda, voda je bila ustavljena ravno ko sem skuhal kopel.",
+    "literal": "Žal mi je, ker so ustavili vodo ravno med kopeljo."
+  },
+  {
+    "ironic": "Odlično, let je bil odpovedan brez obvestila.",
+    "literal": "Žal mi je, ker so odpovedali let brez obvestila."
+  },
+  {
+    "ironic": "Super, hotel je bil nič podoben fotografijam.",
+    "literal": "Razočaran sem, ker hotel ni bil podoben fotografijam."
+  },
+  {
+    "ironic": "Ja, kovček je pristal v Berlinu, jaz pa v Barceloni.",
+    "literal": "Žal mi je, ker je moj kovček pristal na napačnem letališču."
+  },
+  {
+    "ironic": "Bravo, potni list je potekel teden pred potovanjem.",
+    "literal": "Slabo je, da mi je potni list potekel tik pred potovanjem."
+  },
+  {
+    "ironic": "Seveda, najboljše vreme celega leta ravno ko sem šel domov.",
+    "literal": "Škoda, ker je lepo vreme prišlo šele ko sem odšel."
+  },
+  {
+    "ironic": "Super, serijo so ukinili ravno po prvem delu.",
+    "literal": "Žal mi je, ker so serijo ukinili po prvem delu."
+  },
+  {
+    "ironic": "Odlično, spojlerji po vsem internetu še pred ogledom.",
+    "literal": "Slabo je, da so spojlerji povsod pred ogledom filma."
+  },
+  {
+    "ironic": "Ja, nadaljevanje je res živelo do pričakovanj.",
+    "literal": "Nadaljevanje ni doseglo pričakovanj."
+  },
+  {
+    "ironic": "Bravo, internet je crknil ravno med finalom.",
+    "literal": "Žal mi je, ker je internet crknil med finalnim delom."
+  },
+  {
+    "ironic": "Seveda, reklame ravno na najbolj napetih mestih.",
+    "literal": "Moteče je, da so reklame vedno na najbolj napetih mestih."
+  },
+  {
+    "ironic": "Odlično, koncert so prestavili teden pred datumom.",
+    "literal": "Žal mi je, ker so koncert prestavili tik pred nastopom."
+  },
+  {
+    "ironic": "Super, moj najljubši band se je razšel ravno ko sem kupil karte.",
+    "literal": "Slabo je, da se je band razšel po nakupu kart."
+  },
+  {
+    "ironic": "Ja, akustika v tej dvorani je res fantastična.",
+    "literal": "Akustika v dvorani je bila slaba."
+  },
+  {
+    "ironic": "Bravo, visok možakar se je postavil ravno predme.",
+    "literal": "Neprijetno je, da se je visok človek postavil predme."
+  },
+  {
+    "ironic": "Seveda, zvok je crknil sredi nastopa.",
+    "literal": "Žal mi je, ker je zvok crknil med nastopom."
+  },
+  {
+    "ironic": "Super, knjiga ima petsto strani uvoda.",
+    "literal": "Uvod v knjigi je predolg."
+  },
+  {
+    "ironic": "Odlično, zadnja stran je manjkala v knjigi.",
+    "literal": "Žal mi je, ker je knjigi manjkala zadnja stran."
+  },
+  {
+    "ironic": "Ja, nadaljevanje trilogije izide čez tri leta.",
+    "literal": "Predolgo je čakati tri leta na nadaljevanje."
+  },
+  {
+    "ironic": "Bravo, knjižnica nima izvoda ravno te knjige.",
+    "literal": "Frustrirajoče je, da knjižnica nima te knjige."
+  },
+  {
+    "ironic": "Seveda, film po knjigi ni imel nič skupnega z originalom.",
+    "literal": "Razočaran sem, ker se film zelo razlikuje od knjige."
+  },
+  {
+    "ironic": "Odlično, naročil sem brez glutena, prinesli so z glutenom.",
+    "literal": "Slabo je, da so prinesli jed z glutenom kljub naročilu brez."
+  },
+  {
+    "ironic": "Super, kava je bila hladna in predraga.",
+    "literal": "Kava je bila razočarajoča — hladna in predraga."
+  },
+  {
+    "ironic": "Ja, natakar nas je opazil po pol ure.",
+    "literal": "Čakati pol ure na natakarja je predolgo."
+  },
+  {
+    "ironic": "Bravo, miza za štiri ima prostor za dve osebi.",
+    "literal": "Miza je bila premajhna za našo skupino."
+  },
+  {
+    "ironic": "Seveda, dnevna ponudba je zmanjkala ob dvanajstih.",
+    "literal": "Žal mi je, ker je dnevna ponudba tako hitro zmanjkala."
+  },
+  {
+    "ironic": "Super, algoritem mi spet skriva objave prijateljev.",
+    "literal": "Frustrirajoče je, da algoritem skriva objave prijateljev."
+  },
+  {
+    "ironic": "Odlično, aplikacija me je odjavila in izgubila geslo.",
+    "literal": "Slabo je, da me je aplikacija odjavila in izgubila geslo."
+  },
+  {
+    "ironic": "Ja, odlična ideja objaviti to fotografijo.",
+    "literal": "Ni bila dobra ideja objaviti to fotografijo."
+  },
+  {
+    "ironic": "Bravo, spet štiri ure na telefonu brez razloga.",
+    "literal": "Porabiti štiri ure na telefonu je bila izguba časa."
+  },
+  {
+    "ironic": "Seveda, račun so mi blokirali ravno ko sem objavil.",
+    "literal": "Žal mi je, ker so mi blokirali račun ob objavi."
+  },
+  {
+    "ironic": "Odlično, paket je prispel poškodovan.",
+    "literal": "Žal mi je, ker je paket prispel poškodovan."
+  },
+  {
+    "ironic": "Super, dostava je zamudila tri tedne.",
+    "literal": "Čakati tri tedne na dostavo je preveč."
+  },
+  {
+    "ironic": "Ja, artikal na sliki je bil videti čisto drugačen v živo.",
+    "literal": "Razočaran sem, ker artikal v živo ni bil podoben sliki."
+  },
+  {
+    "ironic": "Bravo, vrnitev blaga stane več kot artikel sam.",
+    "literal": "Ni fer, da je vrnitev dražja od artikla."
+  },
+  {
+    "ironic": "Seveda, paket so pustili pri napačnem sosedu.",
+    "literal": "Slabo je, da so paket dostavili napačnemu sosedu."
+  },
+  {
+    "ironic": "Super, avtobusna linija so ukinili ravno mojo.",
+    "literal": "Žal mi je, ker so ukinili mojo avtobusno linijo."
+  },
+  {
+    "ironic": "Odlično, javno stranišče je zaprto za vzdrževanje.",
+    "literal": "Neprijetno je, da je javno stranišče zaprto."
+  },
+  {
+    "ironic": "Ja, kolesarska steza se konča sredi ceste.",
+    "literal": "Nevarno je, da se kolesarska steza konča tako nenadoma."
+  },
+  {
+    "ironic": "Bravo, javna wifi točka deluje samo ob dobrih vremenskih razmerah.",
+    "literal": "Javna wifi točka je nezanesljiva."
+  },
+  {
+    "ironic": "Seveda, urgenca ima danes šest ur čakanja.",
+    "literal": "Šest ur čakanja na urgenci je preveč."
+  },
+  {
+    "ironic": "Odlično, spet obljubili in spet nič naredili.",
+    "literal": "Razočaran sem, ker so spet dali prazne obljube."
+  },
+  {
+    "ironic": "Super, nova zakonodaja pomaga vsem razen nam.",
+    "literal": "Nova zakonodaja nam ne koristi."
+  },
+  {
+    "ironic": "Ja, odlična razlaga ministre, vse je jasno.",
+    "literal": "Ministrov odgovor ni bil jasen."
+  },
+  {
+    "ironic": "Bravo, cene so spet zrasle, plače pa ne.",
+    "literal": "Slabo je, da cene rastejo hitreje kot plače."
+  },
+  {
+    "ironic": "Seveda, projekt je zamudil pet let in podvojil proračun.",
+    "literal": "Projekt je bil slabo voden — zamudil je in prekoračil proračun."
+  },
+  {
+    "ironic": "Super, recikliramo plastiko, ki jo potem vržejo skupaj.",
+    "literal": "Brez smisla je ločevati odpadke, če jih potem zmešajo."
+  },
+  {
+    "ironic": "Odlično, embalaža je trikrat večja od vsebine.",
+    "literal": "Embalaža je pretirano velika glede na vsebino."
+  },
+  {
+    "ironic": "Ja, nov ekološki proizvod z desetimi plastičnimi zavoji.",
+    "literal": "Ni ekološko, da ima ta proizvod toliko plastike."
+  },
+  {
+    "ironic": "Bravo, koš za recikliranje je bil poln, vse šlo v mešane.",
+    "literal": "Žal mi je, ker je bil koš za recikliranje poln."
+  },
+  {
+    "ironic": "Seveda, okolju prijazna vrečka stane evro, plastična cent.",
+    "literal": "Ni spodbuda za okolje, ker je ekološka vrečka tako draga."
+  },
+  {
+    "ironic": "Odlično, darilo sem pozabil kupiti dan pred božičem.",
+    "literal": "Žal mi je, ker sem pozabil kupiti darilo tik pred božičem."
+  },
+  {
+    "ironic": "Super, trgovine so zaprte ravno ko potrebujem zadnje darilo.",
+    "literal": "Neprijetno je, da so trgovine zaprte ravno zdaj."
+  },
+  {
+    "ironic": "Ja, popolna božična večerja — brez elektrike.",
+    "literal": "Božična večerja brez elektrike ni bila prijetna."
+  },
+  {
+    "ironic": "Bravo, dedek Mraz je prinesel darilo za napačno osebo.",
+    "literal": "Žal mi je, ker je darilo prišlo za napačno osebo."
+  },
+  {
+    "ironic": "Seveda, božično drevo se je podrlo na silvestrovem.",
+    "literal": "Slabo je, da se je božično drevo podrlo na silvestrovem."
+  },
+  {
+    "ironic": "Super, klima se je pokvarila sredi avgusta.",
+    "literal": "Žal mi je, ker se je klima pokvarila v vročem avgustu."
+  },
+  {
+    "ironic": "Odlično, sončna krema je ostala doma.",
+    "literal": "Slabo je, da sem pozabil sončno kremo doma."
+  },
+  {
+    "ironic": "Ja, plaža je bila čudovita — za sardine.",
+    "literal": "Plaža je bila preveč natrpana z ljudmi."
+  },
+  {
+    "ironic": "Bravo, sladoled se je stopil preden sem prišel do klopi.",
+    "literal": "Žal mi je, ker se je sladoled stopil tako hitro."
+  },
+  {
+    "ironic": "Seveda, komarji so me odkrili ravno ko sem zaspal.",
+    "literal": "Neprijetno je, ker so me komarji motili med spanjem."
+  },
+  {
+    "ironic": "Odlično, ogrevanje se je pokvarilo sredi januarja.",
+    "literal": "Žal mi je, ker se je ogrevanje pokvarilo v hladnem januarju."
+  },
+  {
+    "ironic": "Super, sneg je zasul avto ravno pred odhodom v službo.",
+    "literal": "Slabo je, da je sneg zasul avto tik pred odhodom."
+  },
+  {
+    "ironic": "Ja, čevlji niso bili vodoodporni, kot sem mislil.",
+    "literal": "Razočaran sem, ker čevlji niso bili vodoodporni."
+  },
+  {
+    "ironic": "Bravo, cesta ni bila posuta in sem se zaletel.",
+    "literal": "Slabo je, da cesta ni bila posuta in sem izgubil nadzor."
+  },
+  {
+    "ironic": "Seveda, rokavice sem pozabil ravno danes.",
+    "literal": "Žal mi je, ker sem danes pozabil rokavice."
+  },
+  {
+    "ironic": "Super, šef me je poklical v soboto zjutraj.",
+    "literal": "Neprijetno je, da me je šef poklical med vikendom."
+  },
+  {
+    "ironic": "Odlično, načrti za vikend so padli v vodo.",
+    "literal": "Žal mi je, ker so vsi načrti za vikend propadli."
+  },
+  {
+    "ironic": "Ja, prosti dan sem preživel v čakalnici.",
+    "literal": "Škoda, ker sem prosti dan preživeli v čakalnici."
+  },
+  {
+    "ironic": "Bravo, vikend je minil, preden sem sploh začutil počitek.",
+    "literal": "Vikend je bil prekratek za pravi počitek."
+  },
+  {
+    "ironic": "Seveda, nedelja zvečer in že se počutim kot ponedeljek.",
+    "literal": "Ni prijetno, da se nedelja zvečer že počuti kot delovni teden."
+  },
+  {
+    "ironic": "Odlično, alarm ni zazvonil.",
+    "literal": "Žal mi je, ker alarm ni zazvonil."
+  },
+  {
+    "ironic": "Super, vroča voda je zmanjkala ravno med tušem.",
+    "literal": "Neprijetno je, ker je vroča voda zmanjkala med tušem."
+  },
+  {
+    "ironic": "Ja, kava je padla na sveže srajco.",
+    "literal": "Slabo je, da sem razlil kavo na sveže oblečeno srajco."
+  },
+  {
+    "ironic": "Bravo, ključev nisem našel dvajset minut.",
+    "literal": "Frustrirajoče je, ker sem dvajset minut iskal ključe."
+  },
+  {
+    "ironic": "Seveda, ravno danes sem zamudil vlak za minuto.",
+    "literal": "Žal mi je, ker sem danes zamudil vlak za minuto."
+  }
+]

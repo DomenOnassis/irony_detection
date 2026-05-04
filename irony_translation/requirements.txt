@@ -1,0 +1,15 @@
+torch
+transformers
+datasets
+sentencepiece
+accelerate
+tiktoken
+sentencepiece
+protobuf
+openai
+
+nltk>=3.8
+rouge-score>=0.1.2
+bert-score>=0.3.13
+torch>=2.0
+transformers>=4.30
