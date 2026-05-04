@@ -1,42 +1,113 @@
-from SarcasmTranslator import T5SarcasmTranslator
 import json
+import os
+import csv
+from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
+from rouge_score import rouge_scorer
+from bert_score import score as bertscore
+from SarcasmTranslator import T5SarcasmTranslator
 
-if __name__ == "__main__":
-    
-    #Change medium to small or large if you want to test on those datasets. Make sure to change the dataset name and the output directory accordingly.
-    ROOT_DIR = "./from_medium_dataset/"
-    DATASET = "dataset_medium.json"  
-    RESULTS_DIR = "./output_medium_results/" 
-    TEST_DATASET = "./test_dataset.json" 
-    
+# CONFIG
+TRAIN_DATASETS = [
+    {"name": "small",  "file": "dataset_small.json",  "root": "./from_small_dataset/"},
+    {"name": "medium", "file": "dataset_medium.json", "root": "./from_medium_dataset/"},
+    {"name": "large",  "file": "dataset_large.json",  "root": "./from_large_dataset/"},
+]
 
-    models = [
-        #{"model_name": "t5-small",           "output_dir": "./t5_small"},
-        #{"model_name": "t5-base",            "output_dir": "./t5_base"},
-        #{"model_name": "google-t5/t5-small", "output_dir": "./google_t5_small"},
-        #{"model_name": "google-t5/t5-base",  "output_dir": "./google_t5_base"},
-        #{"model_name": "google/mt5-small",   "output_dir": "./google_mt5_small"},
-        #{"model_name": "google/mt5-base",    "output_dir": "./google_mt5_base"},
-        {"model_name": "csebuetnlp/mT5_multilingual_XLSum",    "output_dir": "./mT5_multilingual_XLSum"},
-        {"model_name": "facebook/nllb-200-distilled-600M",    "output_dir": "./nllb_200_distilled_600M"},
-    ]
+ROOT_DIR = "./from_medium_dataset/"
+RESULTS_FILE = "results.csv"
+TEST_DATASET = "test_dataset.json"
+models = [
+    {"model_name": "csebuetnlp/mT5_multilingual_XLSum", "output_dir": "./mT5_multilingual_XLSum"},
+    {"model_name": "facebook/nllb-200-distilled-600M", "output_dir": "./nllb_200_distilled_600M"},
+]
 
-    sarcastic_sentence = []
-    
-    with open(TEST_DATASET) as f:
-            sarcastic_sentence = json.load(f)
-            sarcastic_sentence = sarcastic_sentence["sentences"]
+# METRIC HELPERS
+smooth = SmoothingFunction().method1
+scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
 
+
+def evaluate_model_on_test(model_cfg, dataset_cfg):
+    # load test set
+    with open(TEST_DATASET, encoding="utf-8") as f:
+        data = json.load(f)
+
+    translator = T5SarcasmTranslator(model_name=model_cfg["model_name"])
+    # looks for an existing model, if there is non trains it on the selected dataset IMPORTANT
+    translator.load_model(f"{dataset_cfg['root']}{model_cfg['output_dir']}", dataset=dataset_cfg["file"])
+
+    predictions, references = [], []
+
+    bleu_scores, rouge1_scores, rouge2_scores, rougeL_scores = [], [], [], []
+
+    # create output file
+    safe_model_name = model_cfg["model_name"].replace("/", "_")
+    output_filename = f"outputs_{dataset_cfg['name']}_{safe_model_name}.txt"
+
+    with open(output_filename, "w", encoding="utf-8") as out_file:
+
+        for i, item in enumerate(data):
+            inp = item["ironic"]
+            ref = item["literal"]
+
+            pred = translator.generate(inp)
+
+            predictions.append(pred)
+            references.append(ref)
+
+            # WRITE TO FILE
+            out_file.write(f"Example {i+1}\n")
+            out_file.write(f"INPUT:    {inp}\n")
+            out_file.write(f"OUTPUT:   {pred}\n")
+            out_file.write(f"EXPECTED: {ref}\n")
+            out_file.write("-" * 50 + "\n")
+
+            # BLEU
+            bleu = sentence_bleu([ref.split()], pred.split(), smoothing_function=smooth)
+            bleu_scores.append(bleu)
+
+            # ROUGE
+            scores = scorer.score(ref, pred)
+            rouge1_scores.append(scores['rouge1'].fmeasure)
+            rouge2_scores.append(scores['rouge2'].fmeasure)
+            rougeL_scores.append(scores['rougeL'].fmeasure)
+
+    # BERTScore
+    P, R, F1 = bertscore(predictions, references, lang="sl")
+
+    return {
+        "bleu": sum(bleu_scores) / len(bleu_scores),
+        "rouge1": sum(rouge1_scores) / len(rouge1_scores),
+        "rouge2": sum(rouge2_scores) / len(rouge2_scores),
+        "rougeL": sum(rougeL_scores) / len(rougeL_scores),
+        "bertscore_f1": F1.mean().item(),
+    }
+
+
+# RUN EVERYTHING
+all_results = []
+
+for train_ds in TRAIN_DATASETS:
     for m in models:
-        translator = T5SarcasmTranslator(model_name=m["model_name"])    
-        translator.load_model(f"{ROOT_DIR}{m['output_dir']}", dataset=DATASET)
-        safe_name = m["model_name"].replace("/", "_")  # google-t5/t5-small -> google-t5_t5-small
-        with open(f"{RESULTS_DIR}{safe_name}_results.txt", "w") as f:
-            pass
+        print(f"\nEvaluating {m['model_name']} trained on {train_ds['name']}...")
 
-        for sentence in sarcastic_sentence:
-            output = translator.generate(sentence)
-            with open(f"{RESULTS_DIR}{safe_name}_results.txt", "a") as f:
-                f.write(f"[{m['model_name']}] INPUT: {sentence}\n")
-                f.write(f"[{m['model_name']}] OUTPUT: {output}\n\n")
-            print(f"[{m['model_name']}] OUTPUT: {output}")
+        metrics = evaluate_model_on_test(m, train_ds)
+
+        all_results.append({
+            "train_dataset": train_ds["name"],
+            "test_dataset": TEST_DATASET,
+            "model": m["model_name"],
+            **metrics
+        })
+
+
+# SAVE CSV
+with open(RESULTS_FILE, "w", newline="") as f:
+    writer = csv.DictWriter(f, fieldnames=all_results[0].keys())
+    writer.writeheader()
+    writer.writerows(all_results)
+
+# SAVE JSON (optional)
+with open("results.json", "w") as f:
+    json.dump(all_results, f, indent=2)
+
+print("\nResults saved to results.csv and results.json")

@@ -1,180 +1,259 @@
- INPUT: Super, to sem ravno rabil.
- OUTPUT: To mi ni potrebno.
+============================================================
+FEW-SHOT RESULTS
+============================================================
 
- INPUT: Res odlično, še več dela.
- OUTPUT: Imam veliko dela, kar mi predstavlja izziv.
+BLEU:          2.99
+ROUGE-1:       31.38
+ROUGE-2:       8.61
+ROUGE-L:       25.40
+BERTScore F1:  75.56
 
- INPUT: Seveda, ker je to logično.
- OUTPUT: To mi ni povsem jasno, saj to zdi nelogično.
+------------------------------------------------------------
+EXAMPLES
+------------------------------------------------------------
 
- INPUT: Fantastično, spet isto.
- OUTPUT: To je razočarajoče, da se ista stvar ponovi.
-
- INPUT: Tole bo pa zabavno.
- OUTPUT: Tole bo verjetno dolgočasno.
-
- INPUT: Komaj čakam na to.
- OUTPUT: Nisem zelo navdušen nad tem.
-
- INPUT: Res si me prepričal.
- OUTPUT: Nisem prepričan, da sem se strinjal z vašim mnenjem.
-
- INPUT: Tega pa res ni blo za pričakovati.
- OUTPUT: To je nepričakovan dogodek.
-
- INPUT: To ima res smisel.
- OUTPUT: To mi ni povsem jasno.
-
- INPUT: Hvala, res super razlaga.
- OUTPUT: Razlaga mi ni bila povsem jasna.
-
- INPUT: Bravo pametnjakovič.
- OUTPUT: Čestitam, dobro si storil.
-
- INPUT: Zelo koristno, res.
- OUTPUT: To ni koristno.
-
- INPUT: Odličen načrt, ni kaj.
- OUTPUT: Ta načrt ni dober.
-
- INPUT: Nič lažjega kot to.
- OUTPUT: To je zelo zahtevno.
-
- INPUT: Ja seveda, zakaj pa ne.
- OUTPUT: To bi bilo zelo nepričakovano in nenavadno.
-
- INPUT: Bravo, res vrhunska ideja.
- OUTPUT: Ta ideja ni dobra.
-
- INPUT: Tole je pa res vrhunsko.
- OUTPUT: To mi ni všeč.
-
- INPUT: Kako pametno, res.
- OUTPUT: To ni bilo pametna odločitev.
-
- INPUT: Točno to potrebujemo.
- OUTPUT: To ni tisto, česar potrebujemo.
-
- INPUT: Res izjemno delo.
- OUTPUT: To delo ni posebno dobro.
-
- INPUT: Tole je pa genialno.
- OUTPUT: To mi ni všeč.
-
- INPUT: Popolnoma brez napak.
- OUTPUT: Vsebuje napake.
-
- INPUT: Res si briljanten.
- OUTPUT: Tvoja izjava ni povsem smiselna.
-
- INPUT: To je pa višek.
- OUTPUT: To je resnično zelo dobro.
-
- INPUT: Zelo inovativno.
- OUTPUT: Tole rešitev ni posebej inovativna.
-
- INPUT: Točno tako mora biti.
- OUTPUT: To mi ni najbolj všeč.
-
- INPUT: Res si zelo pomagal.
- OUTPUT: Tvoja pomoč ni bila koristna.
-
- INPUT: Super, to sem ravno rabil.
- OUTPUT: To mi ni potrebno.
-
- INPUT: Res odlično, še več dela.
- OUTPUT: Imam preveč dela.
-
- INPUT: Seveda, ker je to logično.
- OUTPUT: To mi ni delo, ker ni povsem logično.
-
- INPUT: Fantastično, spet isto.
- OUTPUT: To se ponavlja.
-
- INPUT: Tole bo pa zabavno.
- OUTPUT: Tole bo verjetno dolgočasno.
-
- INPUT: Komaj čakam na to.
- OUTPUT: Nisem zelo navdušen nad tem.
-
- INPUT: Res si me prepričal.
- OUTPUT: Nisem prepričan, da si mi razložil stvari zadovoljivo.
-
- INPUT: Tega pa res ni blo za pričakovati.
- OUTPUT: To se mi ni zdelo verjetno, da se bo to zgodilo.
-
- INPUT: To ima res smisel.
- OUTPUT: To mi ni delo, ki ima smisel.
-
- INPUT: Hvala, res super razlaga.
- OUTPUT: Razlaga mi ni bila dovolj jasna.
-
- INPUT: Bravo pametnjakovič.
- OUTPUT: Čestitam za dobro delo.
-
- INPUT: Zelo koristno, res.
- OUTPUT: To ni koristno.
-
- INPUT: Odličen načrt, ni kaj.
- OUTPUT: Načrt ni dober, potrebujemo boljši.
-
- INPUT: Nič lažjega kot to.
- OUTPUT: To je zelo težko.
-
- INPUT: Ja seveda, zakaj pa ne.
- OUTPUT: Ni jasno, ali to res lahko storim.
-
- INPUT: Bravo, res vrhunska ideja.
- OUTPUT: Ta ideja ni dobra.
-
- INPUT: Tole je pa res vrhunsko.
- OUTPUT: To mi ni všeč.
-
- INPUT: Kako pametno, res.
- OUTPUT: To si nisem pričakoval, zdi se mi slabša odločitev.
-
- INPUT: Točno to potrebujemo.
- OUTPUT: To je ravno tisto, kar bi nam v tej situaciji pomagalo.
-
- INPUT: Res izjemno delo.
- OUTPUT: To delo ni posebno izredno.
-
- INPUT: Tole je pa genialno.
- OUTPUT: To mi ni všeč, to je slabo.
-
- INPUT: Popolnoma brez napak.
- OUTPUT: Vse deluje kot pričakovano.
-
- INPUT: Res si briljanten.
- OUTPUT: Tvoja izjava ni popolnoma pravilna.
-
- INPUT: To je pa višek.
- OUTPUT: To je res izredno dobro.
-
- INPUT: Zelo inovativno.
- OUTPUT: To ni posebno inovativno.
-
- INPUT: Točno tako mora biti.
- OUTPUT: To ni pričakovano, to bi moralo biti drugače.
-
- INPUT: Res si zelo pomagal.
- OUTPUT: Tvoja pomoč ni bila koristna.
-
- INPUT: Tole rešuje vse.
- OUTPUT: Tole rešuje del problema, vendar ostajajo številne težave.
-
- INPUT: Kako učinkovito.
- OUTPUT: To deluje slabo.
-
- INPUT: Res hitro opravljeno.
- OUTPUT: Tole delo bi morali opraviti hitreje.
-
- INPUT: To je pa top.
- OUTPUT: To mi ni všeč.
-
- INPUT: Res sem navdušen.
- OUTPUT: Nisem navdušen.
-
- INPUT: Tole je pa res nekaj.
- OUTPUT: To mi je nepričakovano in zaskrbljujoče.
-
+Example 1
+INPUT:    Čudovito, dež je začel točno ko sem sklopil dežnik.
+OUTPUT:   Dež je začel padati ravno takrat, ko sem sklopil dežnik, kar mi povzroča težave.
+EXPECTED: Slab timing je bil, ko je dež začel takoj po sklopu dežnika.
+--------------------------------------------------
+Example 2
+INPUT:    Bravo, sončen dan je napovedal dež ob izletu.
+OUTPUT:   Dež bo motil naš izlet, ki smo ga načrtovali za sončni dan.
+EXPECTED: Slaba je bila napoved ki je obljubila sonce a prinesla dež.
+--------------------------------------------------
+Example 3
+INPUT:    Sijajno, vihar je prišel točno med kosilom na prostem.
+OUTPUT:   Vihar je prišel nenadoma, kar je motilo naš obisk na prostem.
+EXPECTED: Slab timing je bil vihar med kosilom zunaj.
+--------------------------------------------------
+Example 4
+INPUT:    Imenitno, profesor je spremenil snov teden pred izpitom.
+OUTPUT:   Profesor je spremenil snov teden pred izpitom, kar bi lahko povzročilo težave pri pripravi.
+EXPECTED: Frustrira me, ko profesor spremeni snov tik pred izpitom.
+--------------------------------------------------
+Example 5
+INPUT:    Veličastno, spletni portal za vpis je odpadel ob roku.
+OUTPUT:   Spletni portal za vpis ni deloval ob roku, kar je povzročilo težave.
+EXPECTED: Slabo je, ko šolski portal ne deluje ob vpisnem roku.
+--------------------------------------------------
+Example 6
+INPUT:    Neverjetno, seminar je trajal šest ur brez odmora.
+OUTPUT:   Seminar je bil zelo dolg in zahteven, saj je trajal šest ur brez prestanka.
+EXPECTED: Naporno je bil šesturni seminar brez odmora.
+--------------------------------------------------
+Example 7
+INPUT:    Briljantno, sestanek ki je bil po emailu je bil kar v živo.
+OUTPUT:   Sestanek, ki sem ga prejšnji teden prejel po e-pošti, se je izvedel v živo.
+EXPECTED: Moteče je, ko se email sestanek nenadoma spremeni v srečanje v živo.
+--------------------------------------------------
+Example 8
+INPUT:    Prvovrstno, odpustili so me ravno po odločitvi za ostati.
+OUTPUT:   Prvovrstno, so me odpustili takoj ko sem se odločil, da ostane.
+EXPECTED: Slab timing je bila odpustitev po odločitvi za ostati.
+--------------------------------------------------
+Example 9
+INPUT:    Krasno, tiskalnik v pisarni ne dela ravno ob roku.
+OUTPUT:   Tiskalnik v pisarni ne deluje pravšnji čas.
+EXPECTED: Frustanten je tiskalnik ki zataji tik pred oddajnim rokom.
+--------------------------------------------------
+Example 10
+INPUT:    Čudovito, obvoz je bil daljši od prvotne poti.
+OUTPUT:   Obvoz je bil daljši kot pričakoval sem.
+EXPECTED: Daljši je bil obvoz od originalne poti.
+--------------------------------------------------
+Example 11
+INPUT:    Sijajno, navigacija me je peljala skozi zaprt prehod.
+OUTPUT:   Navigacija me je peljala skozi zaprt prehod, kar je bilo zmedljivo in mi je povzročilo težave.
+EXPECTED: Napaka navigacije je bila pot skozi zaprt prehod.
+--------------------------------------------------
+Example 12
+INPUT:    Veličastno, gorivo je zmanjkalo sto metrov pred bencinsko.
+OUTPUT:   Težava z gorivom se je pojavila pred bencinsko postajo.
+EXPECTED: Neprijetno je zmanjkati goriva tik pred bencinsko postajo.
+--------------------------------------------------
+Example 13
+INPUT:    Bravo, posodobitev je zbrisala vse moje nastavitve.
+OUTPUT:   Posodobitev je zbrisala vse moje nastavitve, kar mi povzroča težave.
+EXPECTED: Napaka posodobitve je bila izbris vseh nastavitev.
+--------------------------------------------------
+Example 14
+INPUT:    Imenitno, wifi se je prekinil ravno med video klicem.
+OUTPUT:   Wifi se je prekinil med video klicem, kar mi povzroča težave.
+EXPECTED: Frustrira me, ko wifi odpove med video klicem.
+--------------------------------------------------
+Example 15
+INPUT:    Neverjetno, baterija je umrla eno sekundo pred fotografijo.
+OUTPUT:   Baterija je nenadoma izgubila moč, ravno ko sem hotel fotografirati.
+EXPECTED: Neprijetno je, ko baterija umre tik pred fotografijo.
+--------------------------------------------------
+Example 16
+INPUT:    Krasno, recept je zahteval sestavino ki je nisem imel.
+OUTPUT:   Recept zahteva sestavino, ki mi jo manjka.
+EXPECTED: Slabo je, ko recept zahteva sestavino ki je doma ni.
+--------------------------------------------------
+Example 17
+INPUT:    Briljantno, torta je bila surova v sredini po uri pečenja.
+OUTPUT:   Torta še ni bila dovolj pečena po eni uri.
+EXPECTED: Napaka v pečenju je bila surova sredica po celotni uri.
+--------------------------------------------------
+Example 18
+INPUT:    Prvovrstno, kuhal sem za goste ki so pozabili priti.
+OUTPUT:   Pripravil sem veliko hrane, vendar gostje niso prišli.
+EXPECTED: Razočaranje je kuhati za goste ki ne pridejo.
+--------------------------------------------------
+Example 19
+INPUT:    Čudovito, tekaški čevlji so se razpodli po prvem kilometru.
+OUTPUT:   Moji tekaški čevlji so se pokazali kot slabi already po prvem kilometru.
+EXPECTED: Slaba kakovost je bila tekaških čevljev ki so razpadli hitro.
+--------------------------------------------------
+Example 20
+INPUT:    Sijajno, gym je bil zaprt ravno ko sem si dal narediti letno kartico.
+OUTPUT:   Zaprtje fitnesa je bilo nepričakovan dogodek, še posebej takrat, ko sem kupil letno članarino.
+EXPECTED: Slab timing je bil, ko so gym zaprli po nakupu letne karte.
+--------------------------------------------------
+Example 21
+INPUT:    Veličastno, telovadba za sproščanje je povzročila mišično vnetje.
+OUTPUT:   Veličastno se ne uporablja, namesto tega: Telovadba za sproščanje mi je povzročila mišično vnetje.
+EXPECTED: Ironično je, ko vadba za sprostitev povzroči bolečino.
+--------------------------------------------------
+Example 22
+INPUT:    Bravo, blagajna se je zaprla ravno ko sem prišel na vrsto.
+OUTPUT:   Blagajna se je zaprla ravno ko sem prišel na vrsto, to je nezgodno.
+EXPECTED: Frustrira me, ko blagajno zaprejo ko sem na vrsti.
+--------------------------------------------------
+Example 23
+INPUT:    Imenitno, cena ni bila enaka kot na etiketi.
+OUTPUT:   Cena ni ustrezala zapisu na etiketi.
+EXPECTED: Napaka je bila cena ki se ni ujemala z etiketo.
+--------------------------------------------------
+Example 24
+INPUT:    Neverjetno, koda za popust je potekla minuto prej.
+OUTPUT:   Koda za popust je potekla minuto prej, kar je za nas razočaranje.
+EXPECTED: Razočaranje je, ko koda za popust poteče minuto pred plačilom.
+--------------------------------------------------
+Example 25
+INPUT:    Krasno, zdravnik me je napotil k specialistu ki ima čakalno dobo eno leto.
+OUTPUT:   Zdravnik me je napotil k specialistu, vendar bo čakalna doba eno leto.
+EXPECTED: Predolga je čakalna doba pri specialistu na katerega sem napoten.
+--------------------------------------------------
+Example 26
+INPUT:    Briljantno, lekarna ni imela predpisanega zdravila.
+OUTPUT:   Lekarna ni imela zdravila, ki mi ga je zdravnik predpisal.
+EXPECTED: Neprijetno je, ko lekarna nima predpisanega zdravila.
+--------------------------------------------------
+Example 27
+INPUT:    Prvovrstno, rezultati preiskave so prišli po zdravljenju.
+OUTPUT:   Rezultati preiskave so prispeли prepozno, po končanem zdravljenju.
+EXPECTED: Prepozno so prišli rezultati preiskave po zaključenem zdravljenju.
+--------------------------------------------------
+Example 28
+INPUT:    Čudovito, prijateljev nasvet je situacijo samo poslabšal.
+OUTPUT:   Prijateljev nasvet ni bil koristen in je situacijo poslabšal.
+EXPECTED: Slabo je bil nasvet ki je situacijo poslabšal.
+--------------------------------------------------
+Example 29
+INPUT:    Sijajno, skupinski izlet je bil organiziran za vsakogar razen mene.
+OUTPUT:   Skupinski izlet je bil organiziran, vendar nisem bil vključen.
+EXPECTED: Žalostno je biti edini brez povabila na skupinski izlet.
+--------------------------------------------------
+Example 30
+INPUT:    Veličastno, zmenek je odšel v stranišče in se ni vrnil.
+OUTPUT:   Zmenek je odšel v stranišče in se znaša, da se ni vrnil.
+EXPECTED: Neprijetno je, ko sogovornik odide z zmenka brez besede.
+--------------------------------------------------
+Example 31
+INPUT:    Bravo, partner je za obletnico pozabil na rezervacijo.
+OUTPUT:   Partner je pozabil na rezervacijo za obletnico.
+EXPECTED: Razočaranje je pozabljena rezervacija ob obletnici.
+--------------------------------------------------
+Example 32
+INPUT:    Imenitno, babica je prinesla darilo ki ga nisem prosil.
+OUTPUT:   Babica mi je prinesla darilo, ki mi ni povsem ustrezalo.
+EXPECTED: Neprimerno je darilo ki ni skladno z željami.
+--------------------------------------------------
+Example 33
+INPUT:    Neverjetno, otroška zabava se je spremenila v sestanek odraslih.
+OUTPUT:   Otroška zabava se je spremenila v zbor odraslih.
+EXPECTED: Smešno je, ko se otroška zabava sprevrže v sestanek odraslih.
+--------------------------------------------------
+Example 34
+INPUT:    Krasno, sosed je razstavil avto na skupnem hodniku.
+OUTPUT:   Sosed je parkiral avto na skupnem hodniku, kar mi deluje neprimerno.
+EXPECTED: Neprimerno je razstavljati avto na skupnem hodniku.
+--------------------------------------------------
+Example 35
+INPUT:    Briljantno, sosed mi je vrnil orodje pokvarjeno.
+OUTPUT:   Sosed mi je vrnil orodje v slabšem stanju, kot sem ga izdal.
+EXPECTED: Nespoštljivo je vrniti izposojeno orodje pokvarjeno.
+--------------------------------------------------
+Example 36
+INPUT:    Prvovrstno, torta je bila dostavljeno za napačen datum.
+OUTPUT:   Torta ni bila dostavljena na pravem datumu.
+EXPECTED: Napaka dostave je bila torta na napačen datum.
+--------------------------------------------------
+Example 37
+INPUT:    Čudovito, balonov niso napihnili ker so pozabili nakupiti plin.
+OUTPUT:   Baloni niso napihnjeni, ker je bila pozabljena nakup plina.
+EXPECTED: Napaka pri organizaciji je bila pozabiti kupiti plin za balone.
+--------------------------------------------------
+Example 38
+INPUT:    Sijajno, kripto naložba je bila vredna nič dan po nakupu.
+OUTPUT:   Moja kripto naložba ni bila donosna in sem izgubil denar.
+EXPECTED: Slab timing je bil nakup kriptovalute tik pred padcem.
+--------------------------------------------------
+Example 39
+INPUT:    Veličastno, varčevalni račun je imel nižje obresti od inflacije.
+OUTPUT:   Veličastno, varčevalni račun ni bil ugoden, saj so bile obresti nižje od inflacije.
+EXPECTED: Nesmiselno je varčevanje ko obresti ne dosegajo inflacije.
+--------------------------------------------------
+Example 40
+INPUT:    Bravo, zavarovalnica je spremenila pogoje med trajanjem police.
+OUTPUT:   Zavarovalnica je spremenila pogoje med trajanjem police, kar je presenetilo in moti stranke.
+EXPECTED: Neprimerno je spremeniti pogoje med veljavnostjo police.
+--------------------------------------------------
+Example 41
+INPUT:    Imenitno, klicni center banke me je prekinil sredi pritožbe.
+OUTPUT:   Klicni center banke me je prekinil sredi pritožbe, kar mi ni pomagalo.
+EXPECTED: Nespoštljivo je prekiniti stranko sredi podajanja pritožbe.
+--------------------------------------------------
+Example 42
+INPUT:    Neverjetno, uradni obrazec je bil spremenjen dan po oddaji.
+OUTPUT:   Obrazec je bil spremenjen kmalu po tem, ko sem ga oddal.
+EXPECTED: Frustrira me, ko spremenijo obrazec dan po oddaji.
+--------------------------------------------------
+Example 43
+INPUT:    Krasno, potrdilo ni bilo veljavno ker manjka en pečat.
+OUTPUT:   Potrdilo ni bilo veljavno, ker mu manjka eden od zahtevanih pečatov.
+EXPECTED: Nepotrebno je zavrniti potrdilo samo zaradi manjkajočega pečata.
+--------------------------------------------------
+Example 44
+INPUT:    Briljantno, položnica za vodo je bila napačno obračunana tri mesece.
+OUTPUT:   Napaka pri obračunavanju položnice za vodo je bila odkrita po treh mesecih.
+EXPECTED: Napaka v sistemu je bila napačna položnica tri mesece zapored.
+--------------------------------------------------
+Example 45
+INPUT:    Prvovrstno, davčna uprava je izgubila mojo vlogo.
+OUTPUT:   Davčna uprava je izgubila mojo vlogo, kar mi povzroča težave.
+EXPECTED: Neprimerno je, ko davčna uprava izgubi oddano vlogo.
+--------------------------------------------------
+Example 46
+INPUT:    Čudovito, najemodajalec je zamenjal ključavnico med mojo odsotnostjo.
+OUTPUT:   Najemodajalec je zamenjal ključavnico brez mojega predhodnega obvestila.
+EXPECTED: Nespoštljivo je zamenjati ključavnico brez soglasja najemnika.
+--------------------------------------------------
+Example 47
+INPUT:    Sijajno, stanovanje je imelo videz in ne vsebino.
+OUTPUT:   Stanovanje ima lep izgled, vendar mu primanjkuje funkcionalnosti in udobja.
+EXPECTED: Zavajujoče je stanovanje ki je dobro le na fotografijah.
+--------------------------------------------------
+Example 48
+INPUT:    Veličastno, hotel je poslal napačno potrdilo za moj let.
+OUTPUT:   Hotel je napravil napako pri posiljanju potrdila za moj let.
+EXPECTED: Napaka hotela je bila napačno potrdilo za datum leta.
+--------------------------------------------------
+Example 49
+INPUT:    Bravo, letalska karta je bila cenejša dan po potovanju.
+OUTPUT:   Letalska karta bi bila cenejša, če bi jo kupil prej.
+EXPECTED: Slab timing je bila nakup drage karte dan pred znižanjem.
+--------------------------------------------------
