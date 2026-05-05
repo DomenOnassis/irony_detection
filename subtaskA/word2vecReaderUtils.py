@@ -13,10 +13,8 @@ from __future__ import with_statement
 import logging
 logger = logging.getLogger('gensim.utils')
 
-try:
-    from html.entities import name2codepoint as n2cp
-except ImportError:
-    from htmlentitydefs import name2codepoint as n2cp
+from html.entities import name2codepoint as n2cp
+
 try:
     import cPickle as _pickle
 except ImportError:
@@ -41,7 +39,7 @@ import scipy.sparse
 if sys.version_info[0] >= 3:
     unicode = str
 
-from six import iteritems, u, string_types
+from six import iteritems, u, string_types, unichr
 from six.moves import xrange
 
 try:

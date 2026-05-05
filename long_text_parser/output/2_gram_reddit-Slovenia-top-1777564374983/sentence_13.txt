@@ -1,0 +1,10 @@
+" Goveja
+Goveja lestvica
+lestvica štirih
+štirih komadov
+komadov ",
+", ki
+ki se
+se predvajajo
+predvajajo povsod
+povsod .
