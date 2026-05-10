@@ -7,7 +7,7 @@ import re
 import joblib
 import numpy as np
 from ekphrasis.utils.nlp import polarity
-
+from slovene_pipeline.features import build_tfidf, build_w2v_mean, combine_features
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "slovene_pipeline"))
 
 LONG_TEXT_DIRECTORY = Path(__file__).resolve().parent / "output"
@@ -47,10 +47,11 @@ def load_classifier(model_path: Path):
     return bundle
 
 
-def classify_text(text: str, classifier) -> float:
-    features_array = np.asarray(extract_enhanced_features(text), dtype=float).reshape(1, -1)
-    probabilities = np.asarray(classifier.predict_proba(features_array))
-
+def classify_text(text: str, classifier, w2v_model=None, emoji_model=None) -> float:
+    w2v_feat = build_w2v_mean([text], w2v_model, emoji_model)[0]
+    enhanced_feat = np.array(extract_enhanced_features(text))
+    x = np.hstack([w2v_feat, enhanced_feat]).reshape(1, -1)
+    probabilities = classifier.predict_proba(x)
     return float(probabilities[0, 1])
 
 
