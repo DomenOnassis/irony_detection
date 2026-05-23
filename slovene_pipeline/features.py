@@ -7,7 +7,7 @@ from nltk.tokenize import TweetTokenizer
 from scipy import sparse
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-from word2vec_api import Word2VecAPI
+from .word2vec_api import Word2VecAPI
 
 
 def build_tfidf(
